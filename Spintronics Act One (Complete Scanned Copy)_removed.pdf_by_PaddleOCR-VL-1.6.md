@@ -1,8 +1,9 @@
-# ACT ONE
+# SPINTRONICS ACT ONE
+Initial markdown output from OCR and image capture by **[PaddleOCR-VL-1.6](https://aistudio.baidu.com/paddleocr)**
 
-Finally, the atomic clocks that harnessed vibrations in the Cesium atom to push time measurement to all new levels of accuracy.
+Manual text revisions, formatting changes, and image capture by @ABagram
 
-# Tutorial 1: The battery
+## Tutorial 1: The battery
 
 Spintronic circuits are powered by a **battery**. The battery pulls chains through circuits, just like electrical batteries pull electrons through wires.
 
@@ -29,7 +30,7 @@ RESISTANCE IS MEASURED IN "SPIN OHMS." THE HIGHER THE SPIN OHM VALUE OF A RESIST
 
 THE SYMBOL FOR A SPIN OHM IS "Ω"
 
-# Tutorial 2: Build a basic circuit
+## Tutorial 2: Build a basic circuit
 
 Let's build a basic circuit with a resistor and a battery. Before we can build a circuit with a resistor, we've got to make the workspace bigger.
 
@@ -64,7 +65,7 @@ Use the blue links to help you see the circuit's speed and direction.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/XPdaSSt.png" alt="Image" width="34%" /></div>
 
-# CHALLENGE 1: RESISTANCE
+## CHALLENGE 1: RESISTANCE
 BUILD THE STARTING SETUP AND TEST THE CIRCUIT. THEN MODIFY THE CIRCUIT TO MAKE IT RUN SLOWER.
 
 *Our first challenge! **How exciting!!***
@@ -85,7 +86,7 @@ BUILD THE STARTING SETUP AND TEST THE CIRCUIT. THEN MODIFY THE CIRCUIT TO MAKE I
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 2: ANOTHER SOLUTION
+## CHALLENGE 2: ANOTHER SOLUTION
 
 BUILD THE STARTING SETUP AND TEST THE CIRCUIT. THEN MODIFY THE CIRCUIT TO MAKE IT RUN SLOWER.
 
@@ -107,7 +108,7 @@ THIS TIME, SOLVE IT WITHOUT CONNECTING ANY MORE CHAINS TO R1.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-## CHALLENGE 3: ONE CHAIN, TWO RESISTORS
+### CHALLENGE 3: ONE CHAIN, TWO RESISTORS
 
 MAKE BOTH RESISTORS TURN CLOCKWISE. YOU HAVE ONLY ONE CHAIN LOOP THIS TIME.
 
@@ -127,7 +128,7 @@ COUNTERCLOCKWISE = ↺
 
 DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 4: CLOCKWISE AND COUNTERCLOCKWISE
+## CHALLENGE 4: CLOCKWISE AND COUNTERCLOCKWISE
 
 MAKE ONE RESISTOR TURN CLOCKWISE WHILE THE OTHER TURNS COUNTERCLOCKWISE.
 
@@ -150,7 +151,7 @@ COUNTERCLOCKWISE = ↺
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 5: COUNTERCLOCKWISE ONLY
+## CHALLENGE 5: COUNTERCLOCKWISE ONLY
 MAKE BOTH RESISTORS TURN COUNTERCLOCKWISE.
 
 #### STARTING SETUP
@@ -165,7 +166,7 @@ MAKE BOTH RESISTORS TURN COUNTERCLOCKWISE.
 
 #### DIFFICULTY: ★★☆☆☆
 
-# Tutorial 3: Circuits
+## Tutorial 3: Circuits
 
 Electronic circuits are always made of loops. A power station doesn't **make** electrons and send them to a house through wires, it simply pushes and pulls the electrons that are already in the wires.
 
@@ -190,7 +191,7 @@ A SWITCH IS LIKE A MASSIVE RESISTOR THAT YOU CAN TOGGLE ON AND OFF.
 
 WHEN THE SWITCH IS ON (PUSHED DOWN), IT HAS NO RESISTANCE. WHEN THE SWITCH IS OFF (UP), IT HAS SUCH A HIGH RESISTANCE THAT YOU CAN'T EVEN TURN IT.
 
-# CHALLENGE 6: THE SWITCH
+## CHALLENGE 6: THE SWITCH
 
 MAKE THE RESISTOR (R1) TURN ON AND OFF WITH A SWITCH.
 
@@ -202,7 +203,7 @@ MAKE THE RESISTOR (R1) TURN ON AND OFF WITH A SWITCH.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 7: A SWITCH IN THE LOOP
+## CHALLENGE 7: A SWITCH IN THE LOOP
 
 TURN THE RESISTOR (R1) ON AND OFF WITH A SWITCH.
 
@@ -214,7 +215,7 @@ TURN THE RESISTOR (R1) ON AND OFF WITH A SWITCH.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# Tutorial 4: Chain Tension
+## Tutorial 4: Chain Tension
 
 Spintronic circuits are "analog." What does that mean? Well, things that are analog are **continuous**. For example, take these graphs:
 
@@ -243,7 +244,7 @@ Second, slide one switch just a tiny bit **toward** the other so that the chain 
 
 When chains are tight, they add a lot of resistance. Make sure you leave **<u>just a little bit of slack</u>** when you connect parts together.
 
-# CHALLENGE 8: THE "AND" GATE
+## CHALLENGE 8: THE "AND" GATE
 BUILD A CIRCUIT THAT TURNS THE RESISTOR ONLY WHEN BOTH SWITCHES S1 AND S2 ARE ON.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/GVxUFDN.png" alt="Image" width="48%" /></div>
@@ -259,7 +260,7 @@ BUILD A CIRCUIT THAT TURNS THE RESISTOR ONLY WHEN BOTH SWITCHES S1 AND S2 ARE ON
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# Tutorial 5: Current
+## Tutorial 5: Current
 
 How fast does electricity flow through wires? Incredibly fast, right?! NOPE! Electrons move more like the chains in spintronics.
 
@@ -285,7 +286,7 @@ THE AMMETER INDICATES THE AMOUNT OF CURRENT RUNNING THROUGH IT BY THE VOLUME AND
 
 IT'S MOST USEFUL WITH HIGHER CURRENTS THAT YOU CAN'T EASILY SEE WITH YOUR EYES.
 
-# CHALLENGE 9: MAKE SOME NOISE
+## CHALLENGE 9: MAKE SOME NOISE
 
 MAKE THE AMMETER A1 TURN.
 
@@ -300,7 +301,7 @@ NOTE: THE AMMETER HAS VERY LITTLE RESISTANCE, SO MAKE SURE YOU USE A RESISTOR TO
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 10: SOUND SWITCH
+## CHALLENGE 10: SOUND SWITCH
 BUILD A CIRCUIT THAT TURNS THE AMMETER A1 ON AND OFF WITH A SWITCH.
 
 #### STARTING SETUP
@@ -313,7 +314,7 @@ BUILD A CIRCUIT THAT TURNS THE AMMETER A1 ON AND OFF WITH A SWITCH.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 11: LOW PITCH
+## CHALLENGE 11: LOW PITCH
 MAKE THE AMMETER A1 PRODUCE A LOWER-PITCHED SOUND THAN THE SOUND PRODUCED IN THE LAST CHALLENGE. (USE ONLY ONE OF THE TWO AVAILABLE RESISTORS.)
 
 *Hmm... Which resistor should I choose to make a **lower** pitch?*
@@ -328,7 +329,7 @@ MAKE THE AMMETER A1 PRODUCE A LOWER-PITCHED SOUND THAN THE SOUND PRODUCED IN THE
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 12: LOWEST PITCH
+## CHALLENGE 12: LOWEST PITCH
 MAKE THE AMMETER A1 PRODUCE THE LOWEST-PITCHED SOUND POSSIBLE WITH THE AVAILABLE PARTS.
 
 NOTE: WHEN YOU SEE THE Ⓢ STAMP HERE, IT MEANS THAT YOU MUST CHECK YOUR SOLUTION IN THE BACK OF THE PUZZLE BOOK.
@@ -350,7 +351,7 @@ NOTE: WHEN YOU SEE THE Ⓢ STAMP HERE, IT MEANS THAT YOU MUST CHECK YOUR SOLUTIO
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# Tutorial 6: Circuit Diagrams
+## Tutorial 6: Circuit Diagrams
 
 Ugh. I need a better way to draw these spintronic circuits. It's too much work to draw pictures of all the sprockets and chain.
 
@@ -376,7 +377,7 @@ They're all the same circuit! In each case, the resistors and battery are direct
 
 It doesn't matter what order you draw the parts in the diagram, they just have to be in the same loop.
 
-# CHALLENGE 13: FIRST CIRCUIT DIAGRAM
+## CHALLENGE 13: FIRST CIRCUIT DIAGRAM
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/fFBDGb6.png" alt="Image" width="40%" /></div>
@@ -399,7 +400,7 @@ NOTE: REMEMBER TO CHECK YOUR SOLUTION IN THE BACK OF THE BOOK WHEN YOU SEE THIS 
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 14: EQUIVALENT CIRCUITS
+## CHALLENGE 14: EQUIVALENT CIRCUITS
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/GihaiTD.png" alt="Image" width="40%" /></div>
@@ -417,7 +418,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# Tutorial 7: Circuit Diagrams 2
+## Tutorial 7: Circuit Diagrams 2
 
 Not too bad, right? So far, all of our circuits have just been one big loop.
 
@@ -427,7 +428,7 @@ Now usually people don't draw the whole loop in circuit diagrams - they leave ou
 
 The <img src="https://i.imgur.com/Y7rqfDY.png" width="3%"> symbol represents the '+' side of the battery and the <img src="https://i.imgur.com/3f9GGdw.png" width="3%"> symbol represents "ground." Ground is usually the place where chain returns to the battery at the '-' side.
 
-# CHALLENGE 15: SIMPLIFIED CIRCUIT DIAGRAM
+## CHALLENGE 15: SIMPLIFIED CIRCUIT DIAGRAM
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/nEigLpl.png" alt="Image" width="50%" /></div>
@@ -445,7 +446,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 16: CROSSOVER
+## CHALLENGE 16: CROSSOVER
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/0oU0lDh.png" alt="Image" width="50%" /></div>
@@ -466,7 +467,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# Tutorial 8: Series circuits
+## Tutorial 8: Series circuits
 
 Did you notice that in all the challenges you've solved so far, your circuits were all just a single loop? We call circuits like these "**series circuits**" because they are a series of parts connected one after the other (when you draw them in a circuit diagram).
 
@@ -491,7 +492,7 @@ THE JUNCTION ALLOWS CURRENT IN ONE LOOP TO SPLIT INTO TWO LOOPS.
 
 THIS IS JUST LIKE AN ELECTRONIC JUNCTION, WHERE ONE WIRE SPLITS INTO TWO. IT'S AN EXTREMELY USEFUL PART, BUT VERY DIFFICULT TO MASTER.
 
-# Tutorial 9: Spintronic junctions
+## Tutorial 9: Spintronic junctions
 
 Spintronic junctions allow current in one loop to split into two loops. Think of it like a junction between three pipes:
 
@@ -503,7 +504,7 @@ It's the same with a spintronic junction.
 
 You can push current into **any** of the three sprockets and it will split between the other two. Junctions are mind-bending, but they make it possible to build just about any electronic circuit.
 
-# CHALLENGE 17: FIX THE SHORT CIRCUIT
+## CHALLENGE 17: FIX THE SHORT CIRCUIT
 Fix the short.
 
 NOTE: WATCH OUT FOR SHORTS WHEN YOU USE JUNCTIONS. It's EASY TO ACCIDENTALLY MAKE THEM.
@@ -521,7 +522,7 @@ The number of little gray dots on the chains show the sprocket they're meant to 
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 18: PLUGGING HOLES
+## CHALLENGE 18: PLUGGING HOLES
 FIX ALL THE SHORTS. (IT DOESN'T MATTER WHICH RESISTOR YOU ADD WHERE; JUST FIX THE SHORTS.)
 
 **EXTRA CREDIT:** FIX ALL THE SHORTS USING ONLY **ONE** RESISTOR.
@@ -538,7 +539,7 @@ FIX ALL THE SHORTS. (IT DOESN'T MATTER WHICH RESISTOR YOU ADD WHERE; JUST FIX TH
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 19: THE "OR" GATE
+## CHALLENGE 19: THE "OR" GATE
 THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 (OR BOTH) ARE ON.
 
 <div align="center">
@@ -591,7 +592,7 @@ THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 (OR BOTH) ARE ON.
 
 #### DIFFICULTY: ★★★☆☆
 
-# Tutorial 10: Parallel circuits
+## Tutorial 10: Parallel circuits
 
 Are you starting to get the hang of junctions? Before junctions, everything was connected in **series**: If one part turns, the other parts turn. But when you put a junction between parts, they are connected in "**parallel**": turning one part doesn't necessarily make other parts turn.
 
@@ -603,7 +604,7 @@ It's called "parallel" because the junction splits the current between two circu
 
 **Try it!** Build each circuit. If you stop one resistor with your fingers, what happens to the other resistor?
 
-# CHALLENGE 20: WHERE IS THE HIGHEST CURRENT?
+## CHALLENGE 20: WHERE IS THE HIGHEST CURRENT?
 
 BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER AT THE LOCATION WITH THE HIGHEST CURRENT (THAT IS, THE PLACE THAT MAKES IT PRODUCE THE HIGHEST PITCH POSSIBLE).
 
@@ -619,7 +620,7 @@ BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER AT THE LOCATION WITH THE HIGHEST C
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 21: WHERE IS THE LOWEST CURRENT?
+## CHALLENGE 21: WHERE IS THE LOWEST CURRENT?
 
 BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER IN A WAY THAT MAKES IT PRODUCE THE **LOWEST** PITCH POSSIBLE.
 
@@ -634,7 +635,7 @@ BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER IN A WAY THAT MAKES IT PRODUCE THE
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 22: RESISTORS IN PARALLEL
+## CHALLENGE 22: RESISTORS IN PARALLEL
 
 BUILD THE STARTING SETUP AND LISTEN TO THE PITCH PRODUCED BY THE AMMETER. THEN MODIFY THE CIRCUIT TO MAKE IT PRODUCE A SLIGHTLY **HIGHER** PITCH.
 
@@ -653,7 +654,7 @@ BUILD THE STARTING SETUP AND LISTEN TO THE PITCH PRODUCED BY THE AMMETER. THEN M
 
 #### DIFFICULTY: ★★★☆☆
 
-# CHALLENGE 23: PITCH SWITCH
+## CHALLENGE 23: PITCH SWITCH
 WHEN S1 IS ON, A1 MUST MAKE A HIGHER PITCH SOUND THAN WHEN S1 IS OFF.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/syWyPxp.png" alt="Image" width="50%" /></div>
@@ -672,7 +673,7 @@ WHEN S1 IS ON, A1 MUST MAKE A HIGHER PITCH SOUND THAN WHEN S1 IS OFF.
 
 #### DIFFICULTY: ★★★☆☆
 
-# CHALLENGE 24: CHANGING LEVELS
+## CHALLENGE 24: CHANGING LEVELS
 COMPLETE THE CIRCUIT BY CONNECTING JUNCTION J1 TO JUNCTION J2.
 
 **NOTE:** THE SWITCH SHOULD ALWAYS STAY IN THE ON POSITION IN THIS CIRCUIT.
@@ -689,7 +690,7 @@ COMPLETE THE CIRCUIT BY CONNECTING JUNCTION J1 TO JUNCTION J2.
 
 #### DIFFICULTY: ★★☆☆☆
 
-# Tutorial 11: Parallel Circuit Diagrams
+## Tutorial 11: Parallel Circuit Diagrams
 
 We've been using junctions to build a lot of parallel circuits, but how do we draw them in a circuit diagram? Here's the most basic parallel circuit...
 
@@ -704,7 +705,7 @@ So how would a simplified circuit diagram of that same circuit look? Like this..
 
 As before, we can skip drawing the part where the paths connect back to the negative side of the battery. Let's try some more...
 
-# CHALLENGE 25: PARALLEL AND SERIES TOGETHER
+## CHALLENGE 25: PARALLEL AND SERIES TOGETHER
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//71cebae2-5ba8-4b24-849c-e1668b2d6686/markdown_3/imgs/img_in_image_box_213_234_383_523.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A34Z%2F-1%2F%2F01a760f34ddff8abab1b4c608fa409f55818d8ab871b33a4a2404c15cb25a3c0" alt="Image" width="24%" /></div>
@@ -727,7 +728,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 26: DOUBLE SPLIT
+## CHALLENGE 26: DOUBLE SPLIT
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/S2QI5l6.png" alt="Image" width="40%" /></div>
@@ -751,7 +752,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 27: PARALLEL AND SERIES 2
+## CHALLENGE 27: PARALLEL AND SERIES 2
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/AhV9NDV.png" alt="Image" width="35%" /></div>
@@ -770,7 +771,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 28: PARALLEL AND SERIES 3
+## CHALLENGE 28: PARALLEL AND SERIES 3
 
 BUILD THE FOLLOWING CIRCUIT:
 
@@ -785,7 +786,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★★☆☆
 
-# CHALLENGE 29: PARALLEL AND SERIES 4
+## CHALLENGE 29: PARALLEL AND SERIES 4
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/SkhC9ot.png" alt="Image" width="45%" /></div>
@@ -806,7 +807,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★★☆☆
 
-# CHALLENGE 30: PARALLEL AND SERIES 5
+## CHALLENGE 30: PARALLEL AND SERIES 5
 BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/VwsNYDs.png" alt="Image" width="43%" /></div>
@@ -838,7 +839,7 @@ A CAPACITOR STORES ENERGY. TURN IT TO STORE ENERGY, THEN RELEASE IT.
 
 CAPACITANCE IS MEASURED IN "SPIN FARADS." THE SYMBOL FOR SPIN FARAD IS 'F'.
 
-# CHALLENGE 31: CHARGE THE CAPACITOR
+## CHALLENGE 31: CHARGE THE CAPACITOR
 
 MAKE THE BATTERY CHARGE THE CAPACITOR.
 
@@ -854,7 +855,7 @@ MAKE THE BATTERY CHARGE THE CAPACITOR.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 32: PUSH TO CHARGE
+## CHALLENGE 32: PUSH TO CHARGE
 BUILD A CIRCUIT THAT CHARGES THE CAPACITOR WHEN THE SWITCH IS TURNED ON. IT SHOULD STAY CHARGED WHEN THE SWITCH IS TURNED BACK OFF
 
 <div style="text-align: center;"><img src="https://i.imgur.com/sH3ZCAK.png" alt="Image" width="50%" /></div>
@@ -874,7 +875,7 @@ BUILD A CIRCUIT THAT CHARGES THE CAPACITOR WHEN THE SWITCH IS TURNED ON. IT SHOU
 
 #### DIFFICULTY: ★☆☆☆☆
 
-# CHALLENGE 33: SLOW CHART
+## CHALLENGE 33: SLOW CHART
 
 BUILD A CIRCUIT THAT CHARGES THE CAPACITOR AT A SLOWER RATE THAN THE LAST CHALLENGE.
 
@@ -892,7 +893,7 @@ BUILD A CIRCUIT THAT CHARGES THE CAPACITOR AT A SLOWER RATE THAN THE LAST CHALLE
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 34: CHIRP
+## CHALLENGE 34: CHIRP
 BUILD A CIRCUIT THAT MAKES A SHORT SOUND WHEN S1 IS TURNED ON FOR THE FIRST TIME.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/qAvFyLi.png" alt="Image" width="50%" /></div>
@@ -907,7 +908,7 @@ BUILD A CIRCUIT THAT MAKES A SHORT SOUND WHEN S1 IS TURNED ON FOR THE FIRST TIME
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 35: CHARGE AND DISCHARGE - PART 1
+## CHALLENGE 35: CHARGE AND DISCHARGE - PART 1
 
 BUILD A CIRCUIT WHERE S1 CHARGES C1 AND S2 DISCHARGES C1.
 
@@ -925,7 +926,7 @@ BUILD A CIRCUIT WHERE S1 CHARGES C1 AND S2 DISCHARGES C1.
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 36: CHARGE AND DISCHARGE - PART 2
+## CHALLENGE 36: CHARGE AND DISCHARGE - PART 2
 MAKE THE CAPACITOR CHARGE **AND** DISCHARGE SLOWER.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/VuR9Xgl.png" alt="Image" width="50%" /></div>
@@ -940,7 +941,7 @@ MAKE THE CAPACITOR CHARGE **AND** DISCHARGE SLOWER.
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 37: CHARGE AND DISCHARGE - PART 3
+## CHALLENGE 37: CHARGE AND DISCHARGE - PART 3
 MAKE THE CIRCUIT SAFE, SO THAT THERE ISN'T A SHORT WHEN S1 AND S2 ARE PRESSED AT THE SAME TIME.
 
 #### STARTING SETUP
@@ -954,7 +955,7 @@ MAKE THE CIRCUIT SAFE, SO THAT THERE ISN'T A SHORT WHEN S1 AND S2 ARE PRESSED AT
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 38: CHARGE AND DISCHARGE - PART 4
+## CHALLENGE 38: CHARGE AND DISCHARGE - PART 4
 MAKE THE CIRCUIT MAKE NOISE EVERY TIME C1 IS CHARGED OR DISCHARGED.
 
 #### STARTING SETUP
@@ -967,7 +968,7 @@ MAKE THE CIRCUIT MAKE NOISE EVERY TIME C1 IS CHARGED OR DISCHARGED.
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 39: AUTOMATIC DISCHARGE
+## CHALLENGE 39: AUTOMATIC DISCHARGE
 THE CAPACITOR (C1) MUST CHARGE WHILE THE SWITCH (S1) IS ON AND MUST DISCHARGE WHEN S1 IS OFF.
 
 <div style="text-align: center;"><img src="https://i.imgur.com/0oYtGuL.png" alt="Image" width="50%" /></div>
@@ -990,58 +991,49 @@ THE CAPACITOR (C1) MUST CHARGE WHILE THE SWITCH (S1) IS ON AND MUST DISCHARGE WH
 
 #### DIFFICULTY: ★★★☆☆
 
+## CHALLENGE 40: SLOW RISE, SLOW FALL
 BUILD A CIRCUIT THAT BEHAVES IN THE FOLLOWING WAY:
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//424d27fb-5674-47af-9ce4-1d688d8e0a85/markdown_3/imgs/img_in_image_box_271_239_587_406.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A39Z%2F-1%2F%2F6d59fc696c29686034215c4dcf509b844bc9d078b748614d214613aff10e385a" alt="Image" width="25%" /></div>
+<div style="text-align: center;"><img src="https://i.imgur.com/xVHtgfA.png" alt="Image" width="50%" /></div>
 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//424d27fb-5674-47af-9ce4-1d688d8e0a85/markdown_3/imgs/img_in_image_box_602_0_1224_657.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A39Z%2F-1%2F%2F0da02e3a144e5380643cba78ffdbf48d74457fd31b779d499c223906f345d25b" alt="Image" width="50%" /></div>
-
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//424d27fb-5674-47af-9ce4-1d688d8e0a85/markdown_3/imgs/img_in_image_box_239_835_713_1556.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A39Z%2F-1%2F%2Fd9d234d3df4c9c962b8c36f030276e38dba982b3ad5791a4057b01e7aa6d7684" alt="Image" width="38%" /></div>
 
 
 #### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 5 \times Chain
+- 1 \times 200 Ohm
+- 1 \times Capacitor (0.001 F)
+- 1 \times Switch
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
+## CHALLENGE 41: CAPACITOR BACKUP
 BUILD A CIRCUIT THAT CONTINUES TURNING A1 EVEN WHEN THE POWER IS SHUT OFF FOR A SHORT WHILE BY S1.
 
-I need the power to keep running even when the battery power goes out for a little while. This ought to help.
+<div style="text-align: center;"><img src="https://i.imgur.com/KpSdG60.png" alt="Image" width="50%" /></div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_0/imgs/img_in_chart_box_294_274_599_435.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2Ff976a67a07fe806284092b283a69b32c89ae8877650b7660227b2a1ded0d44f0" alt="Image" width="24%" /></div>
+*I need the power to **keep running** even when the battery power **goes out** for a little while. This ought to help.*
 
+#### STARTING SETUP
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_0/imgs/img_in_image_box_1_452_628_657.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2Fe646be978fb21f6cd2dd33a9f318799f905a691c63fa712b1d1263fa066cabd6" alt="Image" width="51%" /></div>
-
-
-STARTING SETUP
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_0/imgs/img_in_image_box_3_956_717_1561.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2Fff76d78a28edab481652c78079356a020811187365edd65b4281da7eb63c3915" alt="Image" width="58%" /></div>
-
+<div style="text-align: center;"><img src="https://i.imgur.com/UsqOu7D.png" alt="Image" width="58%" /></div>
 
 #### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_0/imgs/img_in_image_box_782_1318_1080_1352.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2Ffd85cfb1e5767cdd24017003105446b6c46a464f847905b313b1171ebe010962" alt="Image" width="24%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-# Tutorial 12: Voltage
+## Tutorial 12: Voltage
 
 Voltage is a measure of how hard the chain pulls on a part in the circuit. Voltage is measured in "spin volts", or "V". Spintronic capacitors can be used to measure the voltage. In the picture below, a sprocket pushes on the capacitor with +6 V.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_1/imgs/img_in_image_box_337_442_559_604.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F89e51f585234c504311fdbf53b3d5be3ffdcfee8404ce5dec438aaaf1dd12d48" alt="Image" width="18%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_1/imgs/img_in_image_box_640_440_816_606.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F0b3750136f8ebdf098058124e77c81fde74347ed72ff915faf84078754bf184f" alt="Image" width="14%" /></div>
-
+<div style="text-align: center;"><img src="https://i.imgur.com/i67pD3d.png" alt="Image" width="47%" /></div>
 
 And here, the sprocket doesn't push at all. The spintronic capacitor shows 0 V.
 
@@ -1052,38 +1044,31 @@ When parts are pushed in a counterclockwise direction, they feel a negative volt
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_1/imgs/img_in_image_box_333_1026_818_1194.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fc3085161a35ab3d460dccd96e58ace97ae16a343cb59d1349a58d093e279c94a" alt="Image" width="39%" /></div>
 
-
 In the next challenges, voltage and current are extremely important. To truly understand a circuit, you need to understand how voltage and current at each point in a circuit change over time.
 
-#### CHALLENGE 42: MEASURE THE BATTERY'S VOLTAGE
+*One spin volit is equal to 0.1 newtons.
 
-MEASURE THE VOLTAGE PRODUCED BY THE BATTERY.
+## CHALLENGE 42: MEASURE THE BATTERY'S VOLTAGE
 
-USE A RESISTOR TO KEEP IT FROM OVERSHOOTING THE
+MEASURE THE VOLTAGE PRODUCED BY THE BATTERY. USE A RESISTOR TO KEEP IT FROM OVERSHOOTING THE TRUE VOLTAGE.
 
-TRUE VOLTAGE.
+*Hmm...sometimes the capacitor **gets a little stuck** and doesn't show an **accurate voltage**.*
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_2/imgs/img_in_image_box_601_1_1157_297.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F5c2c63934f530798d9b088aa286a083fb8651797f45aed49b9d2a6fc19482a84" alt="Image" width="45%" /></div>
+*Aha! To get the capacitor to show an accurate voltage, give it a little ***tap* *tap* *tap*** on top with your finger until it doesn't move anymore.*
 
-
-Hmm...sometimes the capacitor gets a little stuck and doesn't show an accurate voltage.
-
-Aha! To get the capacitor to show an accurate voltage, give it a little *tap* *tap* *tap* on top with your finger until it doesn't move anymore.
-
-STARTING SETUP
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_2/imgs/img_in_image_box_208_940_547_1538.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fd64e202ecc4581b26e0ab29f785d2d5b85daec2c23d33ba90fbacfccd6cc4928" alt="Image" width="27%" /></div>
 
-
 #### AVAILABLE PARTS
 
+- 1 \times 200 Ohm
+- 1 \times Chain
+- 1 \times Capacitor (0.001 F)
 
+#### DIFFICULTY: ★☆☆☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_2/imgs/img_in_image_box_761_1326_1061_1362.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fde38fd50789ea9b3aefc961daf396e585a6c84510af6c7e8a231ae466ff1aa02" alt="Image" width="24%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
+## CHALLENGE 43: NEGATIVE VOLTAGE
 THE BATTERY'S VOLTAGE SHOULD HAVE BEEN ROUGHLY +6 V. NOW BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS THE CAPACITOR C1 TO ROUGHLY -6 V.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_3/imgs/img_in_image_box_628_0_1159_658.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F09b7920f1397b58ec637ec4a5db7dfb5b9d9e13908638e36694141d887f410ca" alt="Image" width="43%" /></div>
@@ -1100,7 +1085,7 @@ STARTING SETUP
 
 DIFFICULTY: ⭐
 
-# Tutorial 13: Voltage at Junctions
+## Tutorial 13: Voltage at Junctions
 
 I'm getting even more comfortable with junctions, especially now that I figured out this little fact: The voltages on the three sprockets of a junction are always equal. Always!
 
@@ -1142,7 +1127,7 @@ always the same, but the current may be different.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_1/imgs/img_in_image_box_699_195_1003_592.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F1e58c890a333835c3677f9e6efcabae0bc7ad91ce92282cbb8122463a042867e" alt="Image" width="24%" /></div>
 
 
-#### CHALLENGE 44: IS THE BATTERY VOLTAGE CONSTANT?
+##### CHALLENGE 44: IS THE BATTERY VOLTAGE CONSTANT?
 
 IN THE CIRCUIT BELOW, THE BATTERY SLOWLY DISCHARGES INTO R1. DOES THE BATTERY'S VOLTAGE GET WEAKER AS IT DISCHARGES? MODIFY THE CIRCUIT SO THAT YOU CAN MEASURE THE BATTERY'S VOLTAGE THE WHOLE TIME IT DISCHARGES.
 
@@ -1165,7 +1150,7 @@ Remember that parts in blue can be removed and placed in a new location.
 
 DIFFICULTY:
 
-# Tutorial 14: Voltage in Series Circuits
+## Tutorial 14: Voltage in Series Circuits
 
 We already know that in a parallel circuit, the branches all feel the same voltage, but can have different current running though them.
 
@@ -1178,7 +1163,7 @@ The current through R1 is exactly the same as the current through R2. "How can t
 
 You can think about it another way. R2 is larger, so it takes more voltage to get it turning the same speed as R1.
 
-#### CHALLENGE 45: VOLTAGE DIVIDER (2  $ \nabla $)
+##### CHALLENGE 45: VOLTAGE DIVIDER (2  $ \nabla $)
 
 BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 2 ∇. (BETWEEN 2.0 ∇ AND 3.0 ∇ IS ACCEPTABLE.)
 
@@ -1226,7 +1211,7 @@ Hmm...I get a more accurate voltage when I leave just a little slack in the chai
 
 DIFFICULTY: ⭐⭐
 
-# Tutorial 15: Kirchoff's Law
+## Tutorial 15: Kirchoff's Law
 
 This is one of those things that's obvious once you understand it, but is hard figure it out on your own. Ready? Here it is: In any circuit loop, the sum of all the voltages is zero.
 
@@ -1350,7 +1335,7 @@ NOTE: THIS CHALLENGE IS HARD. FEEL FREE TO SKIP IT AND COME BACK AGAIN LATER.
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
 
-# Tutorial 16: Junction Spin Direction
+## Tutorial 16: Junction Spin Direction
 
 In the remaining puzzles, we're going to explore some unique
 
@@ -1391,7 +1376,7 @@ sprocket in the same direction and the top sprocket in the same
 
 direction.
 
-# CHALLENGE 52: JUNCTION SPIN DIRECTION
+## CHALLENGE 52: JUNCTION SPIN DIRECTION
 
 R1 MUST TURN COUNTERCLOCKWISE AND R2 MUST TURN CLOCKWISE.
 
@@ -1438,7 +1423,7 @@ STARTING SETUP
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-# Tutorial 17: Junction Dot Diagrams
+## Tutorial 17: Junction Dot Diagrams
 
 
 Now trace the branch to the left.
@@ -1495,7 +1480,7 @@ AVAILABLE PARTS
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-# CHALLENGE 56: JUNCTION DOT DIAGRAMS 2
+## CHALLENGE 56: JUNCTION DOT DIAGRAMS 2
 
 BUILD THE FOLLOWING CIRCUIT:
 
@@ -1529,7 +1514,7 @@ R2 = 500 Ω
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-# Tutorial 18: Spintronic Coupling
+## Tutorial 18: Spintronic Coupling
 
 Most spintronic parts have three sprockets that are joined together. Take the resistor, for instance. All three sprockets are joined, so that if one moves, the other two also move. We say that chains attached to joined sprockets are "coupled" together.
 
@@ -1755,7 +1740,7 @@ This section contains solutions for selected puzzles. Hints and solutions for al
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//2c4ee135-a260-495a-a8d3-2ec17debb2a1/markdown_0/imgs/img_in_image_box_50_902_456_1408.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F1c9d6883c31066aae450d493b2cb5b1b8fa32a7df96f1d46e6e4fa193dba0408" alt="Image" width="34%" /></div>
 
 
-##### CHALLENGE 13
+###### CHALLENGE 13
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//2c4ee135-a260-495a-a8d3-2ec17debb2a1/markdown_0/imgs/img_in_image_box_648_939_952_1438.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F43b1041d1cac6c5270823656087c36d86eec2768847729bc58eccb6ba926ca88" alt="Image" width="25%" /></div>
 
@@ -1856,5 +1841,3 @@ CHALLENGE 61
 
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//bdcf9de6-f841-4862-a741-a85c785ad6f5/markdown_3/imgs/img_in_image_box_671_835_1190_1574.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A34Z%2F-1%2F%2F01eb65796d90308ac531d263f2223df49f69496d994d99f90318968e7f7cfc16" alt="Image" width="43%" /></div>
-
-
