@@ -1,7 +1,7 @@
 # SPINTRONICS ACT ONE
 Initial markdown output from OCR and image capture by **[PaddleOCR-VL-1.6](https://aistudio.baidu.com/paddleocr)**
 
-Manual text revisions, formatting changes, and image capture by @ABagram
+Manual text revisions, formatting changes, and image removal or replacement captures by @ABagram
 
 ## Tutorial 1: The battery
 
@@ -1071,30 +1071,25 @@ MEASURE THE VOLTAGE PRODUCED BY THE BATTERY. USE A RESISTOR TO KEEP IT FROM OVER
 ## CHALLENGE 43: NEGATIVE VOLTAGE
 THE BATTERY'S VOLTAGE SHOULD HAVE BEEN ROUGHLY +6 V. NOW BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS THE CAPACITOR C1 TO ROUGHLY -6 V.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_3/imgs/img_in_image_box_628_0_1159_658.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F09b7920f1397b58ec637ec4a5db7dfb5b9d9e13908638e36694141d887f410ca" alt="Image" width="43%" /></div>
-
-
-STARTING SETUP
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_3/imgs/img_in_image_box_236_929_616_1539.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2Fff6931c3f5d8cb7990fcb2b486af8a774a47e74e08b3772da9e83095bf9fffaf" alt="Image" width="31%" /></div>
 
 #### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 1 \times Chain
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4e2ca0ba-c8a5-4bbd-bb8f-6c9815271f93/markdown_3/imgs/img_in_image_box_787_1328_1085_1360.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2Fec8dd3797e63f25c72f094048e1f5519245136f3eb825a7b998e360f976b2910" alt="Image" width="24%" /></div>
-
-
-DIFFICULTY: ⭐
+#### DIFFICULTY: ★★☆☆☆
 
 ## Tutorial 13: Voltage at Junctions
 
-I'm getting even more comfortable with junctions, especially now that I figured out this little fact: The voltages on the three sprockets of a junction are always equal. Always!
+I'm getting even more comfortable with junctions, especially now that I figured out this little fact: **The voltages on the three sprockets of a junction are always equal.** Always!
 
 Start by building this parallel circuit:
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_0/imgs/img_in_image_box_729_378_1039_765.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2F9543ec647b0c4116c7ee87e11b3cb92460acde8f239c55c96fa5cbb967cce3b3" alt="Image" width="25%" /></div>
 
-
-The voltage pushing the bottom sprocket is 6 ∇ (from the battery). What is the voltage pushing the other two sprockets? Replace each resistor with the voltmeter to find out.
+The voltage pushing the bottom sprocket is 6 V (from the battery). **What is the voltage pushing the other two sprockets?** Replace each resistor with the voltmeter to find out.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_0/imgs/img_in_image_box_277_964_556_1315.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2Fa29682f68fbc054231884c23eeac7c4fd35d6514f58ed561b0134bf7bedd79de" alt="Image" width="22%" /></div>
 
@@ -1104,98 +1099,74 @@ The voltage pushing the bottom sprocket is 6 ∇ (from the battery). What is the
 
 What do you measure? 6 V, right? It's always the same no matter what. The three sprockets of a junction always push with the same voltage!
 
-Wait a second, if the voltage is the same,
-
-why does the 500  $ \bar{\Omega} $ resistor turn twice
-
-as fast as the 1000  $ \bar{\Omega} $ resistor?
-
-Oh yeah! It's because voltage is just the
-
-amount of force pushing on the sprockets,
-
-not how fast they're actually turning. The
-
-voltage on each resistor is the same, but
-
-the resistors turn at different speeds.
-
-At a junction, the voltage on each of the three sprockets is
-
-always the same, but the current may be different.
+Wait a second, if the voltage is the same, why does the 500 Ohm resistor turn **twice as fast** as the 1000 Ohm resistor?
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_1/imgs/img_in_image_box_699_195_1003_592.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F1e58c890a333835c3677f9e6efcabae0bc7ad91ce92282cbb8122463a042867e" alt="Image" width="24%" /></div>
 
+Oh yeah! It's because **voltage** is just the amount of **force** pushing on the sprockets, not how fast they're actually turning. The voltage on each resistor is the same, but the resistors turn at different speeds.
 
-##### CHALLENGE 44: IS THE BATTERY VOLTAGE CONSTANT?
+**At a junction, the voltage on each of the three sprockets is always the same, but the current may be different.**
+
+## CHALLENGE 44: IS THE BATTERY VOLTAGE CONSTANT?
 
 IN THE CIRCUIT BELOW, THE BATTERY SLOWLY DISCHARGES INTO R1. DOES THE BATTERY'S VOLTAGE GET WEAKER AS IT DISCHARGES? MODIFY THE CIRCUIT SO THAT YOU CAN MEASURE THE BATTERY'S VOLTAGE THE WHOLE TIME IT DISCHARGES.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_2/imgs/img_in_image_box_619_0_1200_649.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F3d25f3d20f45f33c81520a8cf4f114896c34b6713dadd4ee7ea86f0c09b519a3" alt="Image" width="47%" /></div>
-
-
-STARTING SETUP
-
-R1 = 500  $ \pi $
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_2/imgs/img_in_image_box_138_899_725_1516.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Ffed0e2b9e3df4160e2b47cb0dd58f5e8bc983131b67b07d7f13cd516fb9a0c8b" alt="Image" width="47%" /></div>
 
-
-Remember that parts in blue can be removed and placed in a new location.
-
 #### AVAILABLE PARTS
+- 2 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_2/imgs/img_in_image_box_790_1299_1100_1332.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fc1780903603d7819b3e19e84c90d60027d3d058217ffebbbc8d0106459bfdf32" alt="Image" width="25%" /></div>
-
-DIFFICULTY:
+#### DIFFICULTY: ★★☆☆☆
 
 ## Tutorial 14: Voltage in Series Circuits
 
 We already know that in a parallel circuit, the branches all feel the same voltage, but can have different current running though them.
 
-In a series circuit, it's the opposite! All the parts have the same current, but each part feels a different voltage. For instance, take a look at this circuit - theries a small resistor (200 Ω) and a large resistor (1000 Ω) in series.
+In a series circuit, it's the opposite! **All the parts have the same current, but each part feels a different voltage.** For instance, take a look at this circuit - theries a small resistor (200 Ω) and a large resistor (1000 Ω) in series.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//89752177-4ead-46d8-b2ca-5f97ab47c47c/markdown_3/imgs/img_in_image_box_236_610_737_964.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F7257a04468ad850ad5906a85328c6d5e5a52a31ad338eb5213e413158da69d44" alt="Image" width="40%" /></div>
 
 
-The current through R1 is exactly the same as the current through R2. "How can that be?" you say. "R2 is a lot harder to turn than R1!" That's true! It works because R2 feels more of the battery's voltage. In this case, R2 feels about 5 ∇ while R1 feels only about 1 ∇.
+The current through R1 is exactly the same as the current through R2. "How can that be?" you say. "R2 is a lot harder to turn than R1!" That's true! It works because **R2 feels more of the battery's voltage**. In this case, R2 feels about 5 V while R1 feels only about 1 V.
 
-You can think about it another way. R2 is larger, so it takes more voltage to get it turning the same speed as R1.
+You can think about it another way. **R2 is larger, so it takes more voltage to get it turning the same speed as R1.**
 
-##### CHALLENGE 45: VOLTAGE DIVIDER (2  $ \nabla $)
+##### CHALLENGE 45: VOLTAGE DIVIDER (2 V)
 
-BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 2 ∇. (BETWEEN 2.0 ∇ AND 3.0 ∇ IS ACCEPTABLE.)
+BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 2 V. (BETWEEN 2.0 V AND 3.0 V IS ACCEPTABLE.)
 
-THIS IS THE CIRCUIT YOU
+THIS IS THE CIRCUIT YOU WILL BUILD:
 
-WILL BUILD:
+<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//8b6e3855-2548-4111-b368-31aa6d762a3b/markdown_0/imgs/img_in_image_box_341_217_525_481.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fc8eacba099af291d301f123b0d47e85a3ce3d12d63f1beb58f56961506038034" alt="Image" width="20%" /></div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//8b6e3855-2548-4111-b368-31aa6d762a3b/markdown_0/imgs/img_in_image_box_341_217_525_481.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fc8eacba099af291d301f123b0d47e85a3ce3d12d63f1beb58f56961506038034" alt="Image" width="15%" /></div>
+(S)
 
-
-I've got to remember to
-
-*tap* *tap* *tap* the voltmeter
-
-to get it to show an accurate
-
-voltage!
+*I've got to remember to ***tap* *tap* *tap*** the voltmeter to get it to show an **accurate voltage**!*
 
 This is the symbol for a capacitor. Like this:
 
+<div style="text-align: center;"><img src="https://i.imgur.com/iGtOh46.png" width="10%" /></div>
+
+#### STARTING SETUP
+
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//8b6e3855-2548-4111-b368-31aa6d762a3b/markdown_0/imgs/img_in_image_box_241_848_688_1549.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F4b94975e35feef9feab743ef85bfbf14d680eaadbde11ba1d95da94be72a4357" alt="Image" width="36%" /></div>
 
-
 #### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+- 4 \times Chain
+- 1 \times 500 Ohm
+- 1 \times Junction
 
+#### DIFFICULTY: ★★☆☆☆
 
+# CHALLENGE 46: VOLTAGE DIVIDER (5 V)
+BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 5 V. (BETWEEN 4.5 V AND 5.5 V IS ACCEPTABLE.)
 
-DIFFICULTY: ⭐⭐⭐⭐
-
-BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 5 ∇. (BETWEEN 4.5 ∇ AND 5.5 ∇ IS ACCEPTABLE.)
-
-BONUS: NOW BUILD A CIRCUIT THAT SETS THE VOLTAGE TO BETWEEN 1 AND 2 ∇.
+BONUS: NOW BUILD A CIRCUIT THAT SETS THE VOLTAGE TO BETWEEN 1 AND 2 V.
 
 Hmm...I get a more accurate voltage when I leave just a little slack in the chain.
 
@@ -1275,7 +1246,7 @@ STARTING SETUP
 
 DIFFICULTY: 
 
-WHEN SWITCH S1 IS ON, C1 SHOULD SHOW 0 ∇. WHEN S1 IS OFF, C1 SHOULD SHOW APPROXIMATELY 6 ∇. (NEGATIVE 6 ∇) IS ALSO ACCEPTABLE.)
+WHEN SWITCH S1 IS ON, C1 SHOULD SHOW 0 V. WHEN S1 IS OFF, C1 SHOULD SHOW APPROXIMATELY 6 V. (NEGATIVE 6 V) IS ALSO ACCEPTABLE.)
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3a9f314f-7449-4050-a25c-42b98851d62a/markdown_3/imgs/img_in_image_box_307_268_622_428.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2F93f440ba4270d772f1455ef6d134452b8ff769f47a0115061434f51fa61001cf" alt="Image" width="25%" /></div>
 
@@ -1635,7 +1606,7 @@ PUT +12 V ACROSS CAPACITOR C1. IT WILL MAX OUT THE VOLTAGE READING. THE CIRCUIT 
 
 Tricky! It looks like two loops from the junction will be connected to R1.
 
-Interesting. Both loops are going to push on R1, and since both of them push with 6 ∇, the total push is...
+Interesting. Both loops are going to push on R1, and since both of them push with 6 V, the total push is...
 
 #### AVAILABLE PARTS
 
@@ -1841,3 +1812,5 @@ CHALLENGE 61
 
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//bdcf9de6-f841-4862-a741-a85c785ad6f5/markdown_3/imgs/img_in_image_box_671_835_1190_1574.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A34Z%2F-1%2F%2F01eb65796d90308ac531d263f2223df49f69496d994d99f90318968e7f7cfc16" alt="Image" width="43%" /></div>
+
+
