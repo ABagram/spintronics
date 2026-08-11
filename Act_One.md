@@ -3,6 +3,127 @@ Initial markdown output from OCR and image capture by **[PaddleOCR-VL-1.6](https
 
 Manual text revisions, formatting changes, and image removal or replacement captures by @ABagram
 
+## Table of Contents
+- [Tutorial 1: The battery](#tutorial-1-the-battery)
+- [NEW PART UNLOCKED: THE SPINTRONIC RESISTOR](#new-part-unlocked-the-spintronic-resistor)
+- [Tutorial 2: Build a basic circuit](#tutorial-2-build-a-basic-circuit)
+- [CHALLENGE 1: RESISTANCE](#challenge-1-resistance)
+- [CHALLENGE 2: ANOTHER SOLUTION](#challenge-2-another-solution)
+- [CHALLENGE 3: ONE CHAIN, TWO RESISTORS](#challenge-3-one-chain-two-resistors)
+- [CHALLENGE 4: CLOCKWISE AND COUNTERCLOCKWISE](#challenge-4-clockwise-and-counterclockwise)
+- [CHALLENGE 5: COUNTERCLOCKWISE ONLY](#challenge-5-counterclockwise-only)
+- [Tutorial 3: Circuits](#tutorial-3-circuits)
+- [NEW PART UNLOCKED: THE SPINTRONIC SWITCH](#new-part-unlocked-the-spintronic-switch)
+- [CHALLENGE 6: THE SWITCH](#challenge-6-the-switch)
+- [CHALLENGE 7: A SWITCH IN THE LOOP](#challenge-7-a-switch-in-the-loop)
+- [Tutorial 4: Chain Tension](#tutorial-4-chain-tension)
+- [CHALLENGE 8: THE "AND" GATE](#challenge-8-the-and-gate)
+- [Tutorial 5: Current](#tutorial-5-current)
+- [NEW PART UNLOCKED: THE SPINTRONIC AMMETER](#new-part-unlocked-the-spintronic-ammeter)
+- [CHALLENGE 9: MAKE SOME NOISE](#challenge-9-make-some-noise)
+- [CHALLENGE 10: SOUND SWITCH](#challenge-10-sound-switch)
+- [CHALLENGE 11: LOW PITCH](#challenge-11-low-pitch)
+- [CHALLENGE 12: LOWEST PITCH](#challenge-12-lowest-pitch)
+- [Tutorial 6: Circuit Diagrams](#tutorial-6-circuit-diagrams)
+- [CHALLENGE 13: FIRST CIRCUIT DIAGRAM](#challenge-13-first-circuit-diagram)
+- [CHALLENGE 14: EQUIVALENT CIRCUITS](#challenge-14-equivalent-circuits)
+- [Tutorial 7: Circuit Diagrams 2](#tutorial-7-circuit-diagrams-2)
+- [CHALLENGE 15: SIMPLIFIED CIRCUIT DIAGRAM](#challenge-15-simplified-circuit-diagram)
+- [CHALLENGE 16: CROSSOVER](#challenge-16-crossover)
+- [Tutorial 8: Series circuits](#tutorial-8-series-circuits)
+- [NEW PART UNLOCKED: THE SPINTRONIC JUNCTION](#new-part-unlocked-the-spintronic-junction)
+- [Tutorial 9: Spintronic junctions](#tutorial-9-spintronic-junctions)
+- [CHALLENGE 17: FIX THE SHORT CIRCUIT](#challenge-17-fix-the-short-circuit)
+- [CHALLENGE 18: PLUGGING HOLES](#challenge-18-plugging-holes)
+- [CHALLENGE 19: THE "OR" GATE](#challenge-19-the-or-gate)
+- [Tutorial 10: Parallel circuits](#tutorial-10-parallel-circuits)
+- [CHALLENGE 20: WHERE IS THE HIGHEST CURRENT?](#challenge-20-where-is-the-highest-current)
+- [CHALLENGE 21: WHERE IS THE LOWEST CURRENT?](#challenge-21-where-is-the-lowest-current)
+- [CHALLENGE 22: RESISTORS IN PARALLEL](#challenge-22-resistors-in-parallel)
+- [CHALLENGE 23: PITCH SWITCH](#challenge-23-pitch-switch)
+- [CHALLENGE 24: CHANGING LEVELS](#challenge-24-changing-levels)
+- [Tutorial 11: Parallel Circuit Diagrams](#tutorial-11-parallel-circuit-diagrams)
+- [CHALLENGE 25: PARALLEL AND SERIES TOGETHER](#challenge-25-parallel-and-series-together)
+- [CHALLENGE 26: DOUBLE SPLIT](#challenge-26-double-split)
+- [CHALLENGE 27: PARALLEL AND SERIES 2](#challenge-27-parallel-and-series-2)
+- [CHALLENGE 28: PARALLEL AND SERIES 3](#challenge-28-parallel-and-series-3)
+- [CHALLENGE 29: PARALLEL AND SERIES 4](#challenge-29-parallel-and-series-4)
+- [CHALLENGE 30: PARALLEL AND SERIES 5](#challenge-30-parallel-and-series-5)
+- [NEW PART UNLOCKED: THE SPINTRONIC CAPACITOR](#new-part-unlocked-the-spintronic-capacitor)
+- [CHALLENGE 31: CHARGE THE CAPACITOR](#challenge-31-charge-the-capacitor)
+- [CHALLENGE 32: PUSH TO CHARGE](#challenge-32-push-to-charge)
+- [CHALLENGE 33: SLOW CHART](#challenge-33-slow-chart)
+- [CHALLENGE 34: CHIRP](#challenge-34-chirp)
+- [CHALLENGE 35: CHARGE AND DISCHARGE - PART 1](#challenge-35-charge-and-discharge-part-1)
+- [CHALLENGE 36: CHARGE AND DISCHARGE - PART 2](#challenge-36-charge-and-discharge-part-2)
+- [CHALLENGE 37: CHARGE AND DISCHARGE - PART 3](#challenge-37-charge-and-discharge-part-3)
+- [CHALLENGE 38: CHARGE AND DISCHARGE - PART 4](#challenge-38-charge-and-discharge-part-4)
+- [CHALLENGE 39: AUTOMATIC DISCHARGE](#challenge-39-automatic-discharge)
+- [CHALLENGE 40: SLOW RISE, SLOW FALL](#challenge-40-slow-rise-slow-fall)
+- [CHALLENGE 41: CAPACITOR BACKUP](#challenge-41-capacitor-backup)
+- [Tutorial 12: Voltage](#tutorial-12-voltage)
+- [CHALLENGE 42: MEASURE THE BATTERY'S VOLTAGE](#challenge-42-measure-the-batterys-voltage)
+- [CHALLENGE 43: NEGATIVE VOLTAGE](#challenge-43-negative-voltage)
+- [Tutorial 13: Voltage at Junctions](#tutorial-13-voltage-at-junctions)
+- [CHALLENGE 44: IS THE BATTERY VOLTAGE CONSTANT?](#challenge-44-is-the-battery-voltage-constant)
+- [Tutorial 14: Voltage in Series Circuits](#tutorial-14-voltage-in-series-circuits)
+- [CHALLENGE 45: VOLTAGE DIVIDER (2 V)](#challenge-45-voltage-divider-2-v)
+- [CHALLENGE 46: VOLTAGE DIVIDER (5 V)](#challenge-46-voltage-divider-5-v)
+- [Tutorial 15: Kirchoff's Law](#tutorial-15-kirchoffs-law)
+- [CHALLENGE 47: VOLTAGE DROP](#challenge-47-voltage-drop)
+- [CHALLENGE 48: NOT GATE](#challenge-48-not-gate)
+- [CHALLENGE 49: NAND GATE](#challenge-49-nand-gate)
+- [CHALLENGE 50: THE 'NOR' GATE](#challenge-50-the-nor-gate)
+- [CHALLENGE 51: PITCH SWITCH REVERSED](#challenge-51-pitch-switch-reversed)
+- [Tutorial 16: Junction Spin Direction](#tutorial-16-junction-spin-direction)
+- [CHALLENGE 52: JUNCTION SPIN DIRECTION](#challenge-52-junction-spin-direction)
+- [CHALLENGE 53: JUNCTION SPIN DIRECTION 2](#challenge-53-junction-spin-direction-2)
+- [CHALLENGE 54: LOCKED CIRCUIT](#challenge-54-locked-circuit)
+- [Tutorial 17: Junction Dot Diagrams](#tutorial-17-junction-dot-diagrams)
+- [CHALLENGE 55: JUNCTION DOT DIAGRAMS 1](#challenge-55-junction-dot-diagrams-1)
+- [CHALLENGE 56: JUNCTION DOT DIAGRAMS 2](#challenge-56-junction-dot-diagrams-2)
+- [CHALLENGE 57: ALL THE SAME DIRECTION](#challenge-57-all-the-same-direction)
+- [Tutorial 18: Spintronic Coupling](#tutorial-18-spintronic-coupling)
+- [CHALLENGE 58: COUPLING DIAGRAMS 1](#challenge-58-coupling-diagrams-1)
+- [CHALLENGE 59: COUPLING DIAGRAMS 2](#challenge-59-coupling-diagrams-2)
+- [CHALLENGE 60: COUPLING DIAGRAMS 3](#challenge-60-coupling-diagrams-3)
+- [CHALLENGE 61: VOLTAGE DOUBLER](#challenge-61-voltage-doubler)
+- [CHALLENGE 62: VOLTAGE HALVER](#challenge-62-voltage-halver)
+- [CHALLENGE 64: VOLTAGE TRIPLER](#challenge-64-voltage-tripler)
+- [CHALLENGE 65: LOCKED CIRCUIT 2](#challenge-65-locked-circuit-2)
+- [CHALLENGE 66: POLARITY BUTTONS](#challenge-66-polarity-buttons)
+- [CHALLENGE 67: POLARITY BUTTON](#challenge-67-polarity-button)
+- [END OF ACT ONE](#end-of-act-one)
+- [SELECTED SOLUTIONS](#selected-solutions)
+  - [CHALLENGE 12](#challenge-12)
+  - [CHALLENGE 13](#challenge-13)
+  - [CHALLENGE 14](#challenge-14)
+  - [CHALLENGE 15](#challenge-15)
+  - [CHALLENGE 16](#challenge-16)
+  - [CHALLENGE 20](#challenge-20)
+  - [CHALLENGE 21](#challenge-21)
+  - [CHALLENGE 23](#challenge-23)
+  - [CHALLENGE 25](#challenge-25)
+  - [CHALLENGE 26](#challenge-26)
+  - [CHALLENGE 27](#challenge-27)
+  - [CHALLENGE 28](#challenge-28)
+  - [CHALLENGE 29](#challenge-29)
+  - [CHALLENGE 30](#challenge-30)
+  - [CHALLENGE 39](#challenge-39)
+  - [CHALLENGE 45](#challenge-45)
+  - [CHALLENGE 47](#challenge-47)
+  - [CHALLENGE 51](#challenge-51)
+  - [CHALLENGE 55](#challenge-55)
+  - [CHALLENGE 56](#challenge-56)
+  - [CHALLENGE 58](#challenge-58)
+  - [CHALLENGE 59](#challenge-59)
+  - [CHALLENGE 60](#challenge-60)
+  - [CHALLENGE 61](#challenge-61)
+  - [CHALLENGE 62](#challenge-62)
+  - [CHALLENGE 64](#challenge-64)
+  - [CHALLENGE 66](#challenge-66)
+  - [CHALLENGE 67](#challenge-67)
+
 ## Tutorial 1: The battery
 
 Spintronic circuits are powered by a **battery**. The battery pulls chains through circuits, just like electrical batteries pull electrons through wires.
@@ -17,7 +138,7 @@ Try it again. This time, after you pull back the string, **use your fingers to a
 
 From now on, we'll have to avoid **shorts**! A short is wherever the battery has a path to release its energy without any resistance. How do you add resistance to the battery without using your fingers? With a resistor.
 
-# NEW PART UNLOCKED
+## NEW PART UNLOCKED: THE SPINTRONIC RESISTOR
 
 <div style="text-align: center;"><img src="https://i.imgur.com/cpBhm2D.png" alt="Image" width="30%" /></div>
 <p style="text-align: center;"><b>THE SPINTRONIC RESISTOR</b></p>
@@ -108,7 +229,7 @@ THIS TIME, SOLVE IT WITHOUT CONNECTING ANY MORE CHAINS TO R1.
 
 #### DIFFICULTY: ★☆☆☆☆
 
-### CHALLENGE 3: ONE CHAIN, TWO RESISTORS
+## CHALLENGE 3: ONE CHAIN, TWO RESISTORS
 
 MAKE BOTH RESISTORS TURN CLOCKWISE. YOU HAVE ONLY ONE CHAIN LOOP THIS TIME.
 
@@ -178,7 +299,7 @@ It's the same with spintronics. The spintronic battery doesn't **make** chain, i
 
 In spintronics, the chain flies out onto the floor, and it eventually stops running. Luckily, in electronics, the electrons don't spill out onto the floor. That would leave a very dangerous situation in your house, and the power station would run out of electrons to push!
 
-# NEW PART UNLOCKED
+## NEW PART UNLOCKED: THE SPINTRONIC SWITCH
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//788d1b0c-d5ac-4597-9749-bc8f5e3e9d85/markdown_3/imgs/img_in_image_box_348_265_636_699.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A31Z%2F-1%2F%2F7279aee7626743085322a93e428ca9d48ab3fc15739f3efc266ab9622f1d2a24" alt="Image" width="24%" /></div>
 <p style="text-align: center;"><b>THE SPINTRONIC SWITCH</b></p>
@@ -274,7 +395,7 @@ The movement of chain (or electrons) through a circuit is called "current." A fa
 
 How fast is a spin amp? A chain traveling at 0.001 A moves this far each second: |-----|
 
-# NEW PART UNLOCKED
+## NEW PART UNLOCKED: THE SPINTRONIC AMMETER
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ff34e5c3-7f56-49a8-96e7-274b031db228/markdown_2/imgs/img_in_image_box_307_251_660_774.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A48Z%2F-1%2F%2F0a3131e3054653491dded94a504c437049cc622551290019a47a1acc1f524f10" alt="Image" width="29%" /></div>
 
@@ -290,7 +411,7 @@ IT'S MOST USEFUL WITH HIGHER CURRENTS THAT YOU CAN'T EASILY SEE WITH YOUR EYES.
 
 MAKE THE AMMETER A1 TURN.
 
-NOTE: THE AMMETER HAS VERY LITTLE RESISTANCE, SO MAKE SURE YOU USE A RESISTOR TO AVOID A SHORT!
+**NOTE:** THE AMMETER HAS VERY LITTLE RESISTANCE, SO MAKE SURE YOU USE A RESISTOR TO AVOID A SHORT!
 
 #### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ff34e5c3-7f56-49a8-96e7-274b031db228/markdown_3/imgs/img_in_image_box_205_812_537_1357.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A48Z%2F-1%2F%2Fe7c8478e87f721de584c6d863bbb07afb256e277e1ba97c619eb03c0ccb5e332" alt="Image" width="27%" /></div>
@@ -332,7 +453,7 @@ MAKE THE AMMETER A1 PRODUCE A LOWER-PITCHED SOUND THAN THE SOUND PRODUCED IN THE
 ## CHALLENGE 12: LOWEST PITCH
 MAKE THE AMMETER A1 PRODUCE THE LOWEST-PITCHED SOUND POSSIBLE WITH THE AVAILABLE PARTS.
 
-NOTE: WHEN YOU SEE THE Ⓢ STAMP HERE, IT MEANS THAT YOU MUST CHECK YOUR SOLUTION IN THE BACK OF THE PUZZLE BOOK.
+**NOTE:** WHEN YOU SEE THE Ⓢ STAMP HERE, IT MEANS THAT YOU MUST CHECK YOUR SOLUTION IN THE BACK OF THE PUZZLE BOOK.
 
 ***Hold on**. This one is trickier than it looks.*
 
@@ -382,7 +503,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/fFBDGb6.png" alt="Image" width="40%" /></div>
 
-NOTE: REMEMBER TO CHECK YOUR SOLUTION IN THE BACK OF THE BOOK WHEN YOU SEE THIS Ⓢ. THERE ARE MANY EQUIVALENT SOLUTIONS.
+**NOTE:** REMEMBER TO CHECK YOUR SOLUTION IN THE BACK OF THE BOOK WHEN YOU SEE THIS Ⓢ. THERE ARE MANY EQUIVALENT SOLUTIONS.
 
 *Time to try a few **circuit diagram puzzles**!*
 *I have to remember these **symbols**:*
@@ -478,7 +599,7 @@ In series circuits, you can't turn one part without turning all the others. Also
 
 Now, can you think of a way to connect these parts together so that they **aren't** in series? Neither can I. Not yet, anyway.
 
-# NEW PART UNLOCKED
+## NEW PART UNLOCKED: THE SPINTRONIC JUNCTION
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//c6e57968-1cec-4871-8eb7-37264c8234b7/markdown_3/imgs/img_in_image_box_158_306_573_663.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fc41ccb9adead3ac584f2d8aa19385f839c9cbd57e3c00638a239d7d1bfa697fe" alt="Image" width="33%" /></div>
 
@@ -507,7 +628,7 @@ You can push current into **any** of the three sprockets and it will split betwe
 ## CHALLENGE 17: FIX THE SHORT CIRCUIT
 Fix the short.
 
-NOTE: WATCH OUT FOR SHORTS WHEN YOU USE JUNCTIONS. It's EASY TO ACCIDENTALLY MAKE THEM.
+**NOTE:** WATCH OUT FOR SHORTS WHEN YOU USE JUNCTIONS. It's EASY TO ACCIDENTALLY MAKE THEM.
 
 The number of little gray dots on the chains show the sprocket they're meant to be on:
 <div style="text-align: center;"><img src="https://i.imgur.com/a9T149J.png" width="35%"/></div>
@@ -826,7 +947,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### DIFFICULTY: ★★★☆☆
 
-# NEW PART UNLOCKED
+## NEW PART UNLOCKED: THE SPINTRONIC CAPACITOR
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//af9bbd76-597e-4527-8177-11d56fe1f4ed/markdown_1/imgs/img_in_image_box_275_320_526_720.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A34Z%2F-1%2F%2Fb8c4754651490f49253e767959c20f7ea3ee683cea66da6233e9565908f0e201" alt="Image" width="20%" /></div>
 <p style="text-align: center;"><b>THE SPINTRONIC CAPACITOR</b></p>
@@ -1163,7 +1284,7 @@ This is the symbol for a capacitor. Like this:
 
 #### DIFFICULTY: ★★☆☆☆
 
-# CHALLENGE 46: VOLTAGE DIVIDER (5 V)
+## CHALLENGE 46: VOLTAGE DIVIDER (5 V)
 BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 5 V. (BETWEEN 4.5 V AND 5.5 V IS ACCEPTABLE.)
 
 **BONUS:** NOW BUILD A CIRCUIT THAT SETS THE VOLTAGE TO BETWEEN 1 AND 2 V.
