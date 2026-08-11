@@ -587,7 +587,7 @@ THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 (OR BOTH) ARE ON.
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
-- 4 \time Chain
+- 4 × Chain
 - 1 × Junction
 
 #### DIFFICULTY: ★★★☆☆
