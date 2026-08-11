@@ -1253,9 +1253,9 @@ WHEN SWITCH S1 IS ON, C1 SHOULD SHOW 0 V. WHEN S1 IS OFF, C1 SHOULD SHOW APPROXI
 <div style="text-align: center;"><img src="https://i.imgur.com/1Oe7rlo.png" alt="Image" width="40%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
-- 1 \times Junction
+- 1 × 500 Ω
+- 4 × Chain
+- 1 × Junction
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1300,9 +1300,9 @@ THE VOLTMETER (CAPACITOR) C1 MUST SHOW 0 V IF S1 AND S2 ARE ON. OTHERWISE IT MUS
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d5ce1f0d-0d17-4a55-a839-c09b5c68c62e/markdown_0/imgs/img_in_image_box_238_855_691_1560.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fcfe00d27064af00c106e1d0124ec64cd4c80a702ed280f83b9d3cb7da8d4ad46" alt="Image" width="38%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
-- 1 \times Junction
+- 1 × 500 Ω
+- 4 × Chain
+- 1 × Junction
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1346,9 +1346,9 @@ IF S1 OR S2 ARE ON, THE VOLTMETER C1 MUST SHOW 0 V. OTHERWISE, IT MUST SHOW ABOU
 <div style="text-align: center;"><img src="https://i.imgur.com/wU4Z2Cy.png" alt="Image" width="40%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 6 \times Chain
-- 2 \times Junction
+- 1 × 500 Ω
+- 6 × Chain
+- 2 × Junction
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1360,16 +1360,16 @@ WHEN THE SWITCH S1 IS OFF, A1 SHOULD TURN FASTER THAN WHEN S1 IS ON.
 
 **NOTE:** THIS CHALLENGE IS HARD. FEEL FREE TO SKIP IT AND COME BACK AGAIN LATER.
 
-(S)
+Ⓢ
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d5ce1f0d-0d17-4a55-a839-c09b5c68c62e/markdown_2/imgs/img_in_image_box_237_844_683_1531.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A36Z%2F-1%2F%2F9eeca44bdffa840a3fbd19ad5c84cd90aeb911d075ecde9cae45d55722fc4952" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 6 \times Chain
-- 1 \times 500 Ohm
-- 1 \times 200 Ohm
-- 1 \times Junction
+- 1 × 1000 Ω
+- 6 × Chain
+- 1 × 500 Ω
+- 1 × 200 Ω
+- 1 × Junction
 
 #### DIFFICULTY: ★★★★☆
 
@@ -1406,7 +1406,7 @@ R1 MUST TURN COUNTERCLOCKWISE AND R2 MUST TURN CLOCKWISE.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//56774bc1-fc58-4aca-bc63-5637aeae31d7/markdown_1/imgs/img_in_image_box_121_960_761_1545.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A32Z%2F-1%2F%2Fcdad8a53dcdf773cbe44ab11e3536cf48431c3c9ea95fb3586be4efde55d1b41" alt="Image" width="53%" /></div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1417,7 +1417,7 @@ R1 AND R2 MUST BOTH TURN CLOCKWISE.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//56774bc1-fc58-4aca-bc63-5637aeae31d7/markdown_2/imgs/img_in_image_box_26_960_690_1543.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F83db4b06270d42b39be0e49bf3398f9034c6687dc7749f72a8d7de22986cee85" alt="Image" width="55%" /></div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1429,8 +1429,8 @@ BUILD A CIRCUIT THAT MAKES THE BATTERY UNABLE TO TURN.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//56774bc1-fc58-4aca-bc63-5637aeae31d7/markdown_3/imgs/img_in_image_box_280_923_614_1520.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2Ff5ebb09fef76b8551d8a26c7b94de3df934fa13369fef21b12f57a9d4afba3f1" alt="Image" width="28%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 3 \times Chain
+- 1 × 200 Ω
+- 3 × Chain
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1469,14 +1469,14 @@ BUILD THE FOLLOWING CIRCUIT:
 IF CORRECT:
 <div style="text-align: center;"><img src="https://i.imgur.com/QbeFIwg.png" width="20%"/></div>
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://i.imgur.com/parBLhC.png" alt="Image" width="56%" /></div>
 
 #### AVAILABLE PARTS
-- 5 \times Chain
+- 5 × Chain
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1486,7 +1486,7 @@ BUILD THE FOLLOWING CIRCUIT:
 <div style="text-align: center;"><img src="https://i.imgur.com/ZGvPhXM.png" alt="Image" width="30%" /></div>
 IF CORRECT:
 <div style="text-align: center;"><img src="https://i.imgur.com/vQupcpC.png" alt="Image" width="20%" /></div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
@@ -1494,7 +1494,7 @@ IF CORRECT:
 
 #### AVAILABLE PARTS
 
-- 5 \times Chain
+- 5 × Chain
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1509,8 +1509,8 @@ BUILD A CIRCUIT WHERE ALL THREE RESISTORS ARE IN PARALLEL AND THEY ALL TURN CLOC
 <div style="text-align: center;"><img src="https://i.imgur.com/eUS6JAv.png" alt="Image" width="40%" /></div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
-- 1 \times Switch
+- 6 × Chain
+- 1 × Switch
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1534,7 +1534,7 @@ But technically, this is the correct way to draw it:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/7QVRD0C.png" alt="Image" width="60%" /></div>
 
-The top chain loop turns because it's "coupled" to the bottom chain loop at the 1000 Ohm resistor. That dashed line between the 1000 Ohm resistor and the top loop tells us that **both loops wrap around that resistor**. Of course, that means the current in each loop **must be the same**.
+The top chain loop turns because it's "coupled" to the bottom chain loop at the 1000 Ω resistor. That dashed line between the 1000 Ω resistor and the top loop tells us that **both loops wrap around that resistor**. Of course, that means the current in each loop **must be the same**.
 
 Now, do you see those two dots next to the coupling? Since they're both on the **same end** of the coupling, they tell us that both chains turn the **same direction** around the resistor (clockwise).
 
@@ -1562,16 +1562,16 @@ Enough talk about coupling, **let's try it out**!
 ## CHALLENGE 58: COUPLING DIAGRAMS 1
 BUILD THE FOLLOWING CIRCUIT:
 <div style="text-align: center;"><img src="https://i.imgur.com/Hw8su10.png" alt="Image" width="40%" /></div>
-(S)
+Ⓢ
 
 #### STARTING CIRCUIT
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//30df1d9d-a726-4ff6-a0ac-c5fbc5624620/markdown_1/imgs/img_in_image_box_290_921_640_1517.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F61d359c98bf80939db4001c3c801438c03b3ebe8f080c1f5e8f3952ecfeba0c1" alt="Image" width="40%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 2 \times Chain
-- 1 \times Switch
+- 1 × 1000 Ω
+- 2 × Chain
+- 1 × Switch
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1580,17 +1580,17 @@ BUILD THE FOLLOWING CIRCUIT:
 BUID THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://i.imgur.com/xljiu1y.png" alt="Image" width="41%" /></div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//30df1d9d-a726-4ff6-a0ac-c5fbc5624620/markdown_2/imgs/img_in_image_box_210_928_555_1524.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2F7ce2aada1d811a914129fc45696ac8afdf1e1380c3b016f018b03a1e4f60a5ac" alt="Image" width="28%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 2 \times Chain
-- 1 \times Switch
-- 1 \times Ammeter
+- 1 × 200 Ω
+- 2 × Chain
+- 1 × Switch
+- 1 × Ammeter
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1607,10 +1607,10 @@ BUILD THE FOLLOWING CIRCUIT:
 
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 2 \times Chain
-- 1 \times 200 Ohm
-- 1 \times Ammeter
+- 1 × 500 Ω
+- 2 × Chain
+- 1 × 200 Ω
+- 1 × Ammeter
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1628,7 +1628,7 @@ PUT +12 V ACROSS CAPACITOR C1. IT WILL MAX OUT THE VOLTAGE READING. THE CIRCUIT 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//06c5a021-477e-4a63-aa9f-f3a8bbe293a8/markdown_1/imgs/img_in_image_box_316_850_621_1540.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A35Z%2F-1%2F%2Fdbf1d2e57c731b77d49c3e74c288415495ef6819cd80b8c1d416031b7ec6b344" alt="Image" width="25%" /></div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1642,8 +1642,8 @@ Put +3  V ACROSS C1.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//06c5a021-477e-4a63-aa9f-f3a8bbe293a8/markdown_1/imgs/img_in_image_box_316_850_621_1540.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A35Z%2F-1%2F%2Fdbf1d2e57c731b77d49c3e74c288415495ef6819cd80b8c1d416031b7ec6b344" alt="Image" width="25%" /></div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
-- 1 \times Junction
+- 3 × Chain
+- 1 × Junction
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1660,9 +1660,9 @@ MODIFY THE CIRCUIT TO MAKE THE AMMETER A1 SPIN FOUR TIMES FASTER.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//06c5a021-477e-4a63-aa9f-f3a8bbe293a8/markdown_2/imgs/img_in_image_box_246_863_687_1563.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A36Z%2F-1%2F%2F64c98587c0a08c745a271fa6480ef19af51f0ec3d1b74b5f15652fe07f42ea03" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 5 \times Chain
-- 1 \times Switch
-- 2 \times Junction
+- 5 × Chain
+- 1 × Switch
+- 2 × Junction
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1674,9 +1674,9 @@ MODIFY THE CIRCUIT TO MAKE THE AMMETER A1 SPIN THREE TIMES FASTER.
 <div style="text-align: center;"><img src="https://i.imgur.com/kGMmIxl.png" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
-- 2 \times Switch
-- 2 \times Junction
+- 6 × Chain
+- 2 × Switch
+- 2 × Junction
 
 #### DIFFICULTY: ★★★★☆
 
@@ -1688,10 +1688,10 @@ BUILD A CIRCUIT THAT CAN'T MOVE AT ALL.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//dca118d1-5374-4ee5-9d13-504cb07a60e4/markdown_0/imgs/img_in_image_box_216_1022_542_1318.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A33Z%2F-1%2F%2Fe713caa63a929c8252794ae416d5c38f733db5304df5f25cbbfc12c4abe39f5b" alt="Image" width="27%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 2 \times Chain
-- 1 \times 500 Ohm
-- 1 \times 200 Ohm
+- 1 × 1000 Ω
+- 2 × Chain
+- 1 × 500 Ω
+- 1 × 200 Ω
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1700,30 +1700,30 @@ WHEN S1 IS ON, A1 MUST TURN CLOCKWISE. WHEN S2 IS ON, A1 MUST TURN COUNTERCLOCKW
 
 (DON'T WORRY ABOUT THE SITUATION WHERE BOTH BUTTONS ARE ON.)
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//dca118d1-5374-4ee5-9d13-504cb07a60e4/markdown_1/imgs/img_in_image_box_312_854_766_1550.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T07%3A56%3A34Z%2F-1%2F%2F5f4a5aaafeeaf07e8b5a0af2d89189b343380b7d07dba7ddd453357c18e5765a" alt="Image" width="38%" /></div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
-- 2 \times Junction
+- 6 × Chain
+- 2 × Junction
 
 #### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 67: POLARITY BUTTON
 WHEN S1 IS OFF, A1 MUST TURN CLOCKWISE. WHEN S1 IS ON, A1 MUST TURN COUNTERCLOCKWISE.
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;"><img src="https://i.imgur.com/NYZ4ogu.png" alt="Image" width="38%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 7 \times Chain
-- 1 \times 200 Ohm
-- 2 \times Junction
+- 1 × 500 Ω
+- 7 × Chain
+- 1 × 200 Ω
+- 2 × Junction
 
 #### DIFFICULTY: ★★★★★
 
@@ -1800,7 +1800,7 @@ This section contains solutions for selected puzzles. Hints and solutions for al
 <div style="text-align: center;"><img src="https://i.imgur.com/upAj07n.png" alt="Image" width="38%" /></div>
 
 ### CHALLENGE 60
-<div style="text-align: center;"><img src="https://i.imgur.com/nGCaktJ.png" alt="Image" width="38%" /></div>
+<div style="text-align: center;"><img src="https://i.imgur.com/nGCaktJ.png" alt="Image" width="38%" /></div>           
 
 ### CHALLENGE 61
 <div style="text-align: center;"><img src="https://i.imgur.com/gMTx4nl.png" alt="Image" width="38%" /></div>
