@@ -1,3 +1,5 @@
+# create a table of contents in markdown format for a given markdown file by extracting headings and converting them into a list with links to the corresponding sections.
+
 import re
 
 def markdown_anchor(text):
