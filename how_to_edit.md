@@ -6,7 +6,7 @@
 
    <div style="text-align: center;">
     <img src="https://i.imgur.com/2cCuB13.png" alt="Image">
-   </div>
+   </p>
 
    (or use the shortcut `Ctrl + Shift + V`)
 
@@ -23,25 +23,26 @@
 1. From the Start Menu, open **ShareX**.
 2. Under **Capture**, ensure **Show cursor** is disabled. *(Note: Bold means the option is enabled.)*
 
-<div style="text-align: center"><img src="https://i.imgur.com/kpf2YQm.png" width="80%"></div>
+<p align="center"><img src="https://i.imgur.com/kpf2YQm.png" width="80%"></p>
 
 3. Under **After capture task**, enable **Upload image to host**.
 
-<div style="text-align: center"><img src="https://i.imgur.com/lIMgr6e.png" width="80%"></div>
+<p align="center"><img src="https://i.imgur.com/lIMgr6e.png" width="80%"></p>
 
 4. Under **"After upload task"**, enable **Copy URL to clipboard**.
 
-<div style="text-align: center"><img src="https://i.imgur.com/A80wakf.png" width="80%"></div>
+<p align="center"><img src="https://i.imgur.com/A80wakf.png" width="80%"></p>
 
 > [!TIP]
 > Take the automated workflow a step further by automatically turning these links into tags with **[AutoHotkey v2.0](https://www.autohotkey.com/)**
 
+#### How to setup AutoHotkey:
 1. From the Start Menu, open **AutoHotkey Dash**.
 2. Click **New script**.
 3. In the text field, name your script:
 `img-link-to-md`.
    
-   <div style="text-align: center"><img src="https://i.imgur.com/cVp1mek.png" width="34%"></div>
+   <p align="center"><img src="https://i.imgur.com/cVp1mek.png" width="34%"></p>
 
 4. Click **Edit** and select **Notepad** as your editor.
 5. In the opened Notepad editor (`img-link-to-md.ahk`), paste the following script:
@@ -80,4 +81,4 @@ Now your workflow is as simple as:
 
 ## How to export markdown files in VS Code
 1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
-<div style="text-align: center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></div>
+<p align="center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></p>
