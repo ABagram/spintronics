@@ -1,13 +1,18 @@
-## How to edit and export markdown files
-1. Copy the contents from your target `.md` file into **Visual Studio Code** and edit content as needed.
-2. View markdown syntax supported [here](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
+## How to edit a markdown file for pdf conversion in VS Code
+1. In VS Code, install the extension **[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)** by *yzane*.
+2. In VS Code, create your own `.md` file.
+3. From this GitHub repository, open the target `.md`then copy and paste it into the `.md` file created from Step 2.
+4. Preview the markdown as you edit using VS Code's built-in preview: click the three dots (`...`) in the top-right corner of the editor and select **Reopen Editor With** > **Markdown Preview**.
 
-## How to export markdown files
-1. In VS Code, download the extension **[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)** by *yzane*.
-2. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
-<div style="text-align: center"><img src="https://i.imgur.com/YOUw7uq.png" width="50%"></div>
+   <div style="text-align: center;">
+    <img src="https://i.imgur.com/2cCuB13.png" alt="Image">
+   </div>
 
-### How to speed up your workflow for adding/changing images
+   (or use the shortcut `Ctrl + Shift + V`)
+
+5. Edit content as needed, view the supported markdown syntax [here](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
+
+### How to speed up your workflow for adding images
 > [!NOTE]
 > For the images to be accessible anywhere no matter the device, images in a markdown file should be links.
 
@@ -17,11 +22,16 @@
 #### How to setup ShareX:
 1. From the Start Menu, open **ShareX**.
 2. Under **Capture**, ensure **Show cursor** is disabled. *(Note: Bold means the option is enabled.)*
-<img src="https://i.imgur.com/kpf2YQm.png">
+
+<div style="text-align: center"><img src="https://i.imgur.com/kpf2YQm.png" width="80%"></div>
+
 3. Under **After capture task**, enable **Upload image to host**.
-<img src="https://i.imgur.com/lIMgr6e.png">
+
+<div style="text-align: center"><img src="https://i.imgur.com/lIMgr6e.png" width="80%"></div>
+
 4. Under **"After upload task"**, enable **Copy URL to clipboard**.
-<img src="https://i.imgur.com/A80wakf.png">
+
+<div style="text-align: center"><img src="https://i.imgur.com/A80wakf.png" width="80%"></div>
 
 > [!TIP]
 > Take the automated workflow a step further by automatically turning these links into tags with **[AutoHotkey v2.0](https://www.autohotkey.com/)**
@@ -29,37 +39,45 @@
 1. From the Start Menu, open **AutoHotkey Dash**.
 2. Click **New script**.
 3. In the text field, name your script:
-```img-link-to-md```.
-<img src="https://i.imgur.com/vnpVmgT.png">
+`img-link-to-md`.
+   
+   <div style="text-align: center"><img src="https://i.imgur.com/cVp1mek.png" width="34%"></div>
+
 4. Click **Edit** and select **Notepad** as your editor.
-5. Paste the following script:
+5. In the opened Notepad editor (`img-link-to-md.ahk`), paste the following script:
 
-```
-#Requires AutoHotkey v2.0
+    ```
+    #Requires AutoHotkey v2.0
 
-^#v:: {
-    ; Grab clipboard and strip any accidental trailing spaces or newlines
-    url := Trim(A_Clipboard, " `t`r`n")
-    
-    ; Check if it ends in an image extension or is hosted on a known image site
-    isImageExt := RegExMatch(url, "\.(png|jpg|jpeg|gif|webp|svg)(\?.*)?$")
-    isImageHost := RegExMatch(url, "i)(imgur\.com|cloudinary\.com|ibb\.co|gyazo\.com)")
+    ^#v:: {
+        ; Grab clipboard and strip any accidental trailing spaces or newlines
+        url := Trim(A_Clipboard, " `t`r`n")
+        
+        ; Check if it ends in an image extension or is hosted on a known image site
+        isImageExt := RegExMatch(url, "\.(png|jpg|jpeg|gif|webp|svg)(\?.*)?$")
+        isImageHost := RegExMatch(url, "i)(imgur\.com|cloudinary\.com|ibb\.co|gyazo\.com)")
 
-    if (isImageExt || isImageHost) {
-        wrappedHTML := '<div style="text-align: center;">`n    <img src="' . url . '" alt="Image">`n</div>'
-        A_Clipboard := wrappedHTML
-        Send("^v")
-    } else {
-        Send("^v")
+        if (isImageExt || isImageHost) {
+            wrappedHTML := '<div style="text-align: center;">`n    <img src="' . url . '" alt="Image">`n</div>'
+            A_Clipboard := wrappedHTML
+            Send("^v")
+        } else {
+            Send("^v")
+        }
     }
-}
-```
+    ```
+    This script is specific to **AutoHotkey v2.0**.
+
 6. Save the file (`Ctrl + S`).
 7. From the File Explorer, double-click the `img-link-to-md.ahk` to run the script.
 
-> [!IMPORTANT]
-> To stop the script later, simply right-click the green AutoHotkey Dash icon in your taskbar tray and click **Exit**.)
+> [!NOTE]
+> To stop the script later, simply right-click the green AutoHotkey Dash icon in your taskbar tray and click **Exit**.
 
 Now your workflow is as simple as:
 1. Take a screenshot: `Ctrl + Fn + Prt Sc`.
 2. Paste the wrapped HTML code: `Ctrl + Win + V`.
+
+## How to export markdown files in VS Code
+1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
+<div style="text-align: center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></div>
