@@ -1,4 +1,14 @@
-## How to edit a markdown file for pdf conversion in VS Code
+
+# Guide for Editing and Exporting
+
+## Table of Contents
+- [How to edit a markdown file in VS Code](#how-to-edit-a-markdown-file-in-vs-code)
+ - [How to speed up your workflow for adding images](#how-to-speed-up-your-workflow-for-adding-images)
+  - [How to setup ShareX](#how-to-setup-sharex)
+  - [How to setup AutoHotkey](#how-to-setup-autohotkey)
+- [How to export a markdown file into PDF in VS Code](#how-to-export-a-markdown-file-into-pdf-in-vs-code)
+
+## How to edit a markdown file in VS Code
 1. In VS Code, install the extension **[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)** by *yzane*.
 2. In VS Code, create your own `.md` file.
 3. From this GitHub repository, open the target `.md`then copy and paste it into the `.md` file created from Step 2.
@@ -79,6 +89,6 @@ Now your workflow is as simple as:
 1. Take a screenshot: `Ctrl + Fn + Prt Sc`.
 2. Paste the wrapped HTML code: `Ctrl + Win + V`.
 
-## How to export markdown files in VS Code
+## How to export a markdown file into PDF in VS Code
 1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
 <p align="center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></p>
