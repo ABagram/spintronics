@@ -69,7 +69,7 @@
         isImageHost := RegExMatch(url, "i)(imgur\.com|cloudinary\.com|ibb\.co|gyazo\.com)")
 
         if (isImageExt || isImageHost) {
-            wrappedHTML := '<div style="text-align: center;">`n    <img src="' . url . '" alt="Image">`n</div>'
+            wrappedHTML := '<div style="text-align: center;">`n    <img src="' . url . '" alt="Image" width="40%">`n</div>'
             A_Clipboard := wrappedHTML
             Send("^v")
         } else {
