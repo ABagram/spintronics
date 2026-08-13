@@ -341,7 +341,7 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.00025 F.
     <img src="https://i.imgur.com/asa7BmO.png" alt="Image" width="40%">
 </div>
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 - 6 \times Chain
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
@@ -563,7 +563,7 @@ A1 MUST MAKE A LOUD SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
     <img src="https://i.imgur.com/8MGXqo7.png" alt="Image" width="40%">
 </div>
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 - 1 \times 200 Ohm
 - 4 \times Chain
 - 1 \times Ammeter
@@ -911,241 +911,197 @@ EXAMPLES:
 
 #### DIFFICULTY: ★★☆☆☆
 
+## CHALLENGE 94: CIRCUIT MATH
 
-THE CIRCUIT BELOW HAS TWO VOLTAGE DIVIDERS.
+THE CIRCUIT BELOW HAS TWO VOLTAGE DIVIDERS. C1 AND C2 SHOW THEIR VALUES.
 
-C1 AND C2 SHOW THEIR VALUES.
+MODIFY THE CIRCUIT TO SHOW THE ANSWER TO THE EQUATION: C1 - C2 = ?
 
-MODIFY THE CIRCUIT TO SHOW THE ANSWER TO THE EQUATION:
+**NOTE:** YOU WILL ONLY NEED ONE OF THE TWO CAPACITORS IN THE SOLUTION.
 
-C1 - C2 = ?
+(S)
 
-NOTE: YOU WILL ONLY NEED ONE OF THE TWO CAPACITORS IN THE SOLUTION.
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/qzB2i1G.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_2/imgs/img_in_image_box_660_0_1176_662.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Ffcf0818ab1c9115558c0fca887626de18074e7fea3951198d3ad16761b1d171d" alt="Image" width="43%" /></div>
+#### AVAILABLE PARTS
+- 1 \times Chain
+- 2 \times Switch
 
+#### DIFFICULTY: ★★☆☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_2/imgs/img_in_image_box_140_865_759_1581.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fb35d749869c9cde588e8ef3ec0022ab77ae4a8678120f6839f8a1feae6fa6c9f" alt="Image" width="52%" /></div>
+## Tutorial 27: Biasing a Transistor
 
+Transistors can do a lot, but one thing bothers me. They're kinda... **inflexible**. They're always off at 0 V, on above 1.5 V, and partway on in between. But what if you need it to turn on at 6 V instead of 1.5 V? Or what if you want it to be on at 0 V, not off? Will I need to make a **custom transistor** for each situation? **Ugh.** That would be a **lot** of work.
 
+Unless...wait, **I've got it!** I can apply a **bias voltage** to the transistor's gate! A **bias voltage** is a constant voltage added to the gate of a transistor. It makes it act like a different transistor. For example, this transistor has a -6 V bias added by the battery. Now, instead of the transistor turning on when the MVS is above 1.5 V, it only turns on above 7.5 V! **Try it!**
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/VE7pNyq.png" alt="Image" width="40%">
+</div>
 
+## CHALLENGE 95: BIASED TRANSISTOR - PART 1
+ADD A VOLTAGE DIVIDER THAT APPLIES A SMALL VOLTAGE (ABOUT 1 V) TO THE GATE OF T1, SETTING IT NEAR THE MIDDLE OF THE ACTIVE REGION. C1 SHOULD THEN MEASURE SOMEWHERE AROUND 4 V.
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_2/imgs/img_in_image_box_872_982_933_1046.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F006d5338282ca07b40d3d9cecde5ba7454888f1cc4bcf1ef6661efce60c7dc0a" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+**NOTE:** TRANSISTORS VARY - C1 MAY MEASURE ANYWHERE BETWEEN 1 AND 5 V.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_2/imgs/img_in_image_box_821_1336_1104_1369.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fe7dd92d50efe39b0750b383cea63e2460cdb84206092404cb1abfd838e59ecee" alt="Image" width="23%" /></div>
+(S)
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/4MdataB.png" alt="Image" width="40%">
+</div>
 
-#### DIFFICULTY: ★☆☆☆☆
+#### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+- 6 \times Chain
+- 1 \times 200 Ohm
+- 2 \times Junction
 
-#### Tutorial 27: Biasing a Transistor
+#### DIFFICULTY: ★★★☆☆
 
-Transistors can do a lot, but one thing bothers me. They're kinda... inflexible. They're always off at 0 V, on above 1.5 V, and partway on in between. But what if you need it to turn on at 6 V instead of 1.5 V? Or what if you want it to be on at 0 V, not off? Will I need to make a custom transistor for each situation? Ugh. That would be a lot of work.
-
-Unless...wait, I've got it! I can apply a bias voltage to the transistor's gate! A bias voltage is a constant voltage added to the gate of a transistor. It makes it act like a different transistor. For example, this transistor has a -6 V bias added by the battery. Now, instead of the transistor turning on when the MVS is above 1.5 V, it only turns on above 7.5 V! Try it!
-
-1000 Ω
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_3/imgs/img_in_image_box_403_947_859_1414.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F6bd15a352d0ede59093761319e1366205e6557e404c84c735847b517b52b2466" alt="Image" width="38%" /></div>
-
-
-ADD A VOLTAGE DIVIDER THAT APPLIES A SMALL VOLTAGE (ABOUT 1  $ \overline{V} $) TO THE GATE OF T1, SETTING IT NEAR THE MIDDLE OF THE ACTIVE REGION. C1 SHOULD THEN MEASURE SOMEWHERE AROUND 4  $ \overline{V} $.
-
-NOTE: TRANSISTORS VARY - C1 MAY MEASURE ANYWHERE BETWEEN 1 AND 5 V.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_662_6_1190_657.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F5b4634b0a0bc827aa35246357b6717e84bb41e29761c5ae674529133d2fbc20c" alt="Image" width="44%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_124_853_763_1581.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fb2738bb99ea8a327e73026d0d487e0aa2ab3e9ed42088c1c770fa07aab40cc28" alt="Image" width="53%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_879_862_942_930.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fea103e7bb4fa9fb3de76767593fa70efa7fa7e82630ec188b39d57d6bb5899cc" alt="Image"" /> 1000  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>6</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_881_976_940_1042.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F0656539fb2fecf61cecc86c7a248292072a226e97ef83757488c46964aabb08e" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_866_1196_952_1284.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F469cb22ec889ab9c0cb432c8727ab209e6275b0897438eeff24e5337aaa54f80" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_0/imgs/img_in_image_box_826_1332_1115_1365.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F14306f310aba11cab152497ae40d89e6cbad9b5c9d6e5a184549a9fc13428af1" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
+## CHALLENGE 96: BIASED TRANSISTOR - PART 2
 MODIFY THE CIRCUIT BY BUILDING AN MVS THAT ADDS TO THE VOLTAGE PRODUCED BY THE VOLTAGE DIVIDER. C1 WILL THEN AMPLIFY SMALL POSITIVE AND NEGATIVE VOLTAGES FROM THE MVS.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_chart_box_256_272_607_488.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fc2b5fadf901050467d1b0d8d889c74c5987bf52f3c16519a119caba51584d022" alt="Image" width="29%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/rMRTXln.png" alt="Image" width="40%">
+</div>
 
+(S)
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/UHQIsPU.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_590_4_1181_499.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fc7f97d240ac3a5e8ff6009a31530c4fd56577676b319937a5e1bd91e28126337" alt="Image" width="49%" /></div>
+#### AVAILABLE PARTS
+- 2 \times Chain
+- 1 \times Switch
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_22_870_690_1580.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fb13ec154f2915c928f21a61b63e0f1b415bb9256fd68520501c2972cc638953e" alt="Image" width="56%" /></div>
+## CHALLENGE 97: OFF AT ONE END
+THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/927pw7E.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/BkkMpuT.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 4 \times Chain
+- 1 \times Transistor
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_906_866_1016_942.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fe95784b619b50e68db18d0b54d5d0860f9ce970745f847061b51bdeed15b7d4e" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_803_985_862_1047.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F0a3fe3439b33370dce9025d7d2b378bcf7c5ccdcc8295efd34ae3b9ea5b8f656" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_948_978_1013_1065.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F2520caff1923c3039944007c1076cf572b724e1932212672d6e1d6edaaa05e9f" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_766_1199_876_1290.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F3d51642ae3520b131df74490f359a22c8f47d91293e3042b50273decedc1318f" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_1/imgs/img_in_image_box_752_1337_1034_1369.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F488d754742d5dc98192d3919d05aac98d3e2165d0d1619822b1d055799cbf2d3" alt="Image" width="23%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆☆
-
-THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN
-
-MVS1 IS GREATER THAN +6 V.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_chart_box_331_246_674_447.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F2b9cf53ac4fe3e9c7336dd065362c35f2bb219b2fd9057d168c18dc14db7abc1" alt="Image" width="28%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_668_5_1175_658.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fe6dcad71efdb7b0218f674f20f2dbfbcfac0f0be830327623d17cd4bff6d0b88" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_147_482_676_658.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F71b40990269350bf51873462caa98ec1cc37138e524d8c89a7717f301c9b47f1" alt="Image" width="44%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_146_970_761_1575.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fd94f628e606ab87ce59b11f05ae8e422161833921608008bf8eef19d61b20e6e" alt="Image" width="51%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_976_857_1086_932.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fb8cd34853a36c36326b880bea5986717d1ec56cc56f9827aa15d34f032b91baa" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_1008_1075_1093_1166.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Ff89823dcc52bb388277870dd71218f5c89c2a833c617ec814bd74a0e6ae8758c" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_862_1190_945_1278.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Ff0aa6af957488eaac7787b1b07e1785c84ec299fcb1ae79cf7bec1433e541072" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_2/imgs/img_in_image_box_822_1326_1104_1358.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F51b334f7003f12db8ca4d1da0b659199668183624c24f72f14d68a5ca7eb4563" alt="Image" width="23%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆☆
-
+## CHALLENGE 98: OFF AT BOTH ENDS
 THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V OR LESS THAN -6 V.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/kUYjJ56.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_3/imgs/img_in_image_box_241_253_597_451.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Faedba3e0018cdbf7cb42623ee28e9cfefa96141952fa7adbe9f7276a0c026fd9" alt="Image" width="29%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/KZejglW.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 9 \times Chain
+- 2 \times Switch
+- 2 \times Transistor
+- 2 \times Junction
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_3/imgs/img_in_image_box_573_12_1190_663.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F862902c65d6f0eb493ce5dc040bf89b2ed1495902b936fd42f3ed86bc3fad68a" alt="Image" width="51%" /></div>
+#### DIFFICULTY: ★★★★☆
 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_3/imgs/img_in_image_box_5_787_725_1573.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F66cead90018677dc51b4227a376047d6c4a11cd2bfb5b582560c7d2758130d7f" alt="Image" width="60%" /></div>
-
-
-(turn the 500  $ \pi $ resistor with your fingers to control this MVS)
-
-AVAILABLE PARTS
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_3/imgs/img_in_image_box_736_805_1048_1300.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F9adddfd1e43a24510be635ec2e5e66401957537a3a57ea402091f6dae6f40c3d" alt="Image" width="26%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//9d995f7a-9d02-4ebd-ab79-63faa21842d2/markdown_3/imgs/img_in_image_box_746_1330_1034_1361.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fe8e410cb510f574ee0e9e577075d0eeb3251c784e90be102bff778dcd555377a" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
-CHALLENGE 99: CURRENT TO VOLTAGE CONVERTER 1
+## CHALLENGE 99: CURRENT TO VOLTAGE CONVERTER 1
 
 CONVERT THE CURRENT PRODUCED BY MCS1 INTO A VOLTAGE ON C1
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/UmjJlpY.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_729_3_1181_162.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A09Z%2F-1%2F%2Faeb76d587664720cb2062bc4eaeafbae929a1c42115a834244c7b82792eec05e" alt="Image" width="37%" /></div>
+*The more current you push through a resistor, **the more it pushes back.** To convert current to voltage, we just have to measure the push back!*
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/65fe1wJ.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_chart_box_360_263_642_364.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A09Z%2F-1%2F%2F42665fe80f7ad18cb6d12ff800d61f299ce11ab8bea962aa9994f684aaf4a681" alt="Image" width="23%" /></div>
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 3 \times Chain
+- 1 \times Junction
 
+#### DIFFICULTY: ★★☆☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_360_373_642_461.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A10Z%2F-1%2F%2Feb9539f4ab2c924e15248e322e6527d93938309e546af0af76f754c9732ae45b" alt="Image" width="23%" /></div>
-
-
-The more current you push through a resistor, the more it pushes back. To convert current to voltage, we just have to measure the push back!
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_91_841_765_1488.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A10Z%2F-1%2F%2F7d798655a0b2a850bdc51d035324fa6d3b37d5821f78540f54d73db1a2bca869" alt="Image" width="56%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_875_866_936_927.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A11Z%2F-1%2F%2Fa8c2cb6cb1cd912c26a57a4c6d8c706774c7ab3d622e78f2f71a28b8d5f712ca" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_860_1200_949_1291.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A11Z%2F-1%2F%2F74769c41b1d6d34637806e258304e2f18d83a248eda6d8d939e0dfdd1deec074" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_0/imgs/img_in_image_box_821_1340_1110_1373.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A10Z%2F-1%2F%2F9cdddcf6d1b1011cb953fef4b44718b5d4e49bfc1df895af7eb402fd5b700cc9" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
- $ \underline{\text{APR 6, 1894}} $
-
-# CHALLENGE 100: CURRENT TO VOLTAGE CONVERTER 2
+## CHALLENGE 100: CURRENT TO VOLTAGE CONVERTER 2
 
 NOW AMPLIFY POSITIVE VOLTAGES AT C1 INTO LARGER VOLTAGES AT C2
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Z9IX707.png" alt="Image" width="40%">
+</div>
+(S)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_chart_box_296_190_576_288.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A12Z%2F-1%2F%2Fe2ad0eb7fb25d2f29a26ae02a7acd7a5a28d65365ef814844a78b2b88a115349" alt="Image" width="23%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Hu7q3aZ.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 5 \times Chain
+- 1 \times Transistor
+- 1 \times Junction
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_chart_box_295_302_575_389.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A12Z%2F-1%2F%2F8567c9abb8b63f1bfe71ae96da757d08d967d74930380c59c32d16db84b8a42a" alt="Image" width="23%" /></div>
+#### DIFFICULTY: ★★★☆☆
 
+## CHALLENGE 101: THE TRANSISTOR DIODE
+S1 MUST ONLY BE ABLE TO TURN **CLOCKWISE**.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_295_393_586_487.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A13Z%2F-1%2F%2Ffc66ae9d4993dba7be57e16d3b4123162407462d2dc74e8f45f33c7d7161972c" alt="Image" width="24%" /></div>
+**BONUS:** MAKE IT ONLY TURN COUNTERCLOCKWISE.
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/OlMr4RG.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_581_0_1172_717.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A13Z%2F-1%2F%2Fbabf63072b4411e89ed3090ce11084f11985852657c1b61df4f1b9a6640a6fc2" alt="Image" width="49%" /></div>
+#### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Transistor
+- 1 \times Junction
 
+#### DIFFICULTY: ★★☆☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_19_833_731_1568.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A13Z%2F-1%2F%2F06c59108b008d0cc670ad927811e1892f5b1bf73b53024be253545e1bcd779d3" alt="Image" width="59%" /></div>
+## Tutorial 28: The Transistor Diode
 
+Whoa! That was **amazing**. With just a transistor and a junction, we can make a little circuit that only lets current flow in **one direction**!
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/z3tbiBg.png" alt="Image" width="40%">
+</div>
 
+And you can easily **change the direction the current flows** just by flipping the gate to the other side.
 
+Just like electronic diodes, these diodes have a constant voltage drop across them: about 1.5 V. **Check it yourself!** Build this circuit and read the voltage drop as you send current through with your fingers at the MVS:
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_804_865_863_926.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A14Z%2F-1%2F%2F9ae532eff5cb914e480750e10066299a281449171e3600e24c5776bbe0f5153c" alt="Image"" /> 500  $ \pi $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_908_865_1017_939.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A15Z%2F-1%2F%2F5ab0f7225c70f9b3cfbe4ff4921240bde11deaf57aaf574717e152776f151291" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_942_1082_1025_1171.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A15Z%2F-1%2F%2F3bdd9d19dcee518a4bd8a83f06c431b5820dcfbfc991bbc1e6417a5c9ad27f8b" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_792_1194_873_1281.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A15Z%2F-1%2F%2F70ffcf5e38565856e72ee7b93257b364284c223e20fbc5c77f5b163164b41c40" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/MFkIEVq.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_1/imgs/img_in_image_box_751_1330_1034_1363.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A14Z%2F-1%2F%2Fb9744f2df0afd52b5e8e7741716d03fc2d1ca823c7bb5b392d20c85c5e786030" alt="Image" width="23%" /></div>
+In the following puzzles, transistor diodes are **treated like a single part**. You will never need to modify the chain loops on the bottom or the top. **The middle sprocket of the junction is the only place you'll connect to it.**
 
-
-#### DIFFICULTY: ★☆☆☆☆☆
-
-S1 MUST ONLY BE ABLE TO TURN CLOCKWISE.
-
-BONUS: MAKE IT ONLY TURN COUNTERCLOCKWISE.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_2/imgs/img_in_image_box_669_3_1186_486.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A17Z%2F-1%2F%2F90c76ba4d9beb1ef4210ed9a05a64f7eeba6a0d48d6cc8b58701ca57ada4b8bd" alt="Image" width="43%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_2/imgs/img_in_image_box_282_936_637_1516.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A17Z%2F-1%2F%2F1e6cea4e2490950bcb806f9b84fa5fcef9f107369ee1e36cce85f02ffd80290c" alt="Image" width="29%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_2/imgs/img_in_image_box_1015_1081_1102_1172.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A17Z%2F-1%2F%2Fd62d8ccb2a4152da0c9b1afa4806047dca59342dba6c320057a09fa4bf1acec6" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_2/imgs/img_in_image_box_864_1196_950_1287.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A18Z%2F-1%2F%2F6984cdd6857a49f61fb0345c27e7156c00b03fbff674d3b8e9024ffe870c10a6" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_2/imgs/img_in_image_box_823_1336_1112_1368.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A17Z%2F-1%2F%2Fce8554709598c29acfff35900e0072b2dbc1faeecb42a4991edd0a29ba2d169e" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
-#### Tutorial 28: The Transistor Diode
-
-Whoa! That was amazing. With just a transistor and a junction, we can make a little circuit that only lets current flow in one direction!
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_3/imgs/img_in_image_box_503_368_782_654.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A19Z%2F-1%2F%2Fd84c68709011b6b41b94f379dbaa9d4703ac9320cf0cc88c4d95582b4e403c58" alt="Image" width="23%" /></div>
-
-
-And you can easily change the direction the current flows just by flipping the gate to the other side.
-
-Just like electronic diodes, these diodes have a constant voltage drop across them: about 1.5 V. Check it yourself! Build this circuit and read the voltage drop as you send current through with your fingers at the MVS:
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//cccf7a73-cd55-4a16-880c-8aa4ed86190d/markdown_3/imgs/img_in_image_box_460_1040_842_1414.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A36%3A19Z%2F-1%2F%2F2023d1b5f7d738e5f6cf2859941d60ed18b29ea03f78d03f1f4b9fe680bcc16f" alt="Image" width="32%" /></div>
-
-
-In the following puzzles, transistor diodes are treated like a single part. You will never need to modify the chain loops on the bottom or the top. The middle sprocket of the junction is the only place you'll connect to it.
-
-Don't modify
-
-these two
-
-chains.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_0/imgs/img_in_image_box_239_466_692_785.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fa2da2e3a3f91c2b34d051eaaa1ecc78cd216a60174668c0058ff044ff3526912" alt="Image" width="38%" /></div>
-
-
-Just connect to the middle sprocket.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/fIoEx2F.png" alt="Image" width="40%">
+</div>
 
 Time for more diode circuits!
 
+## CHALLENGE 102: TWO DIODES (70/81 in pdf)
 WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN.
 
 WHEN S1 IS TURNED COUNTERCLOCKWISE, R1 MUST TURN.
@@ -1153,7 +1109,7 @@ WHEN S1 IS TURNED COUNTERCLOCKWISE, R1 MUST TURN.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_26_974_691_1552.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F83f9f8d6471815e6b97c33927da95343caf526faab87e5d7a4275dcdec079c6b" alt="Image" width="55%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 
 
@@ -1264,7 +1220,7 @@ BUILD A PEAK DETECTOR LIKE BEFORE, BUT NOW THE RESET BUTTON RESETS IT BACK TO 0 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_105_817_763_1567.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F3b7a072b1b91ff6d2992a9692bed1691e4c8bd8ab0ce3c8f6bb95439426234ff" alt="Image" width="55%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 
 
@@ -1291,7 +1247,7 @@ STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_24_862_691_1585.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F767c220935602fd0eb8657a6981722b0f4fe5b972378763e37bf48e9f4062815" alt="Image" width="56%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 
 
@@ -1344,7 +1300,7 @@ Weeeell...in reality, it will look more like this because the inductor gets goin
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_243_980_699_1582.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fb459f22cdeb458a603819c059df3d3344733f9935e7733955f31c1bb43fa58c4" alt="Image" width="38%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_741_805_1070_1536.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fe7b79d707c0bc5505dfab716ce4b3c1a6054c89bbb07847f1f22ac999093bf22" alt="Image" width="27%" /></div>
 
