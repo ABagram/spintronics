@@ -80,7 +80,7 @@
     This script is specific to **AutoHotkey v2.0**.
 
 6. Save the file (`Ctrl + S`).
-7. From the File Explorer, double-click the `img-link-to-md.ahk` to run the script.
+7. From the File Explorer (e.g., `C:\Users\GUEST USER\Documents\AutoHotkey`), double-click the `img-link-to-md.ahk` to run the script.
 
 > [!NOTE]
 > To stop the script later, simply right-click the green AutoHotkey Dash icon in your taskbar tray and click **Exit**.

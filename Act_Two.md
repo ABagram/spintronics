@@ -366,7 +366,7 @@ It's half of what it was before! With spintronic coupling, we trade a lower volt
     <img src="https://i.imgur.com/l3moQaj.png" alt="Image" width="40%">
 </div>
 <p style="text-align: center;"><b>THE SPINTRONIC TRANSISTOR</b></p>
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//541d3063-3106-4c0d-9d46-76bb106e5437/markdown_0/imgs/img_in_image_box_781_298_1127_1450.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A10Z%2F-1%2F%2F3b24a7d36d0976d78f5fffb9bfa92a2f867c4bc06585880c3dcd54a2f3492053" alt="Image" width="29%" /></div>
+<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//541d3063-3106-4c0d-9d46-76bb106e5437/markdown_0/imgs/img_in_image_box_781_298_1127_1450.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A10Z%2F-1%2F%2F3b24a7d36d0976d78f5fffb9bfa92a2f867c4bc06585880c3dcd54a2f3492053" alt="Image" width="40%" /></div>
 
 #### PURPOSE:
 A SPINTRONIC TRANSISTOR IS A VOLTAGE-CONTROLLED RESISTOR.
@@ -1101,241 +1101,229 @@ In the following puzzles, transistor diodes are **treated like a single part**. 
 
 Time for more diode circuits!
 
-## CHALLENGE 102: TWO DIODES (70/81 in pdf)
-WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN.
+## CHALLENGE 102: TWO DIODES
+WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN. WHEN S1 IS TURNED COUNTERCLOCKWISE, R1 MUST TURN.
 
-WHEN S1 IS TURNED COUNTERCLOCKWISE, R1 MUST TURN.
-
+#### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_26_974_691_1552.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F83f9f8d6471815e6b97c33927da95343caf526faab87e5d7a4275dcdec079c6b" alt="Image" width="55%" /></div>
 
 
 #### AVAILABLE PARTS
+- 6 \times Chain
+- 1 \times Switch
+- 2 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
+## CHALLENGE 103: FULL WAVE RECTIFIER
+REGARDLESS OF WHICH DIRECTION S1 IS TURNED, A1 MUST TURN **CLOCKWISE**.
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>6</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_804_981_863_1043.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F970c6c934e44b682166735043491c4df02352802d61ef505a71be876c8a4a0dc" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_805_1069_864_1179.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F2e526abe471735592dbaf8f2aa7c7b45eb6052acca3e77255a690a84948bb3b9" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_792_1196_875_1284.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fa3ee798003b3eba8a9b7b734de9a9d8302c06871b00796a2dcee292ac8e0a736" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+**BONUS:** MAKE A1 ONLY TURN COUNTERCLOCKWISE.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_1/imgs/img_in_image_box_753_1334_1038_1365.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F2c0bea3f510e32b726e6e23e115764f74bf01a27e80ab7656644d5861ebdeec7" alt="Image" width="23%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/xAZ8mmo.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 8 \times Chain
+- 1 \times Switch
+- 2 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 2 \times Junction
 
-#### DIFFICULTY: ★☆☆☆☆
+#### DIFFICULTY: ★★★★☆
 
-REGARDLESS OF WHICH DIRECTION S1 IS TURNED,
-
-A1 MUST TURN CLOCKWISE.
-
-BONUS: MAKE A1 ONLY TURN COUNTERCLOCKWISE.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_2/imgs/img_in_image_box_50_803_757_1565.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Feef1cacd4e057baedfc4a073810831d4bfd7f2a473bc1a5c1dc09cb757fcd405" alt="Image" width="59%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>8</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_2/imgs/img_in_image_box_876_984_938_1049.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F42dab428aa2974e2e232acf4a30e2e7367eca5974bc416f01b7d6089fb6dc30d" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_2/imgs/img_in_image_box_876_1074_937_1184.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F245c9213a8c6b76b70b4f2b68c7ef87416fc6a1645ae6171a14164e94db81780" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_2/imgs/img_in_image_box_830_1199_949_1289.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fb3c63604151bb22b90fce52e5e689e7decc9cdbb88bf8ebd1626e294ce96cd8d" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_2/imgs/img_in_image_box_821_1337_1111_1369.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F990b01ded390cb7e59d62393a8aa5d206d480d53d80a19f212a076c6ec4845aa" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆☆
-
-MAY 17, 1894
-
+#### CHALLENGE 104: POSITIVE CLIPPER
 C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOWN CANNOT EXCEED +1.5 V.
 
-Output C1
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/0O2LxGO.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_chart_box_257_247_587_490.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fa325fbded0d1e3d898a0454304cbcbf6a9c4cd9a8f5b5219eb393548e60121d8" alt="Image" width="27%" /></div>
+(S)
 
+#### STARTING SETUP
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_image_box_586_14_1190_671.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F743a58d395ea3c2d8df17f34fd1a47bfecd6315c9c0538cd1b6f93c59b5243c4" alt="Image" width="50%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/0grFa33.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Transition-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_image_box_10_969_688_1543.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F12004020bda5e99f75621df31f75af17a0c40991b712f72b4bde2d26540dfd3e" alt="Image" width="56%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_image_box_807_1067_869_1178.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F6440a9d90b00a7243fe58d7ff25c8251152e2def4958952f8d5c7b61ec063028" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_image_box_780_1192_880_1281.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fe3c0802ee20317746158da846c42e1c806e8fc61c179bc5cfa6ff8d66bd72492" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f818366b-a6e7-4489-8539-da0345e52b7b/markdown_3/imgs/img_in_image_box_752_1328_1045_1361.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F1a819f6714406aefeeb025e48b9b4cd0ddbc59eae718639deead7d0b81ceed3a" alt="Image" width="24%" /></div>
-
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 105: POSITIVE AND NEGATIVE CLIPPER
 
 C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOWN CANNOT GO OVER +1.5 V OR UNDER -1.5 V.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_chart_box_338_245_668_457.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F9fe3f30df38b9438e66833ea5d9c75197709fa7aaf924e4d6b62092e52d14167" alt="Image" width="27%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/FA7DyCH.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/QWRWiQm.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_663_2_1190_662.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F42fc39842c96e700105b2c832a9449acc3e473a4b6144ff71356441e7cec5987" alt="Image" width="44%" /></div>
+#### AVAILABLE PARTS
+- 5 \times Chain
+- 2 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 2 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_168_457_676_672.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F410282814b5cb35939532f4a049b24edbaed4a61087323584237d8ed89d05044" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_115_979_766_1562.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fa46d6914a65757383c5f2e873a85f16ae8684cef9679461d38804dbb4e2c9e88" alt="Image" width="54%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>5</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_882_1075_943_1186.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F09bb9b9e4735df9965e8fe596592ea05f0a307d54ffc60aa0ce772c27fdbb45f" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_869_1201_956_1290.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fac48fa4606b0af8932d4b840a8cc7bfeb28709cd077e0c21a416cc240e284828" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_0/imgs/img_in_image_box_828_1338_1120_1371.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2Fa322261055370082488408f87c028fad1838d300559f90074df6f492f028b642" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
-MAY 22, 1894
-
+## CHALLENGE 106: PEAK DETECTOR
 C1 MUST ALWAYS SHOW THE HIGHEST VOLTAGE EVER APPLIED TO IT BY MVS1.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Mg9o5mW.png" alt="Image" width="40%">
+</div>
 
-Input MVS1
+*In reality, the circuit won't behave **quite** like this. Each time it hits a new peak, **it will drop back down about 1.5 V**.*
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_1/imgs/img_in_chart_box_263_246_587_464.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F7154ab9ac2f9b82be78d052d368adbd3c44b3e4b82c6687203a45c7e91baf6a6" alt="Image" width="27%" /></div>
-
-
-In reality, the circuit won't behave quite like this. Each time it hits a new peak, it will drop back down about 1.5 V.
-
+#### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_1/imgs/img_in_image_box_242_980_694_1551.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fc6f409f9920ca65e489800214b7851f233e66b609b02c008e60003a164fcad45" alt="Image" width="37%" /></div>
 
+#### AVAILABLE PARTS
+- 1 \times Chain
+- 1 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_1/imgs/img_in_image_box_812_1075_872_1187.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F53af6516f39b404f15b848a029132b982b7458456a4096bdcf1bf31edb00dbf5" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_1/imgs/img_in_image_box_757_1337_1051_1371.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fb128349f5a3e28236fed14f9ee6dc47e6f6aa3fd0e2f2650a9e1e97a3642c83a" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
+#### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 107: PEAK DETECTOR WITH RESET
 
 BUILD A PEAK DETECTOR LIKE BEFORE, BUT NOW THE RESET BUTTON RESETS IT BACK TO 0 V.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_chart_box_332_219_643_488.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F4360ea01380e58430affa04cb9e03fe45cdd65bfde6706050d77f756db49ce47" alt="Image" width="26%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/ZKyIYIA.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_652_1_1187_687.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fbfc44602d8a2c49657a9b76cde344d3f6e51ab7e27f6b7ae175136b2b4b1824d" alt="Image" width="44%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_105_817_763_1567.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F3b7a072b1b91ff6d2992a9692bed1691e4c8bd8ab0ce3c8f6bb95439426234ff" alt="Image" width="55%" /></div>
-
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/QqazpGc.png" alt="Image" width="40%">
+</div>
 
 #### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★☆☆
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_879_1083_940_1193.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fb643b898bcaa9cf01c33c9cb5b25e481c0ede4a2feb18066307ac1c4a0a5799c" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_837_1208_953_1298.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F0058e9e249298ed64e2946a0b6582d833d9e3bc18b05a03109402b868856606a" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_2/imgs/img_in_image_box_826_1345_1116_1377.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Ffed61c27449d3ee3870236267c322d36670b489ede5f9da8dbea2a47c96fe154" alt="Image" width="24%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
+## CHALLENGE 108: VOLTAGE LIMITER
 LIMIT THE MAXIMUM VOLTAGE THAT CAN BE PRODUCED BY MVS1 TO ROUGHLY +3.5 V.
 
- $$ 2\ \overrightarrow{V}+1.5\ \overrightarrow{V}=3.5\ \overrightarrow{V} $$ 
+2 V + 1.5 V = 3.5 V
 
-NOTE: SHOOT FOR +3.5 V, BUT IN REALITY, YOU MAY
+**NOTE:** SHOOT FOR +3.5 V, BUT IN REALITY, YOU MAY FIND IT LIMITS AT MORE LIKE 4-5 V.
 
-FIND IT LIMITS AT MORE LIKE 4-5 V.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_18_451_597_663.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Ff591a5b80dc29be6cfce1fcb8897844d007bd1d0b60952c0e881e86156908c9e" alt="Image" width="48%" /></div>
-
-
-STARTING SETUP
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_24_862_691_1585.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F767c220935602fd0eb8657a6981722b0f4fe5b972378763e37bf48e9f4062815" alt="Image" width="56%" /></div>
-
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/W7isbxe.png" alt="Image" width="40%">
+</div>
 
 #### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 4 \times Chain
+- 1 \times 200 Ohm
+- 1 \times Transistor-Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
 
+#### DIFFICULTY: ★★★★☆
 
+## NEW PART UNLOCKED: THE SPINTRONIC INDUCTOR
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/gXiFLCc.png" alt="Image" width="40%">
+</div>
+<p style="text-align: center;"><b>THE SPINTRONIC INDUCTOR</b></p>
+<div style="text-align: center;"><img src="https://i.imgur.com/B4CB9OS.png" alt="Image" width="40%" /></div>
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_801_861_865_925.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fb7470c9cc512e874bab328046a3001bb326ce34a8786a2a50fc8285e8bf82e5a" alt="Image"" /> 500  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_907_860_1016_936.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Fa9ac59a0be8c26f7b16d26038bde2f4ed170a5a50f18c575a19fe3fa22184348" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_803_975_863_1038.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2Ffa8fc09d5cdc1d29c08f60af6ae2ba81ad0ce0ee7ad971b39afdf8c8f59e0ca0" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_803_1071_863_1181.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F9cd9b674fb5000ec01f6c141ae59dbda2c5092bf5c836dfa270b8df6b9c5147b" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_789_1197_876_1287.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F7dcbb72a7b39d2dac180bb4fd2e2a9ee893673dc4b26d0247f73ea86d6b68d31" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_3/imgs/img_in_image_box_752_1334_1035_1366.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F72377ddcb918195fcb8d193ae644acfad5af1f21ec0178e1b2e26b94fe85c26c" alt="Image" width="23%" /></div>
-
-
-#### DIFFICULTY: ★☆☆☆☆
-
-# NEW PART UNLOCKED
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_0/imgs/img_in_image_box_256_272_641_723.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A10Z%2F-1%2F%2Fce2481296f9b0107563fa06d0d65dfd185bb16fd480efeb0285a23491334e249" alt="Image" width="32%" /></div>
-
-
-THE SPINTRONIC
-
-INDUCTOR
-
-##### PURPOSE:
-
-# 干
+#### PURPOSE:
 
 SPINTRONIC INDUCTORS BUILD MOMENTUM.
 
-##### DETAIL:
+#### DETAIL:
 
-FOR SAFETY, SPINTRONIC INDUCTORS
+FOR SAFETY, SPINTRONIC INDUCTORS HAVE BUILT-IN RESISTORS THAT ENGAGE WHEN THEY TURN TOO FAST.
 
-HAVE BUILT-IN RESISTORS THAT
+THE INDUCTANCE OF AN INDUCTOR IS MEASURED IN "SPIN HENRYS" (H).
 
-ENGAGE WHEN THEY TURN TOO FAST.
+## CHALLENGE 109: INDUCTANCE
+BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 
-THE INDUCTANCE OF AN INDUCTOR IS
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/x6XPJTP.png" alt="Image" width="40%">
+</div>
 
-MEASURED IN "SPIN HENRYS" (H).
+(S)
 
-BUILD A CIRCUIT THAT BEHAVES LIKE THE
+*Weeeell...**in reality**, it will look more like this because the inductor gets going too fast and **slows itself down**:*
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/lMXycnZ.png" alt="Image" width="40%">
+</div>
 
-FOLLOWING:
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_58_250_582_421.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fa87ea4ccb52e16df184ee0c9eb8c069813c9a96ce85ec4c6a45199611dafcf8f" alt="Image" width="44%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_596_8_1188_325.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fe62dc9acc24fe32a7b547d59ecd4de964976940c69534db0405e611f1127f72e" alt="Image" width="49%" /></div>
-
-
-Weeeell...in reality, it will look more like this because the inductor gets going too fast and slows itself down:
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_243_980_699_1582.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fb459f22cdeb458a603819c059df3d3344733f9935e7733955f31c1bb43fa58c4" alt="Image" width="38%" /></div>
-
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/1vtzZ9t.png" alt="Image" width="40%">
+</div>
 
 #### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 5 \times Chain
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_1/imgs/img_in_image_box_741_805_1070_1536.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fe7b79d707c0bc5505dfab716ce4b3c1a6054c89bbb07847f1f22ac999093bf22" alt="Image" width="27%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 200 $ \textcircled{1} $</td><td style='text-align: center; word-wrap: break-word;'>5</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>1 55 $ \textcircled{1} $</td></tr></table>
-
-#### DIFFICULTY: ★☆☆☆☆
+#### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 110: REFLECTOR
 
-BUILD A CIRCUIT THAT BEHAVES LIKE THE
+BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 
-FOLLOWING:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/CGjuqYI.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_348_199_652_404.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fdea4bc691133dc6e40a7edf7a13b6a4235d8b36b6db7154516b6e17519c41f4c" alt="Image" width="25%" /></div>
+**IMPORTANT:** NOTICE THAT THIS SECTION IS FLAT, UNLIKE THE PREVIOUS CHALLENGE.
 
+(S)
 
-IMPORTANT: NOTICE THAT THIS SECTION IS FLAT, UNLIKE THE PREVIOUS CHALLENGE.
+*The output has positive **and negative current?!?***
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_682_2_1186_177.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2Fba0b76eacd24de1098f76cc1dd14da7302196f757d21135ccbe91b8111779fba" alt="Image" width="42%" /></div>
+***Aha!** I get it now. Watch **the resistor in the previous challenge** and you'll see.*
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/tWFPOrR.png" alt="Image" width="40%">
+</div>
 
-The output has positive and negative current?!?
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 5 \times Chain
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
-Aha! I get it now. Watch the resistor in the previous challenge and you'll see.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_316_985_768_1586.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2F60c575633f06a5d0cb8e8755661553b4b3ea3ff136dd7291505d5171b85871d8" alt="Image" width="37%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 200  $ \uparrow $</td><td style='text-align: center; word-wrap: break-word;'>5</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_841_1199_959_1291.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A12Z%2F-1%2F%2Fa68cfca03dc4182a81d1cc4c12db2e6cd237a94aaa2f668ff523ed82f645285c" alt="Image"" /> <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_989_1188_1123_1302.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A12Z%2F-1%2F%2Fd824d1e370539034c04f6898cccd1fcb872b9b5a54dd1234952d2db93cd98101" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//32d4fbbc-eb87-4dd9-9411-20b0eb68f674/markdown_2/imgs/img_in_image_box_830_1337_1119_1369.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A12Z%2F-1%2F%2F4609b8048984db39705ed3ce2011cc1605cb2a278405d53f406bc18e6fc175c5" alt="Image" width="24%" /></div>
-
-#### DIFFICULTY: ★☆☆☆☆
+#### DIFFICULTY: ★★☆☆☆
