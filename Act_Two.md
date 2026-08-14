@@ -1111,7 +1111,7 @@ WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN. WHEN S1 IS TURNED COUNTERCLOCKWISE, R
 #### AVAILABLE PARTS
 - 6 \times Chain
 - 1 \times Switch
-- 2 \times Transistor-Junction
+- 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1132,7 +1132,7 @@ REGARDLESS OF WHICH DIRECTION S1 IS TURNED, A1 MUST TURN **CLOCKWISE**.
 #### AVAILABLE PARTS
 - 8 \times Chain
 - 1 \times Switch
-- 2 \times Transistor-Junction
+- 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1180,7 +1180,7 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
 
 #### AVAILABLE PARTS
 - 5 \times Chain
-- 2 \times Transistor-Junction
+- 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1201,7 +1201,7 @@ C1 MUST ALWAYS SHOW THE HIGHEST VOLTAGE EVER APPLIED TO IT BY MVS1.
 
 #### AVAILABLE PARTS
 - 1 \times Chain
-- 1 \times Transistor-Junction
+- 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1223,7 +1223,7 @@ BUILD A PEAK DETECTOR LIKE BEFORE, BUT NOW THE RESET BUTTON RESETS IT BACK TO 0 
 
 #### AVAILABLE PARTS
 - 3 \times Chain
-- 1 \times Transistor-Junction
+- 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1247,7 +1247,7 @@ LIMIT THE MAXIMUM VOLTAGE THAT CAN BE PRODUCED BY MVS1 TO ROUGHLY +3.5 V.
 - 1 \times 500 Ohm
 - 4 \times Chain
 - 1 \times 200 Ohm
-- 1 \times Transistor-Junction
+- 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1327,3 +1327,144 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 - 1 \times Inductor (55 H)
 
 #### DIFFICULTY: ★★☆☆☆
+
+## CHALLENGE 111: INDUCTOR KICK
+
+THIS CIRCUIT RIPS ITSELF APART WHEN S1 IS TURNED OFF. MODIFY THE CIRCUIT SO THAT L1 STILL SPINS WHEN S1 IS ON, BUT WHEN S1 IS TURNED OFF, THE ENERGY IN L1 HAS SOMEWHERE TO GO.
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/rVXDrdn.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Diode
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
+
+#### DIFFICULTY: ★★★☆☆
+
+## CHALLENGE 112: HALVE THE INDUCTANCE
+
+HALVE THE INDUCTANCE FELT AT S1.
+
+**NOTE:** SPINTRONIC "INDUCTANCE" IS RELATED TO MASS. A PART WITH HIGH INDUSTANCE REQUIRES MORE ENERGY TO GET IT MOVING BECAUSE IT HAS A LOT OF MASS. IN THIS CHALLENGE, USE SPINTRONIC COUPLING TO MAKE THE SWITCH FEEL HALF THE INDUCTANCE OF L1.
+
+*"Halve the inductance"...Hmm...I guess it should feel **easier** to speed up and slow down - as if the part has **less** mass.*
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/UhYRbx1.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 2 \times Chain
+- 1 \times Junction
+
+#### DIFFICULTY: 2/5
+
+## CHALLENGE 113: QUADRUPLE THE INDUCTANCE
+
+QUADRUPLE THE INDUCTANCE FELT AT S1.
+
+*Quadruple the inductance... Wow! I guess it should feel **a lot harder** to speed up and slow down - as if the part has **more** mass.*
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/fcZIr5P.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 5 \times Chain
+- 1 \times Switch
+- 2 \times Junction
+
+#### DIFFICULTY: 3/5
+
+## Tutorial 29: Inductor.Diode Circuit Diagrams
+
+Wow, diodes and inductors open up all kinds of new circuit possibilities! Luckily, I don't need to come up with any new symbols for these parts:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/SDMBbNQ.png" alt="Image" width="40%">
+</div>
+
+The inductor symbol is a bumpy line and the diode symbol's arrow always points in the direction that current can flow. Now I can diagram spintronic circuits like this:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/eTHRH2M.png" alt="Image" width="40%">
+</div>
+
+## CHALLENGE 114: INDUCTOR/DIODE CIRCUIT DIAGRAMS 1
+BUILD THE FOLLOWING CIRCUIT:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/YxX0CoC.png" alt="Image" width="40%">
+</div>
+(S)
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/etzckP4.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 5 \times Chain
+- 1 \times Switch
+- 1 \times Ammeter
+- 1 \times Junction
+- 1 \times Inductor (55 H)
+
+#### DIFFICULTTY: 3/5
+
+## CHALLENGE 115: INDUCTOR/DIODE CIRCUIT DIAGRAMS 2
+
+BUILD THE FOLLOWING CIRCUIT:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Sak0U1p.png" alt="Image" width="40%">
+</div>
+
+*Before building this circuit, can you guess what the **voltage reading** will be on the **capacitor**?*
+
+(S)
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Q4GUbL8.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 5 \times Chain
+- 1 \times Switch
+- 1 \times Capacitor (0.001 F)
+- 1 \times Diode
+- 1 \times Junction
+
+#### DIFFICULTY: 3/5
+
+## CHALLENGE 116: INDUCTOR/DIODE CIRCUIT DIAGRAMS 3
+
+BUILD THE FOLLOWING CIRCUIT:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/PLQk9UV.png" alt="Image" width="40%">
+</div>
+(S)
+
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/A42sdge.png" alt="Image" width="40%">
+</div>
+
+#### AVAILABLE PARTS
+- 2 \times 500 Ohm
+- 13 \times Chain
+- 1 \times 200 Ohm
+- 2 \times Switch
+- 1 \times Ammeter
+- 1 \times Transistor
+- 4 \times Junction
+- 1 \times Inductor (55 H)
+
+#### DIFFICULTY: 4/5
