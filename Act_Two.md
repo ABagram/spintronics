@@ -170,8 +170,17 @@ BUILD A CIRCUIT THAT CHARGES BOTH C1 AND C2 TO 6 V WHEN S1 IS TURNED ON. THEY SH
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 4 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -192,8 +201,17 @@ BOTH C1 AND C2 MUST CHARGE TO 6 V WHILE S1 IS ON AND DISCHARGE TO 0 V WHEN S1 IS
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -210,7 +228,13 @@ BUILD A CIRCUIT THAT SETS C1 TO 6 V AND C2 TO APPROXIMATELY 3 V. YOU MUST USE A 
 #### AVAILABLE PARTS
 - 2 \times 500 Ohm
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -244,8 +268,17 @@ MODIFY THE CIRCUIT SO THAT THE CURRENT THROUGH A1 IS EVEN **LESS** AFFECTED WHEN
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -263,7 +296,13 @@ MODIFY THE CIRCUIT SO THAT IT MAKES **SHORTER** SOUNDS WHEN THE SWITCH IS TURNED
 
 #### AVAILABLE PARTS
 - 1 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -286,7 +325,13 @@ DOUBLE THE CAPACITANCE FELT AT S1.
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -301,7 +346,13 @@ HALVE THE CAPACITANCE FELT AT S1.
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -321,9 +372,18 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.004 F.
 
 #### AVAILABLE PARTS
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 2 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -343,9 +403,18 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.00025 F.
 
 #### AVAILABLE PARTS
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 2 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -434,6 +503,9 @@ OPENING AND CLOSING THE GATE OF T1 WITH YOUR FINGERS MUST TURN ON AND OFF THE CU
 
 #### AVAILABLE PARTS
 - 1 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transistor
 
 #### DIFFICULTY: ★☆☆☆☆
@@ -459,7 +531,13 @@ THE VOLTAGE AT C1 MUST BE CONTROLLED BY THE POSITION OF THE GATE OF T1. (SET THE
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 4 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -477,6 +555,9 @@ That's especially important with **transistors**!
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 
 *The gate needs to be set to turn **clockwise**!*
@@ -502,9 +583,17 @@ MODIFY THE CIRCUIT SO THAT T1 OPENS WHEN S1 IS ON, **AND T1 CLOSES WHEN S1 IS OF
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 81: GATE CHARGE 2
@@ -527,9 +616,18 @@ A1 MUST MAKE SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch (S1)
 - 2 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -547,8 +645,13 @@ IN THIS FIRST CHALLENGE, MODIFY THE STARTING SETUP SO THAT WHEN S1 IS ON, THE GA
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 83: AMPLIFICATION - PART 2
@@ -565,10 +668,18 @@ A1 MUST MAKE A LOUD SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 4 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Ammeter
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## Tutorial 22: Transistor Circuit Diagrams
@@ -614,12 +725,20 @@ BUILD THE FOLLOWING CIRCUIT:
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch\
     *This switch isn't in the circuit diagram, so it must just be here for **changing levels**.*
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 85: TRANSISTOR CIRCUIT DIAGRAMS 2
@@ -638,11 +757,19 @@ BUILD THE FOLLOWING CIRCUIT:
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 86: TRANSISTOR CIRCUIT DIAGRAMS 3
@@ -662,11 +789,16 @@ BUILD THE FOLLOWING CIRCUIT:
 #### AVAILABLE PARTS
 - 1 \times 1000 Ohm
 - 10 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 500 Ohm
 - 2 \times Switch
 - 2 \times Transistor
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 ## Tutorial 23: Plan with Circuit Diagrams!
@@ -744,10 +876,18 @@ BUILD A MANUAL VOLTAGE SOURCE (MVS) THAT CONTROLS THE GATE OF T1.
 
 #### AVAILABLE PARTS
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★☆☆☆
 
 ## Tutorial 25: Basic Amplifier
@@ -776,11 +916,19 @@ NOW BUILD A CIRCUIT THAT AMPLIFIES A NEGATIVE VOLTAGE FROM AN MVS INTO A LARGER,
 
 #### AVAILABLE PARTS
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 89: POSITIVE OR NEGATIVE AMPLIFIER
@@ -802,10 +950,15 @@ BUILD A CIRCUIT THAT AMPLIFIES A **POSITIVE OR A NEGATIVE VOLTAGE** FROM MVS1 IN
 
 #### AVAILABLE PARTS
 - 9 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Switch
 - 2 \times Transistor
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 90: DARLINGTON PAIR
@@ -828,10 +981,15 @@ BUILD A CIRCUIT WITH **TWO STAGES OF AMPLIFICATION**. MVS1 MUST BE AMPLIFIED BY 
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 10 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 2 \times Transistor
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 ## Tutorial 26: Adding and Subtracting Voltages
@@ -870,6 +1028,9 @@ EXAMPLES:
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -887,6 +1048,9 @@ EXAMPLES:
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 
 #### DIFFICULTY: ★★☆☆☆
@@ -907,6 +1071,9 @@ EXAMPLES:
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 
 #### DIFFICULTY: ★★☆☆☆
@@ -928,6 +1095,9 @@ MODIFY THE CIRCUIT TO SHOW THE ANSWER TO THE EQUATION: C1 - C2 = ?
 
 #### AVAILABLE PARTS
 - 1 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Switch
 
 #### DIFFICULTY: ★★☆☆☆
@@ -956,9 +1126,17 @@ ADD A VOLTAGE DIVIDER THAT APPLIES A SMALL VOLTAGE (ABOUT 1 V) TO THE GATE OF T1
 #### AVAILABLE PARTS
 - 1 \times 1000 Ohm
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 96: BIASED TRANSISTOR - PART 2
@@ -976,10 +1154,18 @@ MODIFY THE CIRCUIT BY BUILDING AN MVS THAT ADDS TO THE VOLTAGE PRODUCED BY THE V
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 97: OFF AT ONE END
@@ -995,9 +1181,14 @@ THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V.
 
 #### AVAILABLE PARTS
 - 4 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 98: OFF AT BOTH ENDS
@@ -1013,10 +1204,15 @@ THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V OR LESS THA
 
 #### AVAILABLE PARTS
 - 9 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Switch
 - 2 \times Transistor
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 99: CURRENT TO VOLTAGE CONVERTER 1
@@ -1035,9 +1231,17 @@ CONVERT THE CURRENT PRODUCED BY MCS1 INTO A VOLTAGE ON C1
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 100: CURRENT TO VOLTAGE CONVERTER 2
@@ -1056,9 +1260,14 @@ NOW AMPLIFY POSITIVE VOLTAGES AT C1 INTO LARGER VOLTAGES AT C2
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 101: THE TRANSISTOR DIODE
@@ -1073,9 +1282,14 @@ S1 MUST ONLY BE ABLE TO TURN **CLOCKWISE**.
 
 #### AVAILABLE PARTS
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transistor
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★☆☆☆
 
 ## Tutorial 28: The Transistor Diode
@@ -1110,13 +1324,18 @@ WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN. WHEN S1 IS TURNED COUNTERCLOCKWISE, R
 
 #### AVAILABLE PARTS
 - 6 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 103: FULL WAVE RECTIFIER
@@ -1131,13 +1350,18 @@ REGARDLESS OF WHICH DIRECTION S1 IS TURNED, A1 MUST TURN **CLOCKWISE**.
 
 #### AVAILABLE PARTS
 - 8 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 #### CHALLENGE 104: POSITIVE CLIPPER
@@ -1157,12 +1381,17 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
 
 #### AVAILABLE PARTS
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Transition-Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 105: POSITIVE AND NEGATIVE CLIPPER
@@ -1180,12 +1409,17 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
 
 #### AVAILABLE PARTS
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 106: PEAK DETECTOR
@@ -1201,6 +1435,9 @@ C1 MUST ALWAYS SHOW THE HIGHEST VOLTAGE EVER APPLIED TO IT BY MVS1.
 
 #### AVAILABLE PARTS
 - 1 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
@@ -1223,12 +1460,17 @@ BUILD A PEAK DETECTOR LIKE BEFORE, BUT NOW THE RESET BUTTON RESETS IT BACK TO 0 
 
 #### AVAILABLE PARTS
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 108: VOLTAGE LIMITER
@@ -1246,13 +1488,21 @@ LIMIT THE MAXIMUM VOLTAGE THAT CAN BE PRODUCED BY MVS1 TO ROUGHLY +3.5 V.
 #### AVAILABLE PARTS
 - 1 \times 500 Ohm
 - 4 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★★☆
 
 ## NEW PART UNLOCKED: THE SPINTRONIC INDUCTOR
@@ -1293,9 +1543,21 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 - 1 \times Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1322,9 +1584,21 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 - 1 \times Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1339,12 +1613,17 @@ THIS CIRCUIT RIPS ITSELF APART WHEN S1 IS TURNED OFF. MODIFY THE CIRCUIT SO THAT
 
 #### AVAILABLE PARTS
 - 3 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 112: HALVE THE INDUCTANCE
@@ -1362,8 +1641,13 @@ HALVE THE INDUCTANCE FELT AT S1.
 
 #### AVAILABLE PARTS
 - 2 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: 2/5
 
 ## CHALLENGE 113: QUADRUPLE THE INDUCTANCE
@@ -1379,12 +1663,17 @@ QUADRUPLE THE INDUCTANCE FELT AT S1.
 
 #### AVAILABLE PARTS
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 2 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: 3/5
 
-## Tutorial 29: Inductor.Diode Circuit Diagrams
+## Tutorial 29: Inductor/Diode Circuit Diagrams
 
 Wow, diodes and inductors open up all kinds of new circuit possibilities! Luckily, I don't need to come up with any new symbols for these parts:
 <div style="text-align: center;">
@@ -1410,11 +1699,23 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Ammeter
 - 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 - 1 \times Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTTY: 3/5
 
@@ -1436,12 +1737,23 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 5 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times Switch
 - 1 \times Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 \times Diode
 - 1 \times Junction
-
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 #### DIFFICULTY: 3/5
 
 ## CHALLENGE 116: INDUCTOR/DIODE CIRCUIT DIAGRAMS 3
@@ -1460,12 +1772,24 @@ BUILD THE FOLLOWING CIRCUIT:
 #### AVAILABLE PARTS
 - 2 \times 500 Ohm
 - 13 \times Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 \times 200 Ohm
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 \times Switch
 - 1 \times Ammeter
 - 1 \times Transistor
 - 4 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 - 1 \times Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: 4/5
 
@@ -1474,438 +1798,315 @@ BUILD THE FOLLOWING CIRCUIT:
 Until now, current mostly goes in one direction through my circuits. In electronics, they're called "direct current" circuits, or "DC" circuits. But there's a whole world of useful circuits out there that use "alternating current", or "AC". With AC, the current (and voltage) changes direction periodically.
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/ovBnyz9.png" alt="Image" width="40%">
+    <img src="https://i.imgur.com/ovBnyz9.png" alt="Image" width="70%">
 </div>
 
 When I first learned about AC, I was like "What's the point?"
 
-But it's used all over the place in electronics! It's used to make sound, radio waves, to transmit power, and a million other things.
+But it's used **all over the place** in electronics! It's used to make sound, radio waves, to transmit power, and a million other things.
 
 (Although, if spintronic coupling is ever replicated in electronics, AC will not be quite as important!)
 
 There are few basic things to know about AC:
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/M7Jkyqj.png" alt="Image" width="40%">
+    <img src="https://i.imgur.com/M7Jkyqj.png" alt="Image" width="70%">
 </div>
 
-**Amplitude** is the maximum value of voltage (the voltage at a peak). Period is the length in time of one full cycle. Another especially important term is "frequency". It's the number of cycles per second. It's measured in "Hertz", or Hz for short. One Hertz is one cycle per second.
+**Amplitude** is the maximum value of voltage (the voltage at a peak). **Period** is the length in time of one full cycle. Another especially important term is "**frequency**". It's the number of cycles per second. It's measured in "Hertz", or Hz for short. One Hertz is one cycle per second.
 
-Finally, there's superimposition! An especially important concept in AC circuits is that you can superimpose one AC signal onto another, like this:
+Finally, there's **superimposition**! An especially important concept in AC circuits is that you can superimpose one AC signal onto another, like this:
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_1/imgs/img_in_image_box_175_772_1056_938.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2Fc6a3914171b28f9375243f2b9a9342a6b477bb7f9d5a192d77211c36c488848e" alt="Image" width="74%" /></div>
 
-
 You can even superimpose an AC signal onto a DC signal, like this:
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_1/imgs/img_in_image_box_172_993_738_1149.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F6393b48aa7d4a9d963160093bce3b2a193259b19bf59bb432ac01b989d0ee7c2" alt="Image" width="47%" /></div>
+<div style="text-align: center;"><img src="https://i.imgur.com/kB6pqNN.png" alt="Image" width="74%" /></div>
 
+That's neat, but the best part is that with the right circuit, you can **pull them back apart again**. Or you can build circuits that can pull out just **some** of the frequencies and leave the others behind. That's how you tune into a radio station, for instance. I can't wait to try it out! For starters, I'm going to try a little superimposition...
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_1/imgs/img_in_image_box_787_995_1051_1157.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F6f50841ff46e5b274189eeff8430ff32dd6e6d466ececab6f5f3ae1a3c07622c" alt="Image" width="22%" /></div>
+## CHALLENGE 117: SUPERIMPOSE AC ON DC
+BUILD A CIRCUIT THAT SUPERIMPOSES AN AC SIGNAL FROM MVS1 ONTO THE 6 V DC SIGNAL FROM THE BATTERY.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/WI1HSEG.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/UCvu0Wg.png" alt="Image" width="40%">
+</div>
 
-That's neat, but the best part is that with the right circuit, you can pull them back apart again. Or you can build circuits that can pull out just some of the frequencies and leave the others behind. That's how you tune into a radio station, for instance. I can't wait to try it out! For starters, I'm going to try a little superimposition...
+#### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/GKcK2L8.png" alt="Image" width="8%">
+    </div>
+- 4 \times Chain
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+    </div>
+- 1 \times Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-BUILD A CIRCUIT THAT SUPERIMPOSES AN AC SIGNAL FROM MVS1 ONTO THE 6 V DC SIGNAL FROM THE
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_chart_box_168_338_319_548.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F0f66000a8869a4b38f34aaf57f542a62dffbf5ff2c2ad4bc7b64a09d3dbeae1b" alt="Image" width="12%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_chart_box_345_329_673_562.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F2faa3914a925fb2980e12e361a2477e7c58a7cfd4580a4760f17dc4115f82b04" alt="Image" width="27%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_image_box_673_135_1135_572.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fdb2bfdf248c851f88ea25a4699ccb1b8833aa780e0c3a47a87f97ca7a2e5e613" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_image_box_188_1009_745_1540.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fd77d0b0dd6531fb06103ef433f5d1d2a383a41b1203ed2137dbed636ffcd093d" alt="Image" width="46%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_image_box_851_908_905_961.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fe7ee5f3fc2d5648b575b92ed27febb3322a8a789485fe213d67653777d1e1ec8" alt="Image"" /> 1000  $ \text{ \Omega } $</td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_image_box_830_1200_916_1279.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fa6a4d795cce409381ea2b963a33108ae77f7820aaace805b7c1a15106d859176" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_2/imgs/img_in_image_box_803_1321_1062_1349.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F8dd1681ac2bef32705cef1d38bd66acbcde00914fd1abc02df53c34ad1affd7b" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-DATE:
-
-OCT 4, 1894
+#### DIFFICULTY: 2/5
 
 #### Tutorial 31: Reactance and Filters
 
-Resistors, capacitors, and inductors are the three types of passive components. (Passive means they aren't able to amplify anything.) Of the three passive components, resistors are the simplest - their resistance is always the same. But capacitors and inductors are different. Their resistance changes with frequency!
+Resistors, capacitors, and inductors are the three types of **passive** components. (Passive means they aren't able to amplify anything.) Of the three passive components, resistors are the simplest - their resistance is always the same. But **capacitors** and **inductors** are different. **Their resistance changes with frequency!**
 
-Let's begin by thinking about a capacitor's resistance. First, let's start with DC (which is like super-low frequency AC). If DC is applied to a capacitor, it charges and then completely blocks current from flowing. Since it doesn't let any current through at all, it acts like an infinitely large resistor.
+Let's begin by thinking about a **capacitor's** resistance. First, let's start with DC (which is like super-low frequency AC). If DC is applied to a capacitor, it charges and then **completely blocks current from flowing.** Since it doesn't let any current through at all, it acts like an **infinitely large resistor.**
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/02flD39.png" alt="Image" width="70%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8417295-22b8-4091-95e7-268a0d858802/markdown_3/imgs/img_in_image_box_586_906_673_994.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fccc863ebaf08c6cd06011d8eabc5585b9c560830699360160de7082692410902" alt="Image" width="7%" /></div>
-
-
-Time (6 seconds shown)
-
-Ok, now let's apply a low frequency AC signal to the capacitor. In the time shown, the voltage moves the capacitor back and forth one time.
+Ok, now let's apply a low **frequency AC** signal to the capacitor. In the time shown, the voltage moves the capacitor back and forth **one time**.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/qiECjN2.png" alt="Image" width="70%">
+</div>
 
 Hey, we've got some AC current running through the capacitor!
 
-Not a lot – just the amount it takes to turn it from +6 ∇ to -6 ∇ and back again in 6 seconds. Try it! It never turns very fast, does it? Ok, now what about higher frequency AC?
+Not a lot – just the amount it takes to turn it from +6 V to -6 V and back again in 6 seconds. **Try it!** It never turns very fast, does it? Ok, now what about **higher frequency AC**?
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_0/imgs/img_in_image_box_185_965_912_1453.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F1860b878c77080a401fe1950736fb7d8057495f69083ce9ca13ca27285cd50a6" alt="Image" width="61%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/5G7rKGd.png" alt="Image" width="40%">
+</div>
 
+Now we're cooking! The AC applied to the capacitor has three times higher frequency. When the AC applied to the capacitor has **three times higher frequency**, it moves back and forth **three times faster**, and lets **three times the current** through. Letting more current through? Hmmm...it's acting like a smaller resistor!
 
-Now we're cooking! The AC applied to the capacitor has three times higher frequency. When the AC applied to the capacitor has three times higher frequency, it moves back and forth three times faster, and lets three times the current through. Letting more current through? Hmmm...it's acting like a smaller resistor!
+Remember that with **low frequency**, capacitors act like very **large resistors**. With **high frequency**, they act like very **small resistors**. Resistance that changes with frequency is called "**reactance**". This graph shows how a capacitor's reactance changes with frequency:
 
-Remember that with low frequency, capacitors act like very large resistors. With high frequency, they act like very small resistors. Resistance that changes with frequency is called "reactance". This graph shows how a capacitor's reactance changes with frequency.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/knLwFXp.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_1/imgs/img_in_image_box_177_849_345_1070.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F6407b44d5433bd5cc92933b11e460502ce6f940ad00a2e7feb0f230ab1fef82d" alt="Image" width="14%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_1/imgs/img_in_image_box_368_875_519_1039.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2F6ee08571eb8e339ca47a745797bb0e31359f9b2d3715c2b9e4a0fce3657409d5" alt="Image" width="12%" /></div>
-
-
-Reactance
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_1/imgs/img_in_image_box_616_854_861_1031.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A26Z%2F-1%2F%2Fa9aebe3467dea302e142c2e0f4173e4414d07c69a21b0910b696d7a554b159ea" alt="Image" width="20%" /></div>
-
-
-Frequency
-
-Inductors are a little easier to understand. They are just the opposite of capacitors. With low frequency, they have low reactance, and with high frequency, they have high reactance. Try turning an inductor back and forth (with your fingers on the sprockets) at a high frequency. It resists it a lot! Then try turning it back and forth the same distance at a low frequency. It's much easier!
+**Inductors** are a little easier to understand. They are just **the opposite of capacitors**. With **low frequency**, they have **low reactance**, and with **high frequency**, they have **high reactance**. Try turning an inductor back and forth (with your fingers on the sprockets) at a high frequency. It resists it a lot! Then try turning it back and forth the same distance at a low frequency. It's much easier!
 
 This graph shows how an inductor's reactance changes with frequency:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/9TIVMlK.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_image_box_315_337_502_544.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F06d3b3a728432f81f9d0a0bb4963028045067418a005dbfeaa10c30de052d7b2" alt="Image" width="15%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_chart_box_539_334_847_536.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F4ac048fd0f2acd43683ccfeaccbd3f65ba99890db231af86730a28d0da8c9078" alt="Image" width="25%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">Frequency</div> </div>
-
-
-These properties of capacitors and inductors are incredibly useful for a lot of things, but especially for making filters. Filters resist some frequencies and let others pass through. They let you pick apart complicated AC signals and grab just the frequencies you want.
+These properties of capacitors and inductors are incredibly useful for a lot of things, but especially for making **filters**. Filters resist some frequencies and let others pass through. They let you pick apart complicated AC signals and grab just the frequencies you want.
 
 For example, this filter only lets low frequency signal through...
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/06nrZJi.png" alt="Image" width="40%">
+</div>
+...and this filter only lets high frequency signal through:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/78A4tsz.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_chart_box_152_944_483_1130.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F1ccb5068ddf7d2eebec0db3b9f233a69271e9ff5797449f869bd944f63da0247" alt="Image" width="27%" /></div>
+Time to build some **spintronic filters!**
 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_image_box_148_945_971_1128.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F061a1988a36135bf279b0c7b04552ef091f85db5d321838da16c4968adf4582a" alt="Image" width="69%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">...and this filter only lets high frequency signal through:</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_chart_box_155_1218_479_1398.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fdb570ea19a4e6844b2a43b81926e92d17debc5ed70d9734bc882875500d87d77" alt="Image" width="27%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_2/imgs/img_in_image_box_697_1273_960_1347.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F89a4e465b186f300529c9ab41a68915484d48714045c2f6f4bf6a4fbea4e71bf" alt="Image" width="22%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">Time to build some spintronic filters!</div> </div>
-
-
-DIFFCULTY: ☆☆☆☆☆
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//79db145c-45f7-4a25-ac32-78c033500759/markdown_3/imgs/img_in_image_box_60_137_1103_1572.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A28Z%2F-1%2F%2F54f5787dfb0ebce8bd3b448c6263766ac63eee66707b31568da964027f6dde37" alt="Image" width="87%" /></div>
-
-
-This one is tricky, but I'm pretty sure the parts go here.
-
-I can see it works because when I push S1 back and forth at low frequency, C1 doesn't move much, but at a high frequency, C1 moves a lot!
+## CHALLENGE 118: HIGH-PASS FILTER
 
 APPLY THE AC SIGNAL TO S1 BY PUSHING IT BACK AND FORTH WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE HIGH FREQUENCY PART OF SIGNALS PASS THROUGH TO C1, BUT IT MUST BLOCK THE DC PART.
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Yqb1C64.png" alt="Image" width="40%">
+</div>
+
+*This one is **tricky**, but I'm pretty sure the parts go **here**.*
+
+*I can see it works because when I push S1 back and forth at **low frequency**, C1 doesn't move much, but at a **high frequency**, C1 moves a lot!*
+
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 4 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
+
+#### DIFFCULTY: 3/5
+
+## CHALLENGE 119: LOW-PASS FILTER
+
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUENCY (AND DC) PART OF SIGNALS PASS THROUGH TO C1, BUT IT MUST BLOCK THE HIGH FREQUENCY PART OF SIGNALS.
 
-Input
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/wc0JklY.png" alt="Image" width="40%">
+</div>
 
-S1
+(S)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_0/imgs/img_in_chart_box_310_349_635_562.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F1e733d8c8de44e41ca4af2238820489d46f013a850c8cd7ce25ee917e98f2891" alt="Image" width="27%" /></div>
+*Think for a moment - **what would this circuit feel like?***
 
+*With my fingers, I'd have a constant force of about 6 V on S1, which is the "low frequency" part of my signal. At the same time, I'd wiggle it back and forth (the high frequency part of the signal).*
 
-Think for a moment - what would this circuit feel like?
-
-With my fingers,
-
-I'd have a constant force of
-
-about 6 ∇ on S1, which is the "low
-
-frequency" part of my signal. At the
-
-same time, I'd wiggle it back and forth
-
-(the high frequency part of the
-
-signal).
-
-While doing that, C1 should show the constant, low-frequency part of the signal, but it should filter out the high-frequency part!
+*While doing that, C1 should show the constant, low-frequency part of the signal, but it should filter out the high-frequency part!*
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_0/imgs/img_in_image_box_222_971_740_1568.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fb627b660fb39e9bcc8f1dbdda78357fa979da62dc1f0aad888c0f1ec0688c81d" alt="Image" width="43%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 4 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
 
+#### DIFFICULTY: 3/5
 
+## CHALLENGE 120: SMOOTH IT OUT
+MODIFY THE FULL WAVE RECTIFIER TO SMOOTH THE OUTPUT. THE CURRENT THROUGH A1 SHOULD BE **NEARLY CONSTANT**. (USE BOTH CAPACITORS IN PARALLEL TO MAKE IT AS SMOOTH AS POSSIBLE.)
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/zX66drj.png" alt="Image" width="40%">
+</div>
+(S)
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 500 $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 0.001 $ \bar{F} $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Y82XPYZ.png" alt="Image" width="40%">
+</div>
 
-DIFFICULTY: ⭐⭐⭐⭐
+#### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 5 \times Chain
+- 2 \times Capacitor (0.001 F)
+- 2 \times Junction
 
-MODIFY THE FULL WAVE RECTIFIER TO SMOOTH THE OUTPUT. THE CURRENT THROUGH A1 SHOULD BE NEARLY CONSTANT. (USE BOTH CAPACITORS IN PARALLEL TO MAKE IT AS SMOOTH AS POSSIBLE.)
+#### DIFFICULTY: 3/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_1/imgs/img_in_chart_box_326_347_601_544.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F0489231808e12db4ac86b88b7d7eca42606d2432254114370b2b245b04fd1798" alt="Image" width="23%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_1/imgs/img_in_image_box_614_87_1132_825.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F031889d319e127b4748245b9df40b380c95aac3c07416becf9706510d3ecf0e6" alt="Image" width="43%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_1/imgs/img_in_image_box_62_858_702_1583.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F804bc13fc728a80f0faabdaa73f45212bd4ccc1f866a8e1eb3d355fa04e8aca7" alt="Image" width="53%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 500  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>5</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_1/imgs/img_in_image_box_946_1017_1005_1100.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F51909d2ae9061216e8933232912841c3d4889e8a418486d4ab5010b0c3eae506" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_1/imgs/img_in_image_box_796_1226_874_1309.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A35Z%2F-1%2F%2Fb2de750c2f69d9f238d710faf7fb008fee3cb69590941978cbf5a316595d6c70" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-##### フラムフラム
-
-DIFFICULTY: ☆☆☆☆☆
-
-DATE:
-
-NOV 4, 1894
+## CHALLENGE 121: HIGH-PASS FILTTER 2
 
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE HIGH FREQUENCY PART OF SIGNALS PASS THROUGH TO A1, BUT IT MUST WEAKEN THE LOW FREQUENCY PART OF SIGNALS.
+(S)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_2/imgs/img_in_image_box_659_64_1133_768.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F655c1488e71324909f27140908ce9087d2b35dc9bf762323c73c467deeaa0e98" alt="Image" width="39%" /></div>
-
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_2/imgs/img_in_image_box_195_944_719_1570.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F938af60dbf92babb4dcd4c71c2417cce4cbfb5c08b370587e5d5fc5afd88518e" alt="Image" width="44%" /></div>
 
+#### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 4 \times Chain
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
+#### DIFFICULTY: 3/5
 
+## CHALLENGE 122: LOW-PASS FILTER 2
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 500  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_2/imgs/img_in_image_box_961_1228_1088_1337.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fdba1e9dcdb7aeb0286a72ed8a57a01218cd5b767d31e2d8a975ae01fddf77162" alt="Image"" /></td></tr></table>
+APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUENCY (AND DC) PART OF SIGNALS PASS THROUGH TO A1, BUT IT MUST WEAKEN HIGHER FREQUENCIES. 
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_2/imgs/img_in_image_box_811_1371_1080_1401.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F57677b5714daa4b38d9c86e6f4e0c3109e587a2d594efaaeb73bc5a6c3da6d50" alt="Image" width="22%" /></div>
+(S)
 
+*This time the output signal should get **weaker with higher frequencies!***
 
-#### CHALLENGE 122: LOW-PASS FILTER 2
-
-APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUENCY (AND DC) PART OF SIGNALS PASS THROUGH TO A1, BUT IT MUST WEAKEN HIGHER FREQUENCIES. This time
-
-the output signal should get
-
-weaker with higher frequencies!
-
+#### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_3/imgs/img_in_image_box_266_901_660_1510.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Fb43d2b42dcdf6e386250fa4b4fa9ee46fd2e3b0c9b891622b979ab5b40b92d10" alt="Image" width="33%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 4 \times Chain
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
+#### DIFFICULTY: 3/5
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_3/imgs/img_in_image_box_769_905_820_957.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Ff2ff4852e8b3e708b306c17b1cf0374be5aab0882e03dcefa3bc64e26f56638c" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_3/imgs/img_in_image_box_757_1196_832_1273.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F7bebd2f41706d50a49820a93d54029326161a68ff6697469f4110e7ab67a7324" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_3/imgs/img_in_image_box_864_1188_986_1287.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F887f2fd7dc65b3d5bce777308d5647d5da1c809fce7480be30fbb5cd66cfb65c" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_3/imgs/img_in_image_box_721_1318_981_1347.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F699bc730bfc2c39097944b763a07801553e76737f8e34fd6f654d719166013f9" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-DATE:
-
-NOV 21, 1894
-
-#### CHALLENGE 123: BAND-PASS FILTER
+## CHALLENGE 123: BAND-PASS FILTER
 
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT SHOULD WEAKEN BOTH HIGH AND LOW FREQUENCIES, BUT PASS MIDDLE FREQUENCIES THROUGH TO C1.
 
-The middle frequencies should be strongest?!? Maybe I could combine a low-pass and a high-pass filter?
+(S)
 
-STARTING SETUP
+*The **middle frequencies** should be strongest?!? Maybe I could combine a low-pass and a high-pass filter?*
+
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_0/imgs/img_in_image_box_344_900_748_1515.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F5b286be40e69c6960a0586068405723e8046a2e0bab02ba21edfd13d752aea21" alt="Image" width="33%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 6 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 2 \times Junction
+- 1 \times Inductor (55 H)
 
+#### DIFFICULTY: 4/5
 
+## Tutorial 32: Switched-Mode Power Conversion
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>6</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 0.001  $ \bar{f} $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_0/imgs/img_in_image_box_838_1194_918_1273.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F11bc60e1ee2b99c157bbe7e5347f72475d2c71e9f0de8b80677be1ec67897cee" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>1 55  $ \bar{H} $</td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_0/imgs/img_in_image_box_951_1183_1070_1284.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2F603cb43f1613f33f3fa360033c4276dbd137bd825de139b4ea19d6bf05aa3be5" alt="Image" width="10%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_0/imgs/img_in_image_box_805_1316_1064_1344.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A27Z%2F-1%2F%2Fe6580cf7f934e90cd776f132aa32830eae4490c66c925feab476b00f89e66ddd" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-NOV 25, 1894
-
-Natalia.
-
-Bruno says he loves the new spinograph we put in for him.
-
-He says he uses it every day.
-
-Natalia?
-
-Natalia!
-
-Natalia, are you spinographing with your friends again?
-
-Hmm? Oh, sorry
-
-papa-
-
-Wait. aren't you always telling me I need to try harder to make friends here?
-
-Yeeces...but all you write is nonsense! I don't know why I allowed you to put all those silly symbols in there.
-
-BTW I FINALLY TOLD ♥JUSTIN ♥ HE WAS SAYINO UR NAME WAS LIKE 😊 😊 😊! 4 REAL!
-
-PAPAAAAAAAA!
-
-You just don't get
-
-it.
-
-tap tap
-
-tippity tap $ ^{*} $
-
-Huh, well this is interesting.
-
-What is it?
-
-The mayor asked if he could come over next week.
-
-wonder why?
-
-#### Tutorial 32: Switched-Mode Power Conversion
-
-I'm always having to change voltages! The Spinograph runs on 6 ∇, the laundromatonic runs on 14 ∇, and the calculating machine runs on 5 ∇. Oh, and the town's generator produces 200 ∇!
+I'm **always** having to change voltages! The Spinograph runs on 6 V, the laundromatonic runs on 14 V, and the calculating machine runs on 5 V. Oh, and the town's generator produces 200 V!
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_3/imgs/img_in_image_box_173_496_1069_820.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2Faa7ffc2d35f805cd032862a5aea919d2f90efbe42145a49abdf995014437390c" alt="Image" width="75%" /></div>
 
+Lucky for us, we have spintronic coupling that we can use to easily **step up** or **step down** the spin voltage. However, in regular electronics it's not so easy. **Not at all.** Stepping down the town's 200 V to 5 V would be hard! I mean, at first I thought, "Just use a voltage divider!" But voltage dividers waste a LOT of energy.
 
-Lucky for us, we have spintronic coupling that we can use to easily step up or step down the spin voltage. However, in regular electronics it's not so easy. Not at all. Stepping down the town's 200 ∇ to 5 ∇ would be hard! I mean, at first I thought, "Just use a voltage divider!" But voltage dividers waste a LOT of energy.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/VNI3nQN.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//74d3e17c-7df8-4b9e-acab-3d140cef8a7c/markdown_3/imgs/img_in_image_box_451_1100_725_1460.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2Ffbfa8100ffc6e44431afab390b0623fe56ef97cecd86290e711a5d8872a1b141" alt="Image" width="23%" /></div>
+So how else can you turn a big voltage into a small one, or a small voltage into a big one? **Inductors!** You take an inductor and **rapidly switch the power to it on and off**. Depending on how you connect that inductor to your circuit, you can generate lower voltages or even higher voltages, and the best part is, **you hardly waste any energy!**
 
+These circuits are called "switched-mode power converters". The two fundamental ones are the **buck converter** (it steps down the voltage)...
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/FTTp4mE.png" alt="Image" width="40%">
+</div>
 
-So how else can you turn a big voltage into a small one, or a small voltage into a big one? Inductors! You take an inductor and rapidly switch the power to it on and off. Depending on how you connect that inductor to your circuit, you can generate lower voltages or even higher voltages, and the best part is, you hardly waste any energy!
+...and the **boost converter** (it steps up the voltage):
 
-These circuits are called "switched-mode power converters". The two fundamental ones are the buck converter (it steps down the voltage)...
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/tpQlraS.png" alt="Image" width="40%">
+</div>
 
-Switching signal
+The voltage they produce is a little bumpy from all the switching, but switched-mode converters are **far more efficient** than voltage dividers AND they can step **up** the voltage (you can't step up the voltage with a voltage divider!)
 
-Buck
+Well, switched-mode power converters **aren't needed** in spintronics, I'm going to figure out how to make them, anyway. **Something useful** ought to come of it...
 
-converter
+## CHALLENGE 124: BUCK CONVERTER - PART 1
 
-Input voltage
+BUILD A CIRCUIT THAT POWERS THE 100  Ohm LOAD IN THE FOLLOWING WAY:
 
-Output voltage
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/iXAUfam.png" alt="Image" width="40%">
+</div>
 
-...and the boost converter (it steps up the voltage):
+**NOTE:** YOU'LL HAVE TO TURN S1 ON AND OFF PRETTY FAST.
 
-Switching signal
+*A **100 Ohm load**? Oh! I see. The 200 Ohm resistor is coupled in such a way that it **feels** like a 100 Ohm resistor.*
 
-Boost
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/iVdgp4i.png" alt="Image" width="40%">
+</div>
 
-converter
+#### AVAILABLE PARTS
+- 5 \times Chain
+- 1 \times Diode
+- 1 \times Junction
+- 1 \times Capacitor (55 H)
 
-Input voltage
+#### DIFFICULTY: 4/5
 
-Output voltage
-
-The voltage they produce is a little bumpy from all the switching, but switched-mode converters are far more efficient than voltage dividers AND they can step up the voltage (you can't step up the voltage with a voltage divider!)
-
-Well, switched-mode power converters aren't needed in spintronics,
-
-I'm going to figure out how to make them, anyway. Something
-
-useful ought to come of it...
-
-#### CHALLENGE 124: BUCK CONVERTER - PART 1
-
-BUILD A CIRCUIT THAT POWERS THE 100  $ \bar{\Omega} $ LOAD
-
-IN THE FOLLOWING WAY:
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Input</td><td style='text-align: center; word-wrap: break-word;'>S1</td><td style='text-align: center; word-wrap: break-word;'>ONOFF</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Output</td><td style='text-align: center; word-wrap: break-word;'>A1</td><td style='text-align: center; word-wrap: break-word;'>Current</td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_chart_box_405_415_640_493.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A06Z%2F-1%2F%2Fd6fd9dacc77208badef94c2d31d4c8cc6a43c47f52c0ca7da3dd90d490505b18" alt="Image" width="19%" /></div>
-
-
-NOTE: YOU'LL HAVE TO TURN S1 ON AND OFF PRETTY FAST.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_819_153_1133_274.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A06Z%2F-1%2F%2F7220a7fba1efcd6f8b999e447dac62379572d58f6c0753bba5e68999763bf441" alt="Image" width="26%" /></div>
-
-
-load? Oh! I see. The 200  $ \bar{\Omega} $ resistor is coupled in such a way that it feels like a 100  $ \bar{\Omega} $ resistor.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_157_548_665_728.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A07Z%2F-1%2F%2F0dee254bb054b2a12627f0f99dccdae584388af77f16142bcd1c12be7bab82b5" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_153_897_746_1525.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A07Z%2F-1%2F%2F7781d3e7d483edef4a3bfdfa662f8991b68ec3d6eafec385fbbb5dda9d6675b9" alt="Image" width="49%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_946_896_1047_960.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A08Z%2F-1%2F%2F4e7de5a19639f376b5f38b9ae5c9754d1ef00f082a58e564b2ae53b3c5ccae88" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_808_1075_906_1169.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A08Z%2F-1%2F%2F456d99ce10d5233d6b9dc044b107adc5b77452454660e71ea0261658355a9065" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_809_1183_916_1261.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A08Z%2F-1%2F%2Ffd4e984c1e494304d87b2506089dabd66ba470cbb94826d11bf747de7138d787" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_947_1175_1070_1271.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A08Z%2F-1%2F%2Fedc968719837abb8761d4423efcdaab502dc1b659d868ebcf83448d78971e2ba" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_2/imgs/img_in_image_box_802_1304_1063_1331.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A07Z%2F-1%2F%2F2e73f07501ca985e006d1179fbe73652a91242ade7e03a5b23ef456c36cd6a27" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-DEC 9, 1894
-
-#### CHALLENGE 125: BUCK CONVERTER - PART 2
+## CHALLENGE 125: BUCK CONVERTER - PART 2
 
 IMPROVE THE BUCK CONVERTER BY ADDING A LOW-PASS FILTER (USING C1 AND C2) THAT REDUCES THE RIPPLE.
 
-Input
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/SZFpyjM.png" alt="Image" width="40%">
+</div>
 
-Output
+**NOTE:** REMEMBER TO TURN S1 ON AND OFF QUICKLY.
 
-NOTE: REMEMBER TO TURN S1 ON AND OFF QUICKLY.
+*Neat! I converted 6 V to a lower voltage **without wasting hardly any energy**.*
 
-lll llll llll
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/PWmTxYw.png" alt="Image" width="40%">
+</div>
 
-Neat!
+#### AVAILABLE
+- 3 \times Chain
+- 1 \times Switch
+- 1 \times Junction
 
-I converted 6 ∇ to a lower voltage without wasting hardly any energy.
+#### DIFFICULTY: 3/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_3/imgs/img_in_image_box_59_832_689_1529.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A10Z%2F-1%2F%2F18268edccc02560acdc3d2cb48ba92638bf5ee3dba5455bb8b888ba43c15732e" alt="Image" width="52%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_3/imgs/img_in_image_box_790_999_844_1053.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A11Z%2F-1%2F%2Feb8a9f90d7e80618084849c6399a120713c9d01221b8066599262687d08c2122" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_3/imgs/img_in_image_box_780_1188_856_1268.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A11Z%2F-1%2F%2F4cf914e8b9952ba805e5f5c32b8b1fd8fd495e60158b0acea2f84502017dd021" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//97dea6e2-da03-4f67-a93e-9c80d04d0c2b/markdown_3/imgs/img_in_image_box_743_1312_1005_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A10Z%2F-1%2F%2F2eb54ba426c4234afd78c60d612f56a81acde44ecbaec42f59546ccfc4d77679" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-DEC 19, 1894
-
-#### CHALLENGE 126: BOOST CONVERTER - PART 1
+## CHALLENGE 126: BOOST CONVERTER - PART 1
 
 WHEN S1 IS ON, THE INDUCTOR MUST SPIN UP. THEN, WHEN S1 IS TURNED OFF, IT MUST BLAST A1 WITH A SURGE OF CURRENT.
 
@@ -1931,10 +2132,6 @@ A1
 
 
 DIFFICULTY: ⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-JAN 16, 1895
 
 #### CHALLENGE 127: BOOST CONVERTER - PART 2
 
@@ -1969,10 +2166,6 @@ on R1
 
 DIFFICULTY: ★★★★★
 
-DATE:
-
-JAN 27, 1895
-
 #### CHALLENGE 128: SYNCHRONOUS SWITCH
 
 CONNECT THE GATES OF T1 AND T2 TOGETHER SO THAT ONE OF THEM IS ALWAYS OPEN (LIKE IN THE STARTING SETUP BELOW). WHEN THE GATES ARE TURNED CLOCKWISE, L1 MUST TURN. OTHERWISE, A1 MUST TURN.
@@ -1993,11 +2186,7 @@ STARTING SETUP
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
 
- $ \underline{\text{DATE:}} $
-
-FEB 4, 1895
-
-BUILD A CIRCUIT THAT SETS C1 TO +6 ∇ WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE WAY AND TO -6 ∇ WHEN IT'S FLIPPED THE OTHER WAY. THE SYNCHRONOUS SWITCH MUST ALSO CONTROL THE DIRECTION THAT A1 SPINS.
+BUILD A CIRCUIT THAT SETS C1 TO +6 V WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE WAY AND TO -6 V WHEN IT'S FLIPPED THE OTHER WAY. THE SYNCHRONOUS SWITCH MUST ALSO CONTROL THE DIRECTION THAT A1 SPINS.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_71_961_678_1539.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2Ffb44ccbeee2375b814a83a2c556b042a42e6e3198c74337f8bc26fabf2272a86" alt="Image" width="51%" /></div>
 
@@ -2011,13 +2200,7 @@ BUILD A CIRCUIT THAT SETS C1 TO +6 ∇ WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_733_1310_996_1340.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2F62e43547ce997fe4d5834f98e2a2dec8ddb839aaa5b40b3253ef5ddf0c5f6365" alt="Image" width="22%" /></div>
 
 
-DIFFICULTY:
-
-★★★★☆
-
-DATE:
-
-EB 16,1895
+DIFFICULTY: ★★★★☆
 
 #### CHALLENGE 130: SYNCHRONOUS BOOST CONVERTER
 
@@ -2047,10 +2230,6 @@ Output
 
 ★★★★★
 
- $ \underline{\text{DATE:}} $
-
-FEB 26, 1895
-
 #### CHALLENGE 131: SYNCHRONOUS BUCK CONVERTER
 
 BUILD A BUCK CONVERTER TO POWER THE 100  $ \Omega $ LOAD LIKE BEFORE, BUT NOW REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
@@ -2077,11 +2256,7 @@ V on LOAD
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_727_1315_985_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A25Z%2F-1%2F%2Fb5a27e6000962d3e1cbcd6f881f3b45432be32e3ecf7fd337671d107c5cb86c3" alt="Image" width="21%" /></div>
 
 
-DIFFICULTY:
-
-DATE:
-
-☆☆☆☆☆
+DIFFICULTY: ☆☆☆☆☆
 
 MAR 3, 1895
 
@@ -2102,65 +2277,6 @@ ALL PARTS ARE AVAILABLE (EXCEPT INDUCTORS). IF YOU'RE STUCK, FEEL FREE TO SKIP T
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_862_903_916_958.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2Fa9ea1d092ae5ae7cb378b4ac46a9941311f596c374a8f16188ceee919ec5f475" alt="Image"" /> 1000  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_949_900_1055_966.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2F2f021206123f1226ebebc077cab8ab532e689cfd86bf7450b9506a7e0b0c6754" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_863_1001_915_1051.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2Faf4f39f9019df1c9bf5ae372a3c837dc66f45668b419e0a338428efa909a6b3a" alt="Image"" /> 500  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_996_998_1055_1075.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2Ffeee42ef29fa3cf1a0c35c697e98bf783de86206af28c1c9ddf91fb7af5583a5" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_864_1095_915_1149.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2F376948b46db1a0cfd3bf4d243a432716a3f87d91c70500e947887f543cf81aa6" alt="Image"" /> 200  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_1002_1101_1054_1152.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2Fa78d79b12a4d84d4c239ad9ca5564e146666965c64a3df996de07ad397deaba7" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_850_1188_926_1261.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A32Z%2F-1%2F%2Fdf43b40de12fba8b20027631194e79c6463a2c036e4b3fe07abd299a1b127e1c" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_986_1184_1066_1262.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A32Z%2F-1%2F%2F040a10fe8a0ce7b247580cae7184b21fe49cd7a0b7f4f509e255fa22fd69f529" alt="Image"" /></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_816_1304_1072_1330.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A29Z%2F-1%2F%2F85ca042c67f54e0fbf246a6b5d31d2ad2b59030337fcc8608aa0028779b2ff71" alt="Image" width="21%" /></div>
-
-
-MAR 24, 1895
-
-Natalia! You're late for school!
-
-Just a second.
-
-Mama!
-
-Not just a second.
-
-NOW!
-
-Mayor Joe, it's nice to see you. What can we do for you?
-
-nock $ ^{*} $
-
-knock $ ^{*} $
-
-I never thought I'd say it, but this town is growing. And fast! We have you to thank for that.
-
-Ha! What can't you do is a better question!
-
-Last week, the town met and we all agreed that we need to return the favor.
-
-Well, mayor, all we did was provide some tools. It was the people of this town that turned it into what it is today.
-
-Oh, that's so
-
-kind.
-
-We all decided that you need to do something else for us.
-
-Something big. Very big.
-
-We all chipped
-
-in to have you build
-
-a clock tower for our
-
-town.
-
-A big, beautiful clock tower! Bigger than the ones in Shinsville and Appletown combined!
-
-Oh!
-
-There's just one thing...
-
-...do
-
-you, uh, know
-
-how to make
-
-clocks?
-
-What?
 
 #### Tutorial 33: Feedback
 
@@ -2212,10 +2328,6 @@ BUILD A CIRCUIT WHERE A TRANSISTOR BEGINS WITH ITS GATE CLOSED. WHEN IT IS OPENE
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-DATE:
-
-APR 4, 1895
-
 #### CHALLENGE 134: PRESS S1 TO START
 
 PRESS S1 TO START A1 MAKING NOISE. AFTER THAT, A1 SHOULD CONTINUE TO MAKE NOISE, EVEN WHEN S1 IS TURNED BACK OFF AGAIN.
@@ -2258,10 +2370,6 @@ BUILD A CIRCUIT THAT CHARGES L1 WHEN S1 IS ON AND THEN OSCILLATES (I.E., SWINGS 
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-DATE:
-
-APR 20, 1895
-
 BUILD A NOT GATE CONTROLLED BY TI (SEE ACT ONE). THEN CONNECT THE OUTPUT OF THE NOT GATE TO THE GATE OF TI.
 
 THE IDEA IS:
@@ -2289,10 +2397,6 @@ Will it work?
 
 
 DIFFICULTY: ⭐⭐⭐⭐
-
-DATE:
-
-APR 24, 1895
 
 #### Tutorial 34: Oscillators
 
@@ -2347,10 +2451,6 @@ ON OFF
 
 DIFFICULTY: ⭐⭐⭐⭐
 
- $ \underline{\text{DATE:}} $
-
-APR 29, 1895
-
 IN THE OSCILLATOR BELOW, THE INDUCTOR SLAMS OPEN THE TRANSISTOR GATE IN EACH OSCILLATION.
 
 THE REMAINING ENERGY HAS NOWHERE TO GO. MODIFY THE CIRCUIT BY ADDING A CAPACITOR THAT SOAKS UP THE EXTRA ENERGY, SMOOTHING OUT THE OSCILLATIONS.
@@ -2368,10 +2468,6 @@ Output
 
 
 DIFFICULTY: ⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-MAY 2, 1895
 
 # CHALLENGE 139: RELAXATION OSCILLATOR - PART 1
 
@@ -2421,27 +2517,19 @@ C2
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_769_900_823_957.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A15Z%2F-1%2F%2Fbb095bde2555fd890a0a6107ef28afd04c73dcebeafb3824354c7bdcc95f6b32" alt="Image"" /> 1000  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_866_898_965_963.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A15Z%2F-1%2F%2F958fbf4e372d4b36c28cd167526af4aa7367942f9e7c47e608b6148b634847a9" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_759_1196_836_1276.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A15Z%2F-1%2F%2F2d2392a95f6d87e193027aea249aec284bb887f260bd5ab93842b13a33797b1a" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_722_1322_985_1350.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A14Z%2F-1%2F%2F1918a3aa8fa2d0840a1298a5a654f9faaf805cf6f616c0f78191e4c9bcf291ee" alt="Image" width="22%" /></div>
 
 
 DIFFICULTY: ☆☆☆☆☆
 
- $ \underline{\text{DATE:}} $
-
-MAY 20, 1895
-
 #### CHALLENGE 141: RELAXATION OSCILLATOR - PART 3
 
 REMOVE C1 AND C2. THEN, SEND THE OUTPUT OF THE NOT GATE TO THE INPUT OF THE BUFFER GATE AND SEND THE OUTPUT OF THE BUFFER GATE TO THE INPUT OF THE NOT GATE. ANOTHER OSCILLATOR1
 
 1. WHEN T1 IS ON, T2 TURNS OFF
-
 2. WHEN T2 IS OFF, T1 TURNS OFF
-
 3. WHEN T1 IS OFF, T2 TURNS ON
-
 4. WHEN T2 IS ON, T1 TURNS ON
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_0/imgs/img_in_image_box_170_836_755_1521.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A32Z%2F-1%2F%2F61252160a10059ef436ddb9a9418708112fecc26ac23b02c8f21f426fa0fd58e" alt="Image" width="49%" /></div>
@@ -2454,58 +2542,9 @@ REMOVE C1 AND C2. THEN, SEND THE OUTPUT OF THE NOT GATE TO THE INPUT OF THE BUFF
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-DATE:
-
-MAY 23, 1895
-
-# LITTLE HOPE HERALD
-
-### TEENAGER'S TERRIFIC TECHNOLOGY TAKES THE TOWN
-
-If you haven't already seen it, ridden in it, or used it, you've been living in a hole. Spintronics has taken the town by storm! The townsfolk responsible for this staggering transformation are Natalia and her parents, Viktor and Anya Popov. The Popovs left Russia and joined our little town 3 short years ago. They were clockmakers back home, but became our local handymen. Meanwhile, their daughter Natalia began creating Spintronics in their backyard workshop. "We didn't have a clue what she was inventing until one day we went out to the shed and there it was, something I'd never seen before." Anya Popov said. "She learned to make clocks from us, but spintronics had never even crossed
-
-Continued on Page 3
-
-# The Missouri Gazette
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_1/imgs/img_in_image_box_462_336_591_443.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F0376b6cdccb136a90d2b5cb673cfbaf3ab94ca7aec93cd42c16d6706e4df020d" alt="Image" width="10%" /></div>
-
-
-### SPINTRONICS BOOMS MISSOURI'S ECONOMY
-
-Families and businesses are flocking to Missouri, riding the economic boom brought on by a new local technology. Indeed, spintronics is transforming Missouri's economy. But few would guess that this world-changing technology was invented in the humble town of Little Hope by a year old. Natalia Popov invented spintronics in her backyard workshop in order to do her chores in less time. Truly, necessity is the motto of invention, as the automation laundry machine she beings are inventing would soon find more applications. "Nash always been an animal girl," said Little Hope Joseph Arnold. "One of the most other Anya came installed the first in powered by spintronics home - an automatic Continued on Page
-
-## NEW SPIN TRONICS VISITED BY EDISON, TESLA
-
-## The New York
-
-While here in New York, we find the technology of "electricity" becoming a part of our everyday lives, a competing technology is burgeoning in Little Hope, Missouri: A technology that goes by the name of "spintronics". Instead of harnessing power through a rat's nest of metal wire, spintronics hardensnesses mechanical power - contraptions made of sprockets and chains. The technology has transformed the town of Little Hope into a thriving
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_1/imgs/img_in_image_box_452_877_760_1120.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fbe72978ede7fb29fb428df8ae9e9ed544f2bf5d4c4701a0055dd6dad1ba6beac" alt="Image" width="25%" /></div>
-
-
-hub of commerce. Thomas Edison, the infamous inventor, and Nikola Tesla, an accomplished electricity scientist, have set off by rail to visit the inventor of the technology, 14-year old Natalia Popov. "Spin-tronics is ground-breaking," said railway magnate, George Westinghouse. "We have See SPINTRONICS on Page 14
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_1/imgs/img_in_image_box_812_812_1039_995.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fb6033a7ea7b8d3771c7f0fde5c6b7b048b89abf9cf1b4a0d76cb4409afef5965" alt="Image" width="19%" /></div>
-
-
-Visitors traveled to Little Hope from all over to see the town as it grew and grew
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_2/imgs/img_in_image_box_144_626_603_1009.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fc1d9be1a18818669d96d1d1762c1cbb2a8f3b6872f24aa62d95886797cac1ac4" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_2/imgs/img_in_image_box_603_656_1075_1028.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F0c33b2ce7fe7234e7ffd968f2a5df614d979e128631f3e6b99a0733cf8f0ecdd" alt="Image" width="39%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_2/imgs/img_in_image_box_133_1025_590_1403.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2Ff3f885149f9ca8e6f3ee24c014605db8039a990368c19c4d2f88ddc5e86e2fc9" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_2/imgs/img_in_image_box_575_1033_1116_1496.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F036d0f87a80e7a4908e5f9a5a42bca79921afc1be16629af9983a022c4045ac1" alt="Image" width="45%" /></div>
-
-
 #### CHALLENGE 142: CURRENT SOURCE - PART 1
 
-BUILD A CIRCUIT THAT APPLIES -2 ∇ TO THE GATE OF TRANSISTOR T1. IT SHOULD BE ENOUGH TO COMPLETELY OPEN THE GATE.
+BUILD A CIRCUIT THAT APPLIES -2 V TO THE GATE OF TRANSISTOR T1. IT SHOULD BE ENOUGH TO COMPLETELY OPEN THE GATE.
 
 IMPORTANT: NOTICE WHICH WAY THE GATE OF TURNS IN THE STARTING SETUP BELOW.
 
@@ -2516,16 +2555,11 @@ IMPORTANT: NOTICE WHICH WAY THE GATE OF TURNS IN THE STARTING SETUP BELOW.
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_781_898_841_977.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F1c5ce2e55d0b5ec55f0ba0b5c77133957feceb691eb959ef9e55f73e78fc517c" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_880_897_979_962.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F54901e1fc50b7579139c79b42244ab464208344fe4a35b0d86537b989adf6617" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_784_992_838_1070.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2Fa976c6d6e8b015e9a908a051e89e70322055e1313837fd4880a72642cd0f1cc9" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_771_1190_849_1268.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2Fca9d02f636e25b6279742f93b30f379fe1ca0e83702d42e8ba4a1fd1f1f7b38d" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_734_1311_996_1340.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F80688b43ef7cf0cffd130b6339465f122875e76a71b71a080ce5b5ace83a8fcb" alt="Image" width="22%" /></div>
 
 
 DIFFICULTY: ⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-JUN 7, 1895
 
 #### CHALLENGE 143: CURRENT SOURCE - PART 2
 
@@ -2538,22 +2572,17 @@ BUILD THE STARTING SETUP. THEN CONNECT A1 TO S1 IN SUCH A WAY THAT WHEN YOU TURN
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_0/imgs/img_in_image_box_953_890_1052_955.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F31274e35a1a823abca7bf19419405045c495e40ed1673477487f200ab33d6952" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_0/imgs/img_in_image_box_808_1302_1069_1329.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fba8e1720c8708c1c803423fb2895ee64993dbc8bdc80eca3309b69f3b3a169d9" alt="Image" width="21%" /></div>
 
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
 
- $ \underline{\text{DATE:}} $
-
-JUN 11, 1895
-
 #### CHALLENGE 144: CURRENT SOURCE - PART 3
 
 MODIFY THE CIRCUIT SO THAT IT APPLIES A CONSTANT CURRENT TO S1. IT MUST STAY ROUGHLY CONSTANT EVEN WHEN A SMALL AMOUNT OF RESISTANCE IS APPLIED TO S1 WITH YOUR FINGERS.
 
-HINT: USE THE 200  $ \bar{\Omega} $ RESISTOR TO ADD FEEDBACK TO  $ \Pi $, CLOSING  $ \Pi $ WHEN THE CURRENT RISES.
+HINT: USE THE 200  Ohm RESISTOR TO ADD FEEDBACK TO  $ \Pi $, CLOSING  $ \Pi $ WHEN THE CURRENT RISES.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_92_907_681_1533.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F7ed57cfa63481d56d8909d2122015c22d066d2e196a85699e6ed6e2e2ce9b2eb" alt="Image" width="49%" /></div>
 
@@ -2562,18 +2591,13 @@ HINT: USE THE 200  $ \bar{\Omega} $ RESISTOR TO ADD FEEDBACK TO  $ \Pi $, CLOSIN
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_787_903_840_958.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A38Z%2F-1%2F%2Faafa35f5ed0cfdf2ca4ac6be4792b1fe437cc299c32f43cf36888d5d25529fed" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'>2</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_774_1193_851_1270.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A38Z%2F-1%2F%2Fe90e3a5749abbd4309aeaa5fe208c7a15b28d615f0b922780eb398ed406d2ce8" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_739_1313_998_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Fc3888d414e284d4baaae237334bc45d839cc08559882389789f1fb53d48b4213" alt="Image" width="21%" /></div>
 
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-DATE:
-
-JUN 16, 1895
-
-BUILD TWO NOT GATES IN PARALLEL WITH EACH OTHER. THE GATE MADE FROM T1 MUST PRODUCE -6 ∇ ON C1 AND THE GATE MADE FROM T2 MUST PRODUCE +6 ∇ ON C2:
+BUILD TWO NOT GATES IN PARALLEL WITH EACH OTHER. THE GATE MADE FROM T1 MUST PRODUCE -6 V ON C1 AND THE GATE MADE FROM T2 MUST PRODUCE +6 V ON C2:
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_666_148_1132_569.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F37d1f0f2f26005ecf8ef368396c51f38e9fcfa84466e560de1229ffcfbac03ee" alt="Image" width="39%" /></div>
 
@@ -2587,16 +2611,11 @@ BUILD TWO NOT GATES IN PARALLEL WITH EACH OTHER. THE GATE MADE FROM T1 MUST PROD
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_850_895_905_969.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2Ffecf78f2b4190dab339e289d6e46f207d5a59afa8fe309acbb5f914627982781" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_948_892_1047_958.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F90b61447a02eeae9f676e798aeefa2da6c83dfb4de4ddffaf219ac014630245c" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_839_1186_916_1263.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F0f92d5258ff2740e49bacc7123fbb76c04622cc2892ba57f50f3b26693ce3bc8" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_802_1307_1064_1335.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F78574efc6d9fbf6b310b4d2af671314bbc4ef40f0cfa8b22af06938a02405b5c" alt="Image" width="22%" /></div>
 
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-JUN 24, 1895
 
 # CHALLENGE 146: FLIP-FLOP - PART 2 (SCHMITT TRIGGER)
 
@@ -2613,10 +2632,6 @@ STARTING SETUP
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
 
- $ \underline{\text{DATE:}} $
-
-JUL 2, 1895
-
 #### CHALLENGE 147: FLIP-FLOP - PART 3
 
 MODIFY THE CIRCUIT SO THAT THE TRANSISTORS ARE FLIpped ON OR OFF BY S1 AND S2 (INSTEAD OF WITH YOUR FINGERS.) USE C1 TO SHOW THE FLI-FLOP'S STATE.
@@ -2630,25 +2645,14 @@ MODIFY THE CIRCUIT SO THAT THE TRANSISTORS ARE FLIpped ON OR OFF BY S1 AND S2 (I
 ##### AVAILABLE PARTS
 
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>6</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_0/imgs/img_in_image_box_800_1188_914_1267.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fe86279d10fb8b4c1f8d8b7116aaf6bb557ba1644a00ed1917811aa4d2fb68906" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_0/imgs/img_in_image_box_797_1310_1061_1338.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F8ae620d8487c2b3693522f8f528ec1c7e11bb797a09ebac371ba6546e375e14b" alt="Image" width="22%" /></div>
 
 
 DIFFICULTY: ⭐⭐⭐⭐
 
-DATE:
-
-JUL 16, 1895
-
-### CHALLENGE 148: XOR GATE (VERY DIFFICULD)
+### CHALLENGE 148: XOR GATE (VERY DIFFICULT)
 
 THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 IS ON (BUT NOT BOTH).
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">INPUT</td><td colspan="2">OUTPUT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>S1</td><td style='text-align: center; word-wrap: break-word;'>S2</td><td colspan="2">A1</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>OFF</td><td style='text-align: center; word-wrap: break-word;'>OFF</td><td colspan="2">No Sound</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>OFF</td><td style='text-align: center; word-wrap: break-word;'>ON</td><td colspan="2">Sound</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ON</td><td style='text-align: center; word-wrap: break-word;'>OFF</td><td colspan="2">Sound</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ON</td><td style='text-align: center; word-wrap: break-word;'>ON</td><td colspan="2">No Sound</td></tr></table>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_1/imgs/img_in_image_box_581_122_1127_771.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F4f10bfcda4ee6012221ede06cd940f3042589e326e4d4e3ad63bdd4e35e9bca7" alt="Image" width="45%" /></div>
 
@@ -2666,10 +2670,6 @@ ALL PARTS ARE AVAILABLE
 
 
 DIFFICULTY: ⭐⭐⭐⭐
-
- $ \underline{\text{DATE:}} $
-
-JUL 18, 1895
 
 # CHALLENGE 149: PULSE GENERATOR (VERY DIFFICULT)
 
@@ -2689,60 +2689,6 @@ ALL PARTS ARE AVAILABLE
 
 DIFFICULTY: ⭐⭐⭐⭐⭐
 
- $ \underline{\text{DATE:}} $
-
-JUL 22, 1895
-
-We'll have two scoops of hazelnut ice cream...
-
-...and one scoop of chocolate cake butternut caramel sparkle swirl.
-
-Natalia...
-
-We want you to know how proud we are of you.
-
-Since we moved here 3 years ago, you had to make hard sacrifices.
-
-And we weren't there to give you much help.
-
-But you didn't give up or retreat.
-
-You did something about it.
-
-ICE CREAM
-
-You took
-
-a tough situation and
-
-did what you could to
-
-improve it.
-
-And in the process, you improved the lives of everyone around you.
-
-Well, we have some exciting news for you. Thanks to spintronics...
-
-...We've managed to save enough money to finish our move west and start up the old clockmaking business again!
-
-I'm so excited!
-
-We'll probably need to head out in a couple of weeks if we want good weather.
-
-And there won't be any winding stations once we get past Greenville, so we'll have to make some kind of portable winding
-
-That sounds like a challenge. Any ideas how we could do that, Natalia?
-
-Natalia?
-
-I don't want to go. I want to stay here.
-
-No.
-
-GENERAL STORE
-
-have another idea...
-
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//048e83d6-399f-4b7d-8e56-b47d7b76b66a/markdown_3/imgs/img_in_image_box_76_157_1055_1470.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A13Z%2F-1%2F%2F1271685397af12457459ffce5e38ac46682990f19ceee9841631e4944b42a404" alt="Image" width="82%" /></div>
 
 
@@ -2754,16 +2700,6 @@ have another idea...
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//71834a43-40ee-4b1b-8b67-f154b18fbc0f/markdown_1/imgs/img_in_image_box_663_170_988_205.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A23%3A26Z%2F-1%2F%2F57d5619cadceb3b5659c2dbe13b2858e7aa56af7da3b222d252878724f325d89" alt="Image" width="27%" /></div>
 
-
-# SPECIAL THANKS
-
-Brown Kok, The 4th Jawa - Caleb Maki and Silas Maki - Felicity Pollard & Anita - Michael Schwartz & Angela Promitter - Adam "Miles Prower" Fox - Samuel Herring & Ania Tomek Stefan Koste's Wiesnaccy & Eline, Charles Catheline in Peter - Desmond Bium, Shoboo, Wilson Family, Chris Oskasi & John, Austin, and Caroline - Nick Taylor - For Amy & Illont Donnellan, Happy Spinning - Mike Robinson & OMMS Frackowski & Crocker Family - Eva & Jandry-Liam & Nathan - Gabriel J. Jasper Steggen - Dato and DVA + David Tsang - Cameron and Theo E-Jose and Imogen - Jakub Lipina - Kellie Riddeitt, Isabella David Riddeitt, Elijah David Riddeitt, Narshad David, Marxian, Christine und Franziska & Jonathan Dy - Jason J. Jason - Kafner J. Keysee J. Yvonne & Mark Sebastian Becker - Pelly 1980 - Kyle Amanda, Leyton and Derek Stein - Maggie, Kera & William Wadour, Audrey & Elliott Michael & Big Gothard & Bayman & Eddie and Ollie - Jacco, Mariska, Jack & Bob Bode - Melanie & Mark - John & James
-
-Sarah, Tony, Amroty, Rachel, Auf Suk, Aren, Michael, Michael, Michael, Michael,
-
-Alibaba Ludeck et Chare Wilt and Oven Sullivan May Arjanyak, Power Upl Airles, Jeremy, Amul, Andrew & Morren Farley Osterberg & Arjan & J
-
-March Roadmap - Patrick Reynolds - John Brown - Lester Hush - Mar
 
 # SELECTED SOLUTIONS
 

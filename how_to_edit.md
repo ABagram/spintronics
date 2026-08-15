@@ -1,11 +1,12 @@
 
-# Guide for Editing and Exporting
+# Guide for Editing and Exporting in VS Code Windows
 
 ## Table of Contents
 - [How to edit a markdown file in VS Code](#how-to-edit-a-markdown-file-in-vs-code)
- - [How to speed up your workflow for adding images](#how-to-speed-up-your-workflow-for-adding-images)
+  - [How to speed up your workflow for adding images](#how-to-speed-up-your-workflow-for-adding-images)
   - [How to setup ShareX](#how-to-setup-sharex)
   - [How to setup AutoHotkey](#how-to-setup-autohotkey)
+  - [How to speed up workflow for Find and Replace to add images](#how-to-speed-up-workflow-for-find-and-replace-to-add-images)
 - [How to export a markdown file into PDF in VS Code](#how-to-export-a-markdown-file-into-pdf-in-vs-code)
 
 ## How to edit a markdown file in VS Code
@@ -88,6 +89,28 @@
 Now your workflow is as simple as:
 1. Take a screenshot: `Ctrl + Fn + Prt Sc`.
 2. Paste the wrapped HTML code: `Ctrl + Win + V`.
+
+### How to speed up workflow for Find and Replace to add images 
+1. In VS Code, open the Find and Replace widget (`Ctrl + F`).
+2. Click the Regex icon (`.*`) beside the Find input field to enable regular expressions.
+3. Enter the Find and Replace expressions in the input fields, respectively.
+
+For example:
+To check all instances of `\times Junction` and automatically insert the junction icon `<div>` block if it isn't there:
+- Find:
+    ```
+    (\\times Junction)\r?\n(?!\s*<div)
+    ```
+    Notes:
+    - `\r?\n` targets the line break immediately following the `- 1 \times Junction` text
+    - `(?!\s*<div)`
+        - `?!` look ahead and ensure that the find matches are not followed by
+        - `\s*` any whitespace characters (e.g., spaces, tabs) and a
+        - `<div` tag
+- Replace:
+    ```
+    $1\n    <div style="text-align: left;">\n        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">\n    </div>
+    ```
 
 ## How to export a markdown file into PDF in VS Code
 1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
