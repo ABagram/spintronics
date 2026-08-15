@@ -2044,13 +2044,13 @@ So how else can you turn a big voltage into a small one, or a small voltage into
 
 These circuits are called "switched-mode power converters". The two fundamental ones are the **buck converter** (it steps down the voltage)...
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/FTTp4mE.png" alt="Image" width="40%">
+    <img src="https://i.imgur.com/FTTp4mE.png" alt="Image" width="70%">
 </div>
 
 ...and the **boost converter** (it steps up the voltage):
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/tpQlraS.png" alt="Image" width="40%">
+    <img src="https://i.imgur.com/tpQlraS.png" alt="Image" width="70%">
 </div>
 
 The voltage they produce is a little bumpy from all the switching, but switched-mode converters are **far more efficient** than voltage dividers AND they can step **up** the voltage (you can't step up the voltage with a voltage divider!)
@@ -2059,7 +2059,7 @@ Well, switched-mode power converters **aren't needed** in spintronics, I'm going
 
 ## CHALLENGE 124: BUCK CONVERTER - PART 1
 
-BUILD A CIRCUIT THAT POWERS THE 100  Ohm LOAD IN THE FOLLOWING WAY:
+BUILD A CIRCUIT THAT POWERS THE 100 Ohm LOAD IN THE FOLLOWING WAY:
 
 <div style="text-align: center;">
     <img src="https://i.imgur.com/iXAUfam.png" alt="Image" width="40%">
@@ -2110,577 +2110,504 @@ IMPROVE THE BUCK CONVERTER BY ADDING A LOW-PASS FILTER (USING C1 AND C2) THAT RE
 
 WHEN S1 IS ON, THE INDUCTOR MUST SPIN UP. THEN, WHEN S1 IS TURNED OFF, IT MUST BLAST A1 WITH A SURGE OF CURRENT.
 
-Input
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/lwBfBxD.png" alt="Image" width="40%">
+</div>
 
-Output
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/O3bkHkI.png" alt="Image" width="40%">
+</div>
 
-A1
+#### AVAILABLE PARTS
+- 4 \times Chain
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_0/imgs/img_in_image_box_655_139_1134_732.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A28Z%2F-1%2F%2F1e04e554668e28b1b335a8b469012431b751010be6762e0462c4de4889c36a00" alt="Image" width="40%" /></div>
+#### DIFFICULTY: 3/5
 
+## CHALLENGE 127: BOOST CONVERTER - PART 2
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_0/imgs/img_in_image_box_165_997_741_1538.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A28Z%2F-1%2F%2F7b42c19e1e4744060bf3066ab72378126dbb6e64d915ff967aa1a0943bbb1f22" alt="Image" width="48%" /></div>
+NOW BUILD A COMPLETE BOOST CONVERTER THAT DRIVES R1 WITH A VOLTAGE **HIGHER THAN THE BATTERY**. BE SURE TO USE A DIODE TO KEEP POWER FROM FLOWING BACKWARD BETWEEN CYCLES, AND USE TWO CAPACITORS TO FILTER THE OUTPUT.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/UFGjw2Y.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
 
-##### AVAILABLE PARTS
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/l14wpCX.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 10 \times Chain
+- 1 \times Switch
+- 2 \times Capacitor (0.001 F)
+- 1 \times Diode
+- 3 \times Junction
+- 1 \times Inductor (55 H)
 
+#### DIFFICULTY: 5/5
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_0/imgs/img_in_image_box_805_1193_915_1273.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A28Z%2F-1%2F%2Fcaad38a7fb83b465dd6c234c3bb200903ea4fb5bdb024e9115a500a8595727de" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>1 55 $ \bar{H} $</td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_0/imgs/img_in_image_box_799_1316_1059_1344.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A28Z%2F-1%2F%2Ff3af5f8244447b535e736e4c201854081add18bc80f690f1e0002bb0c8964ef4" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-#### CHALLENGE 127: BOOST CONVERTER - PART 2
-
-NOW BUILD A COMPLETE BOOST CONVERTER THAT DRIVES R1 WITH A VOLTAGE HIGHER THAN THE BATTERY. BE SURE TO USE A DIODE TO KEEP POWER FROM FLOWING BACKWARD BETWEEN CYCLES, AND USE TWO CAPACITORS TO FILTER THE OUTPUT.
-
-Input
-
-51
-
-Output
-
-on R1
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_583_129_1133_733.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F051f48f3faafd753f8f7f01ed29bc8202970b21a27afd5fc293345619e627801" alt="Image" width="46%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_59_546_282_716.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F48989af85275a399a038e3be2ee1791fd2de1b5744911f4efc50f9eecda605dd" alt="Image" width="18%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_300_591_593_718.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F3321f2af7f8d92a43cdba29f68d467a3e99546dbc6d946b69969e58e114be878" alt="Image" width="24%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_75_856_679_1546.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F41a37783335d9d6dc54b0eafb8609db936b0180d58e0c6f606d9883b33fc9315" alt="Image" width="50%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_874_901_976_967.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2Fb7c3b37ed0ceb245fbf25f56a1e392110a77606e3ed4477e356f449992bc89c4" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_782_1009_834_1060.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F9c80e84cca456e9e87f7489c34e18c9bb29d800da569980819fcdcf38934c133" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_916_1001_974_1079.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F131ab42129d0ac68c45d8431048a2e6a9821cbdf7a90110a36bd7ab04bc602a3" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_783_1087_834_1184.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2Fa13f9c5d809bb719254948ff22fa810d2ce574e9a4cd31d3c10feb9aefe1e210" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_758_1200_846_1278.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F901dc72a7672763eeab1d5db9ad3a63f2591d73437363c33fb8e995998cf332d" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_880_1188_1002_1289.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F80a60b603964ef19c17de95d93e1a1c84cdab85c0ac1203da657f776278b305e" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_1/imgs/img_in_image_box_734_1323_993_1350.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A29Z%2F-1%2F%2F0c69f7ae41cdf4e573d525b97c1e336524df50fb230f537d8204e5d90a5c8940" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ★★★★★
-
-#### CHALLENGE 128: SYNCHRONOUS SWITCH
+## CHALLENGE 128: SYNCHRONOUS SWITCH
 
 CONNECT THE GATES OF T1 AND T2 TOGETHER SO THAT ONE OF THEM IS ALWAYS OPEN (LIKE IN THE STARTING SETUP BELOW). WHEN THE GATES ARE TURNED CLOCKWISE, L1 MUST TURN. OTHERWISE, A1 MUST TURN.
 
-STARTING SETUP
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_2/imgs/img_in_image_box_175_998_747_1541.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A30Z%2F-1%2F%2Ff8c245ce43f30afc3f16a6ee402353614b83b57c62504644f4306c727fb0434a" alt="Image" width="48%" /></div>
 
+#### AVAILABLE PARTS
+- 6 \times Chain
+- 1 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>6</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_2/imgs/img_in_image_box_818_1191_921_1271.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A30Z%2F-1%2F%2F4ea5e4d18b8c1cd96c772a51be18925af9947521e79ad65131c22fd4e411fea6" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_2/imgs/img_in_image_box_806_1314_1066_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A30Z%2F-1%2F%2F466f9eb4f85973d11c0a7e4282d29a7849edae6915a08215bf89a0db4190ac27" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
+## CHALLENGE 129: POLARITY FLIPPER
 BUILD A CIRCUIT THAT SETS C1 TO +6 V WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE WAY AND TO -6 V WHEN IT'S FLIPPED THE OTHER WAY. THE SYNCHRONOUS SWITCH MUST ALSO CONTROL THE DIRECTION THAT A1 SPINS.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_71_961_678_1539.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2Ffb44ccbeee2375b814a83a2c556b042a42e6e3198c74337f8bc26fabf2272a86" alt="Image" width="51%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/gnZyDiE.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 9 \times Chain
+- 1 \times Switch
+- 3 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_777_891_833_971.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2Fb40de6bc32708a9d7e4c9fec2cf5caeb8025a51952ce68d4c675cec0848383cd" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_875_889_975_956.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2F0f77645b20d8d49263bfb1a558da187c319a74ab065b3c7dcb019d781cc191b1" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_779_995_832_1051.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2F6bc40aa42861d1c155ec7611dc3e0ab396ccf6c1b784ba0452123078f66f0a09" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_769_1187_845_1266.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2F9d6f0cb76edc9ddc50aa8ca96b50a841105a64be8b044e8bba3e114fe086f127" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_3/imgs/img_in_image_box_733_1310_996_1340.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A31Z%2F-1%2F%2F62e43547ce997fe4d5834f98e2a2dec8ddb839aaa5b40b3253ef5ddf0c5f6365" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ★★★★☆
-
-#### CHALLENGE 130: SYNCHRONOUS BOOST CONVERTER
+## CHALLENGE 130: SYNCHRONOUS BOOST CONVERTER
 
 BUILD A BOOST CONVERTER TO POWER R1 LIKE BEFORE, BUT THIS TIME, REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/EwIsnRw.png" alt="Image" width="40%">
+</div>
 
-Input
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/AgygNok.png" alt="Image" width="40%">
+</div>
 
-Output
+#### AVAILABLE PARTS
+- 11 \times Chain
+- 2 \times Switch
+- 2 \times Capacitor (0.001 F)
+- 3 \times Junction
+- 1 \times Inductor (55 H)
 
-☑ on R1
+#### DIFFICULTY: 5/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_670_142_1131_714.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A00Z%2F-1%2F%2Ff5777862f2be079e8fdbaadf3741cae8dcf51891a32d9058cfb593075810570a" alt="Image" width="38%" /></div>
+## CHALLENGE 131: SYNCHRONOUS BUCK CONVERTER
 
+BUILD A BUCK CONVERTER TO POWER THE 100 Ohm LOAD LIKE BEFORE, BUT NOW REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/ORRWRsJ.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_440_542_544_716.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A01Z%2F-1%2F%2Ff499088e8473a682e4510b1cb3714814e43a940934b1441fc0a037774d4dbec7" alt="Image" width="8%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/l5X5bYl.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 10 \times Chain
+- 2 \times Switch
+- 2 \times Capacitor (0.001 F)
+- 4 \times Junction
+- 1 \times Inductor (55 H)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_166_894_749_1538.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A03Z%2F-1%2F%2Fac77eb97c0d383465b370f199c053a2c20a8da60d542ffb07f32e88c01b21c3c" alt="Image" width="49%" /></div>
+#### DIFFICULTY: 5/5
 
+## CHALLENGE 132: VOLTAGE SPIKE
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>11 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_971_901_1045_966.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A07Z%2F-1%2F%2Fc14bb2e8981a9039a57b932dedfdb3874639ba72c0d400714a58e14a496ee2d6" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_852_1006_905_1058.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A09Z%2F-1%2F%2F08723bbbc5709c7c4de1a18638080aa1de9518fcf38be779df0bd61fbc80e062" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_985_999_1045_1078.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A11Z%2F-1%2F%2F50d6f5feeff757b327959a526e8495b89148f137535dc31c4275190eaf486cdb" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_841_1193_917_1269.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A13Z%2F-1%2F%2F30662b1706820d94771497a15f7ba67ea458dd261290ab10bad1057f1542e232" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_948_1182_1066_1281.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A14Z%2F-1%2F%2F6b57f512d11968c29fb09ce45a9f3d4ab0f0c41d152c3c448885e66b97e13b7d" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_0/imgs/img_in_image_box_804_1314_1061_1341.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A05Z%2F-1%2F%2F0254831656aa975148ec3f1e06684e692bee4e076fc0ffd2243e44d183ceb03f" alt="Image" width="21%" /></div>
-
-
-★★★★★
-
-#### CHALLENGE 131: SYNCHRONOUS BUCK CONVERTER
-
-BUILD A BUCK CONVERTER TO POWER THE 100  $ \Omega $ LOAD LIKE BEFORE, BUT NOW REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
-
-Input
-
-Output
-
-V on LOAD
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_296_386_567_450.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A21Z%2F-1%2F%2F9c722e052a92ec0fb80148f3be4a0754d2002fca895c8d35383f197088be9fcd" alt="Image" width="22%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_298_453_569_530.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A22Z%2F-1%2F%2F9ab7f0b49f23d011ed6f8dc30e730d0bd68dd01b253c7ffb2c254ef17aa39683" alt="Image" width="22%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_66_899_672_1534.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A24Z%2F-1%2F%2F1eac3675fea63b7dba72ba75ca104106b8247c85a02ddcd5e8981d7f07dee1ff" alt="Image" width="50%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_863_896_966_961.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A26Z%2F-1%2F%2Fc069545df40a53dd30eef4cca5b90c16fd4d41d743c5ec94711f3b416878260b" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_774_1004_826_1054.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A26Z%2F-1%2F%2Fafebf6ecc2d869bf74cfc7f21964d65b90c51e0de99e6b851246408b7affcb20" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_907_997_963_1056.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A26Z%2F-1%2F%2F824fe1e37f91e8a1d271b8637145cefc4c2658af99d55c686a82cea832e44b70" alt="Image"" />\n0001 F</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_763_1192_838_1270.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A27Z%2F-1%2F%2Fa8e4c4151d3f488d90d00ee905b470955397e64657186db76d90750dfd0b6c5c" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_869_1181_990_1281.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A27Z%2F-1%2F%2F25378ef68fe8b96c4fbc9376576b8d87521e5e7efecb8671ba0e0a6de77d6968" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_1/imgs/img_in_image_box_727_1315_985_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A25Z%2F-1%2F%2Fb5a27e6000962d3e1cbcd6f881f3b45432be32e3ecf7fd337671d107c5cb86c3" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ☆☆☆☆☆
-
-MAR 3, 1895
-
-BUILD A CIRCUIT THAT GENERATES A VOLTAGE SPIKE ABOVE 7 V ON C1 WITHOUT INDUCTORS OR VOLTAGE DOUBLERS. (HINT: YOUR CIRCUIT MUST CHARGE A CAPACITOR AND THEN SWITCH IT TO BE IN SERIES WITH THE BATTERY.)
+BUILD A CIRCUIT THAT GENERATES A VOLTAGE SPIKE ABOVE 7 V ON C1 **WITHOUT INDUCTORS OR VOLTAGE DOUBLERS**. (HINT: YOUR CIRCUIT MUST CHARGE A CAPACITOR AND THEN SWITCH IT TO BE **IN SERIES** WITH THE BATTERY.)
 
 ALL PARTS ARE AVAILABLE (EXCEPT INDUCTORS). IF YOU'RE STUCK, FEEL FREE TO SKIP THIS CHALLENGE AND COME BACK TO IT LATER.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_675_158_1131_584.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A29Z%2F-1%2F%2F86427c9e0d69bdf24ad9d828d368e27d5661f59d40e9ed8322c97cbfcbef90c1" alt="Image" width="38%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/HJvxdwT.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+- ∞ \times Chain
+- 2 \times 500 Ohm
+- 1 \times Capacitor (0.001 F)
+- 1 \times 200 Ohm
+- 2 \times Switch
+- 6 \times Junction
+- 2 \times Transistor
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_182_908_759_1520.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A29Z%2F-1%2F%2F76b17b89574a0597a073958aaf8e364dec9807aa21151623d64cc9f303cc5b1a" alt="Image" width="48%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_862_903_916_958.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2Fa9ea1d092ae5ae7cb378b4ac46a9941311f596c374a8f16188ceee919ec5f475" alt="Image"" /> 1000  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_949_900_1055_966.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2F2f021206123f1226ebebc077cab8ab532e689cfd86bf7450b9506a7e0b0c6754" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_863_1001_915_1051.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A30Z%2F-1%2F%2Faf4f39f9019df1c9bf5ae372a3c837dc66f45668b419e0a338428efa909a6b3a" alt="Image"" /> 500  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_996_998_1055_1075.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2Ffeee42ef29fa3cf1a0c35c697e98bf783de86206af28c1c9ddf91fb7af5583a5" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_864_1095_915_1149.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2F376948b46db1a0cfd3bf4d243a432716a3f87d91c70500e947887f543cf81aa6" alt="Image"" /> 200  $ \bar{\pi} $</td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_1002_1101_1054_1152.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A31Z%2F-1%2F%2Fa78d79b12a4d84d4c239ad9ca5564e146666965c64a3df996de07ad397deaba7" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_850_1188_926_1261.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A32Z%2F-1%2F%2Fdf43b40de12fba8b20027631194e79c6463a2c036e4b3fe07abd299a1b127e1c" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'>2 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_986_1184_1066_1262.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A32Z%2F-1%2F%2F040a10fe8a0ce7b247580cae7184b21fe49cd7a0b7f4f509e255fa22fd69f529" alt="Image"" /></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//704b76fb-d35f-4036-9ee7-8aa281793a13/markdown_2/imgs/img_in_image_box_816_1304_1072_1330.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A26%3A29Z%2F-1%2F%2F85ca042c67f54e0fbf246a6b5d31d2ad2b59030337fcc8608aa0028779b2ff71" alt="Image" width="21%" /></div>
+#### DIFFICULTY: 5/5
 
 #### Tutorial 33: Feedback
 
 Every circuit I've made so far has been like this:
 
-Input
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_1/imgs/img_in_image_box_185_367_1052_538.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A23Z%2F-1%2F%2F7e36c7d44fe8715ddbf8823b4992e715a7656d95fa1600a5ff63780604c08358" alt="Image" width="72%" /></div>
-
-
-CIRCUIT
-
-Output
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/6ABYi3i.png" alt="Image" width="70%">
+</div>
 
 There's some sort of input and the circuit generates an output. So far, the inputs have all been things like switches or voltages directly controlled by me. But what would happen if I feed the output back to the input?
 
-<div style="text-align: center;"><div style="text-align: center;">Feedback</div> </div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/A2zTEYl.png" alt="Image" width="70%">
+</div>
 
+That could be useful! Like, for instance, when I build a buck or boost converter, the voltage it produces is never exactly right. Wouldn't it be great to take the output voltage and feed it back into the circuit as an input? That way, the circuit could automatically adjust the switching pattern until the output voltage is juuust right. I bet there are all kinds of other uses for feedback, too!
 
-Input
+## CHALLENGE 133: BASIC FEEDBACK
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_1/imgs/img_in_image_box_204_816_1052_1053.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A23Z%2F-1%2F%2Fcbb82ac3dc4801b00254ba3c20e085b148e21ee2a52edfc4f0cbb0a92e3c9c2d" alt="Image" width="71%" /></div>
+BUILD A CIRCUIT WHERE A TRANSISTOR BEGINS WITH ITS GATE CLOSED. WHEN IT IS OPENED WITH YOUR FINGERS, **IT KEEPS ITSELF OPEN**.
 
-
-CIRCUIT
-
-Output
-
-That could be useful! Like, for instance, when I build a buck or boost converter, the voltage it produces is never exactly right. Wouldn't it be great to take the output voltage and feed it back into the circuit as an input? That way, the circuit could automatically adjust the switching pattern until the output voltage is ju时应 right. I bet there are all kinds of other uses for feedback, too!
-
-# CHALLENGE 133: BASIC FEEDBACK
-
-BUILD A CIRCUIT WHERE A TRANSISTOR BEGINS WITH ITS GATE CLOSED. WHEN IT IS OPENED WITH YOUR FINGERS, IT KEEPS ITSELF OPEN.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_699_155_1131_646.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A25Z%2F-1%2F%2F8dd5223430f59abdc57a79afc43954bdee14e6a89fc6b19c9585c48d57bde954" alt="Image" width="36%" /></div>
-
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_311_962_610_1492.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A25Z%2F-1%2F%2Fcc2b8ba05209e0486d67c36a076c936a74f89b9778fd2d95aec46646f02aad28" alt="Image" width="25%" /></div>
 
+#### AVAILABLE PARTS
+- 1 \times 500 Ohm
+- 3 \times Chain
+- 1 \times Transistor
+- 1 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_854_903_907_955.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A26Z%2F-1%2F%2F5ca5ef831558b2d9fb444c16394d23bd11b57a1d3da1db5adc73c022ac9d3c80" alt="Image"" /> 500  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_951_901_1050_964.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A26Z%2F-1%2F%2Fa66f2b22c1b939c338384b17d0c3b1222cd0e721931ef608926d9dfdd82c71be" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_981_1089_1056_1166.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A27Z%2F-1%2F%2F5587351f1af44953aff2fa9f6660451d01f9359e7d7f762c05de18a2f334a10c" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_841_1189_917_1263.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A27Z%2F-1%2F%2Fb4ab7f8fb1c6d785c135d84d00047d9047919fe4862db0e9cb5f708f53eec165" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_804_1307_1065_1333.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A26Z%2F-1%2F%2F14d687b32c88eae896e75c691f82547040fab47bd6395ba86ed0e40aa9ea4cd1" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-#### CHALLENGE 134: PRESS S1 TO START
+## CHALLENGE 134: PRESS S1 TO START
 
 PRESS S1 TO START A1 MAKING NOISE. AFTER THAT, A1 SHOULD CONTINUE TO MAKE NOISE, EVEN WHEN S1 IS TURNED BACK OFF AGAIN.
 
-NOTE: IN THIS PUZZLE, YOU ARE NOT ALLOWED TO PUT THE GATE OF  $ \Pi $ IN SERIES WITH THE SWITCH. INSTEAD, THE GATE OF  $ \Pi $ MUST BE CONTROLLED BY FEEDBACK FROM VOLTAGE GENERATED BY CURRENT RUNNING THROUGH THE 200  $ \Omega $ RESISTOR.
+**NOTE:** IN THIS PUZZLE, YOU ARE NOT ALLOWED TO PUT THE GATE OF  T1 IN SERIES WITH THE SWITCH. INSTEAD, THE GATE OF  T1 MUST BE CONTROLLED BY FEEDBACK FROM VOLTAGE GENERATED BY CURRENT RUNNING THROUGH THE 200 Ohm RESISTOR.
 
+#### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_269_896_669_1520.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2Fd3deee32868c01b36e5fca7f5c59d26691f11bd669c80958b317fa78bb864843" alt="Image" width="33%" /></div>
 
+#### AVAILABLE PARTS
+- 9 \times Chain
+- 1 \times Switch
+- 1 \times Transistor
+- 3 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 4/5
 
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_872_907_971_970.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A29Z%2F-1%2F%2F565645bacf4601cafb233cd166d3c08c65689bab71f1e8a1421610a6de2cc565" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_775_1011_829_1060.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A29Z%2F-1%2F%2F095ff1a71de51b37b0f06690a1fe0a7ae32714f1c883dcc37e18c8faa440c999" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_900_1093_977_1171.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A30Z%2F-1%2F%2Fc453db78e69db01927f0d429e6337bbcd0436f9d50bc32a716a6361fc9485efc" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_763_1193_839_1267.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A30Z%2F-1%2F%2F55c45bfd234280e35a6d918666fb6a126fc0b522ffad6cf59112cdd8f3f9f4e0" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_727_1310_985_1337.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A29Z%2F-1%2F%2F689e59fd5fb711ec5c519521e7712f3116b1c3d43eb12804ebc06096564cb45d" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-APR 16, 1895
-
-#### CHALLENGE 135: BASIC OSCILLATOR
+## CHALLENGE 135: BASIC OSCILLATOR
 
 BUILD A CIRCUIT THAT CHARGES L1 WHEN S1 IS ON AND THEN OSCILLATES (I.E., SWINGS BACK AND FORTH) FOR A SHORT TIME WHEN S1 IS TURNED OFF.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_0/imgs/img_in_image_box_656_163_1134_725.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A35Z%2F-1%2F%2Fc1c9e41f1fdacc3aabe90469566dd25439055edebe4b8f835dd972fa8e3ede84" alt="Image" width="40%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/6LT6KIN.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_0/imgs/img_in_image_box_312_894_590_1505.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F011e49fa19e073cce58a6022736bffd62652eccdc1989f327fb82c3184d33c3e" alt="Image" width="23%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
+- 4 \times Chain
+- 1 \times Junction
 
+#### DIFFICULTY: 2/5
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>4</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-##### フラツン
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-BUILD A NOT GATE CONTROLLED BY TI (SEE ACT ONE). THEN CONNECT THE OUTPUT OF THE NOT GATE TO THE GATE OF TI.
+## CHALLENGE 136: WILL IT OSCILLATE?
+BUILD A NOT GATE CONTROLLED BY T1 (SEE ACT ONE). THEN CONNECT THE OUTPUT OF THE NOT GATE TO THE GATE OF T1.
 
 THE IDEA IS:
+- IF T1 IS ON, IT WILL TURN ITSELF BACK OFF.
+- IF T1 IS OFF, IT WILL TURN ITSELF BACK ON.
 
-IF IT IS ON, IT WILL TURN ITSELF BACK OFF.
+*I can't wait to try this! I think it should make the transistor turn on, off, on, off, on, off...*
 
-IF IT IS OFF, IT WILL TURN ITSELF BACK ON.
+*Will it work?*
 
-I can't wait to try this! I think it should make the transistor turn on, off, on, off, on, off...
-
-Will it work?
-
-##### STARTING SETUP
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_268_903_515_1510.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fa2e934167341005e2780014eb553cbd6a9db6afad752640c981946baeb74a2f2" alt="Image" width="20%" /></div>
 
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 4 \times Chain
+- 1 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
+## Tutorial 34: Oscillators
 
+Well **that didn't oscillate very well.** Why didn't it work? Hmm...well I suspect something like this is happening:
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_780_900_835_957.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F058c1ec9f494ee408590c4c67b7b03d2e49a6b84a231863f38f6de2522baac7d" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_877_898_976_962.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Fa21a0d2b5a360a678ca3626eb6177c287790606b2b4db40991a8a9aaaf583471" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_739_1181_848_1258.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Fa8022e83d7db899ca91c0ee57abeda1679629466bc93e56ba4119f3e64bcf3de" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/cjsdHTo.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_732_1299_994_1326.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Ffe4af978175a4c14efb3bb9cad2a8ae14b1071ec67b72cf82a6aabbe68140085" alt="Image" width="22%" /></div>
+I guess the feedback from the NOT gate is so fast that instead of T1 oscillating on and off, it just **settles down in between**.
 
+**Rats!** I was hoping this would work. Oscillators are **incredibly useful**. They're used for keeping time, generating sound and radio waves, power conversion, controlling motors, and **way** more. Almost **any circuit** that has anything to do with **time** has an oscillator in it.
 
-DIFFICULTY: ⭐⭐⭐⭐
-
-#### Tutorial 34: Oscillators
-
-Well that didn't oscillate very well. Why didn't it work? Hmm...well I suspect something like this is happening:
-
-Now T1 is mostly open. The NOT feedback starts closing it.
-
-Feedback starts closing T1.
-
-T1 starts closed. The NOT feedback opens it.
-
-Feedback starts opening T1
-
-The T1 gate voltage mostly settles down somewhere in between. Oscillations are small and sporadic.
-
-I guess the feedback from the NOT gate is so fast that instead of T1 oscillating on and off, it just settles down in between.
-
-Rats! I was hoping this would work. Oscillators are incredibly useful. They're used for keeping time, generating sound and radio waves, power conversion, controlling motors, and way more. Almost any circuit that has anything to do with time has an oscillator in it.
-
-Ok, hang on. Here's an idea: What if we put some delay in the feedback?
+Ok, hang on. Here's an idea: What if we put some **delay in the feedback**?
 
 Something like this:
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/vMvuHoQ.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_3/imgs/img_in_image_box_170_314_1059_1108.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F0b8c6fa4b875ccd26568dd7ab1255e039f37e4d5dd6e08b74c074d3ae8ce12ab" alt="Image" width="74%" /></div>
+That ought to do it! Now, how do we go about actually **delaying** the feedback from the NOT gate? Sounds like a job for **inductors and capacitors**.
 
-
-Even though T1 is open, feedback from the NOT gate is delayed until here.
-
-That ought to do it! Now, how do we go about actually delaying the feedback from the NOT gate? Sounds like a job for inductors and capacitors.
-
-# CHALLENGE 137: DELAYED FEEDBACK
+## CHALLENGE 137: DELAYED FEEDBACK
 
 MODIFY THE CIRCUIT TO DELAY THE FEEDBACK.
 
-Output  $ \pi $
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/6VvDUC4.png" alt="Image" width="40%">
+</div>
 
-ON OFF
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Sbv4r3C.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_0/imgs/img_in_image_box_653_163_1133_808.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A04Z%2F-1%2F%2F35fa09df0927544e0dcaf62a4bd3845b41071cc1505b510ec4299774e9d73e8d" alt="Image" width="40%" /></div>
+#### AVAILABLE PARTS
+- 3 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
+- 1 \times Inductor (55 H)
 
+#### DIFFICULTY: 3/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_0/imgs/img_in_image_box_173_906_587_1509.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A05Z%2F-1%2F%2F81ecfa9c83ec5a6097ef2e0facb1c65498e200bec720e8e903d5339f92804be2" alt="Image" width="34%" /></div>
+## CHALLENGE 138: SMOOTH OSCILLATOR
+IN THE OSCILLATOR BELOW, THE INDUCTOR **SLAMS OPEN** THE TRANSISTOR GATE IN EACH OSCILLATION. THE REMAINING ENERGY HAS NOWHERE TO GO. MODIFY THE CIRCUIT BY ADDING A CAPACITOR THAT SOAKS UP THE EXTRA ENERGY, SMOOTHING OUT THE OSCILLATIONS.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/HlsDWyj.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/GEQnRHY.png" alt="Image" width="40%">
+</div>
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
+- 1 \times Chain
+- 1 \times Capacitor (0.001 F)
+- 1 \times Junction
 
+#### DIFFICULTY: 3/5
 
+## CHALLENGE 139: RELAXATION OSCILLATOR - PART 1
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARTS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_0/imgs/img_in_image_box_989_990_1048_1068.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A05Z%2F-1%2F%2Ff11efb4f7d80f0d27621a12d0580b92ae537b601d5440f9e642cad743ae84984" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_0/imgs/img_in_image_box_813_1179_919_1255.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A05Z%2F-1%2F%2Fc3a2868347893ca1e7d9a0fe46875caa77ac7405fcd96f8df2b3b9b4ff7a9c94" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_0/imgs/img_in_image_box_953_1168_1073_1266.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A06Z%2F-1%2F%2F7f8fa2e4bddf41c1631271a67357dae27a630e97ed46ce114593dff34a06ce3d" alt="Image"" /></td></tr></table>
+BUILD A "BUFFER" GATE. A BUFFER GATE **COPIES THE INPUT TO THE OUTPUT**. (USE YOUR FINGERS TO TURN T1 ON AND OFF.)
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/1iDuAa3.png" alt="Image" width="40%">
+</div>
 
-##### フラッシー
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/V6eoz7L.png" alt="Image" width="40%">
+</div>
 
-DIFFICULTY: ⭐⭐⭐⭐
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 3 \times Chain
+- 1 \times Junction
 
-IN THE OSCILLATOR BELOW, THE INDUCTOR SLAMS OPEN THE TRANSISTOR GATE IN EACH OSCILLATION.
+#### DIFFICULTY: 2/5
 
-THE REMAINING ENERGY HAS NOWHERE TO GO. MODIFY THE CIRCUIT BY ADDING A CAPACITOR THAT SOAKS UP THE EXTRA ENERGY, SMOOTHING OUT THE OSCILLATIONS.
-
-Output
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_1/imgs/img_in_image_box_63_831_607_1534.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A08Z%2F-1%2F%2F6740dd46755d0486841f83f626e6938292df6f8095f9e7c6302e91dde8003399" alt="Image" width="45%" /></div>
-
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2">AVAILABLE PARIS</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>1 0001 F</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_1/imgs/img_in_image_box_742_1190_851_1271.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A08Z%2F-1%2F%2F7aa408b37743b7eb536fa0543a205bbe13380a73e1f35621fadc0236bbece7da" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_1/imgs/img_in_image_box_734_1314_997_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A08Z%2F-1%2F%2F366f97e6213a50761500188a66adb49ce6a52d8253a71db8f0ecc0f40926bcd1" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-# CHALLENGE 139: RELAXATION OSCILLATOR - PART 1
-
-BUILD A "BUFFER" GATE. A BUFFER GATE COPIES THE INPUT TO THE OUTPUT. (USE YOUR FINGERS TO TURN T1 ON AND OFF.)
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>ON</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>OFF</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6 $ \nabla $</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>0 $ \nabla $</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Volume</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_668_157_1133_736.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A10Z%2F-1%2F%2F26ef150075b64268657f1c90fdcad30346433c71b02281f778401b4915c17e56" alt="Image" width="39%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_238_606_674_726.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A10Z%2F-1%2F%2F9b6bf104253def137a217817dbd9027723617a31f6915c5924ddd25e85d75297" alt="Image" width="36%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_181_900_755_1517.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A11Z%2F-1%2F%2F091b02e04ffefb26cad0e264b7e58b39e23b2ee1b348acb667a70265ed2b1be9" alt="Image" width="48%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_861_895_914_954.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A11Z%2F-1%2F%2F5f7e9f891fe4607f76b7e4fdd8017e8a39aeb61e654a4ba8f78cf47fb5a354a6" alt="Image"" /> 200  $ \bar{n} $</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_956_894_1055_957.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A12Z%2F-1%2F%2F0ec997d0a4771cfa2c31dbc5b48a3e1de0f11856535118cbd0f2bad34f6bbcb3" alt="Image"" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1 <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_2/imgs/img_in_image_box_827_1180_925_1257.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A12Z%2F-1%2F%2Fc78efd56bee88520450e69938d933b4d16183467cdf7fe21e5a2a161617234d9" alt="Image"" /></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
-
-##### フラッシー
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-MAY 13, 1895
-
-#### CHALLENGE 140: RELAXATION OSCILLATOR - PART 2
+## CHALLENGE 140: RELAXATION OSCILLATOR - PART 2
 
 LEAVE THE PREVIOUS BUFFER GATE WHERE IT IS AND ADD A SEPARATE NOT GATE IN PARALLEL WITH IT. (USE YOUR FINGERS TO TURN T2 ON AND OFF.)
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/1dZNIJo.png" alt="Image" width="40%">
+</div>
 
-Input
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Ttnqg9G.png" alt="Image" width="40%">
+</div>
 
-T2
+#### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+- 5 \times Chain
+- 2 \times Junction
 
-Output
+#### DIFFICULTY: 3/5
 
-C2
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_64_836_667_1547.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A14Z%2F-1%2F%2F3bc8eb3bbcbc611734d7cb4fcc6fa9b9716a9b48702dabc0e3aee944b7e18005" alt="Image" width="50%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ebdb728f-7c33-4e42-a9e1-5ace2e91416f/markdown_3/imgs/img_in_image_box_722_1322_985_1350.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A14Z%2F-1%2F%2F1918a3aa8fa2d0840a1298a5a654f9faaf805cf6f616c0f78191e4c9bcf291ee" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ☆☆☆☆☆
-
-#### CHALLENGE 141: RELAXATION OSCILLATOR - PART 3
+## CHALLENGE 141: RELAXATION OSCILLATOR - PART 3
 
 REMOVE C1 AND C2. THEN, SEND THE OUTPUT OF THE NOT GATE TO THE INPUT OF THE BUFFER GATE AND SEND THE OUTPUT OF THE BUFFER GATE TO THE INPUT OF THE NOT GATE. ANOTHER OSCILLATOR1
 
-1. WHEN T1 IS ON, T2 TURNS OFF
-2. WHEN T2 IS OFF, T1 TURNS OFF
-3. WHEN T1 IS OFF, T2 TURNS ON
-4. WHEN T2 IS ON, T1 TURNS ON
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/QvOV0Ri.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_0/imgs/img_in_image_box_170_836_755_1521.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A32Z%2F-1%2F%2F61252160a10059ef436ddb9a9418708112fecc26ac23b02c8f21f426fa0fd58e" alt="Image" width="49%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/SSevwi9.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_0/imgs/img_in_image_box_811_1303_1075_1331.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A32Z%2F-1%2F%2Fa5d5b339a1a138a5035ca69788f28e07692f012b40d33da94e0cf07b3d8b9f7d" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-#### CHALLENGE 142: CURRENT SOURCE - PART 1
+## CHALLENGE 142: CURRENT SOURCE - PART 1
 
 BUILD A CIRCUIT THAT APPLIES -2 V TO THE GATE OF TRANSISTOR T1. IT SHOULD BE ENOUGH TO COMPLETELY OPEN THE GATE.
 
-IMPORTANT: NOTICE WHICH WAY THE GATE OF TURNS IN THE STARTING SETUP BELOW.
+**IMPORTANT:** NOTICE WHICH WAY THE GATE OF TURNS IN THE STARTING SETUP BELOW.
 
-##### STARTING SETUP
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Z6JGuV3.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_63_904_680_1529.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F2058c272d103dba85dbe508e96f2018396303af911bcc33c44538d4fb39700fb" alt="Image" width="51%" /></div>
+#### AVAILABLE PARTS
+- 1 \times 1000 Ohm
+- 4 \times Chain
+- 1 \times 500 Ohm
+- 1 \times Junction
 
+#### DIFFICULTY: 3/5
 
-
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a0e41163-c05c-4d15-8c62-e96f8cd188ac/markdown_3/imgs/img_in_image_box_734_1311_996_1340.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F80688b43ef7cf0cffd130b6339465f122875e76a71b71a080ce5b5ace83a8fcb" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-#### CHALLENGE 143: CURRENT SOURCE - PART 2
+## CHALLENGE 143: CURRENT SOURCE - PART 2
 
 BUILD THE STARTING SETUP. THEN CONNECT A1 TO S1 IN SUCH A WAY THAT WHEN YOU TURN S1 WITH YOUR FINGERS, A1 TURNS 4X FASTER. (YOU WON'T CONNECT ANYTHING TO THE BATTERY, YET.)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_0/imgs/img_in_image_box_187_890_751_1512.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fc94d0bd2921ae101838ae0c42ff92009eaeb0eb7dc149ae0ea5d4fcc15f27f31" alt="Image" width="47%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/bMGRLc8.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 6 \times Chain
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 3/5
 
-
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_0/imgs/img_in_image_box_808_1302_1069_1329.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fba8e1720c8708c1c803423fb2895ee64993dbc8bdc80eca3309b69f3b3a169d9" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-#### CHALLENGE 144: CURRENT SOURCE - PART 3
+## CHALLENGE 144: CURRENT SOURCE - PART 3
 
 MODIFY THE CIRCUIT SO THAT IT APPLIES A CONSTANT CURRENT TO S1. IT MUST STAY ROUGHLY CONSTANT EVEN WHEN A SMALL AMOUNT OF RESISTANCE IS APPLIED TO S1 WITH YOUR FINGERS.
 
-HINT: USE THE 200  Ohm RESISTOR TO ADD FEEDBACK TO  $ \Pi $, CLOSING  $ \Pi $ WHEN THE CURRENT RISES.
+**HINT:** USE THE 200 Ohm RESISTOR TO ADD FEEDBACK TO T1, CLOSING T1 WHEN THE CURRENT RISES.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_92_907_681_1533.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2F7ed57cfa63481d56d8909d2122015c22d066d2e196a85699e6ed6e2e2ce9b2eb" alt="Image" width="49%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/saolhha.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 1 \times 200 Ohm
+- 2 \times Chain
+- 1 \times Junction
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 5/5
 
-
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_1/imgs/img_in_image_box_739_1313_998_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A37Z%2F-1%2F%2Fc3888d414e284d4baaae237334bc45d839cc08559882389789f1fb53d48b4213" alt="Image" width="21%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
+## CHALLENGE 145: FLIP-FLOP - PART 1
 
 BUILD TWO NOT GATES IN PARALLEL WITH EACH OTHER. THE GATE MADE FROM T1 MUST PRODUCE -6 V ON C1 AND THE GATE MADE FROM T2 MUST PRODUCE +6 V ON C2:
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_666_148_1132_569.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F37d1f0f2f26005ecf8ef368396c51f38e9fcfa84466e560de1229ffcfbac03ee" alt="Image" width="39%" /></div>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/JNvwTKL.png" alt="Image" width="40%">
+</div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/AGWS870.png" alt="Image" width="40%">
+</div>
 
-##### STARTING SETUP
+#### AVAILABLE PARTS
+- 2 \times 500 Ohm
+- 9 \times Chain
+- 3 \times Junction
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_153_896_759_1532.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F8f6c8f1b10d094c77b583b4a2f719dfab973e921d860d16deb283e2180686a44" alt="Image" width="50%" /></div>
+#### DIFFICULTY: 4/5
 
-
-##### AVAILABLE PARTS
-
-
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_2/imgs/img_in_image_box_802_1307_1064_1335.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A39Z%2F-1%2F%2F78574efc6d9fbf6b310b4d2af671314bbc4ef40f0cfa8b22af06938a02405b5c" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-# CHALLENGE 146: FLIP-FLOP - PART 2 (SCHMITT TRIGGER)
+## CHALLENGE 146: FLIP-FLOP - PART 2 (SCHMITT TRIGGER)
 
 REMOVE C1 AND C2. THEN MODIFY THE CIRCUIT SO THAT WHENEVER YOU OPEN OR CLOSE ONE OF THE TRANSISTOR GATES WITH YOUR FINGERS, IT STAYS IN THAT POSITION.
 
-STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/HcH64Hm.png" alt="Image" width="40%">
+</div>
 
-500 Ω
+#### AVAILABLE PARTS
 
-##### AVAILABLE PARTS
+#### DIFFICULTY: 4/5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1179e97a-6ec4-44e0-9288-a5e4b3b70b94/markdown_3/imgs/img_in_image_box_737_1311_999_1342.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A40Z%2F-1%2F%2Fd64d6e7d25a2185e3052d74e2026406992e399ef51cbd5ec61fd23ad7f6bf0f9" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-#### CHALLENGE 147: FLIP-FLOP - PART 3
+## CHALLENGE 147: FLIP-FLOP - PART 3
 
 MODIFY THE CIRCUIT SO THAT THE TRANSISTORS ARE FLIpped ON OR OFF BY S1 AND S2 (INSTEAD OF WITH YOUR FINGERS.) USE C1 TO SHOW THE FLI-FLOP'S STATE.
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/VFyqBby.png" alt="Image" width="40%">
+</div>
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_0/imgs/img_in_image_box_650_145_1134_765.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F0ba774fcb0441794828e2055c024e433a04b5a4cbf81a09bbbf053680046176f" alt="Image" width="40%" /></div>
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/SBTGjNU.png" alt="Image" width="40%">
+</div>
 
+#### AVAILABLE PARTS
+- 6 \times Chain
+- 3 \times Junction
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_0/imgs/img_in_image_box_163_885_755_1529.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2Fee11241901a0c368b646abe47eb3754458bec0f231d62c0a360e7c049b810300" alt="Image" width="49%" /></div>
-
-
-##### AVAILABLE PARTS
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_0/imgs/img_in_image_box_797_1310_1061_1338.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A33Z%2F-1%2F%2F8ae620d8487c2b3693522f8f528ec1c7e11bb797a09ebac371ba6546e375e14b" alt="Image" width="22%" /></div>
-
-
-DIFFICULTY: ⭐⭐⭐⭐
+#### DIFFICULTY: 5/5
 
 ### CHALLENGE 148: XOR GATE (VERY DIFFICULT)
 
 THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 IS ON (BUT NOT BOTH).
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_1/imgs/img_in_image_box_581_122_1127_771.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F4f10bfcda4ee6012221ede06cd940f3042589e326e4d4e3ad63bdd4e35e9bca7" alt="Image" width="45%" /></div>
+<div align="center">
+<table>
+  <tr>
+    <th colspan="2">INPUT</th>
+    <th>OUTPUT</th>
+  </tr>
+  <tr>
+    <th>S1</th>
+    <th>S2</th>
+    <th>A1</th>
+  </tr>
+  <tr>
+    <td>OFF</td>
+    <td>OFF</td>
+    <td>NO SOUND</td>
+  </tr>
+  <tr>
+    <td>OFF</td>
+    <td>ON</td>
+    <td>SOUND</td>
+  </tr>
+  <tr>
+    <td>ON</td>
+    <td>OFF</td>
+    <td>SOUND</td>
+  </tr>
+  <tr>
+    <td>ON</td>
+    <td>ON</td>
+    <td>NO SOUND</td>
+  </tr>
+</table></div>
 
+#### STARTING SETUP
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/uvbywBg.png" alt="Image" width="40%">
+</div>
 
-##### STARTING SETUP
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_1/imgs/img_in_image_box_65_906_681_1541.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F80ff37c25bed1f1dc34895e30445f3232e63e3d4bb6bfc8fff79a65a4849bc37" alt="Image" width="51%" /></div>
-
-
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 ALL PARTS ARE AVAILABLE
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_1/imgs/img_in_image_box_737_1316_995_1344.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F4f9ef73ebf2569e5b6e0ae7f9f82a6810da661c58819d2b9423003a7ff3c2dc0" alt="Image" width="21%" /></div>
+#### DIFFICULTY: 5/5
 
-
-DIFFICULTY: ⭐⭐⭐⭐
-
-# CHALLENGE 149: PULSE GENERATOR (VERY DIFFICULT)
+## CHALLENGE 149: PULSE GENERATOR (VERY DIFFICULT)
 
 GENERATE A PULSE FOR A SHORT TIME WHEN S1 IS TURNED ON:
 
-##### STARTING SETUP
+#### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_2/imgs/img_in_image_box_137_891_754_1527.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2Fd90b9b07d141e9c046f9c51b4ee52dc48dbf2b5efc327792f5f18f04e0631b28" alt="Image" width="51%" /></div>
 
 
-##### AVAILABLE PARTS
+#### AVAILABLE PARTS
 
 ALL PARTS ARE AVAILABLE
 
