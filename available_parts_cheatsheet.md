@@ -88,7 +88,8 @@ Find:
 (\\times Switch)\r?\n(?!\s*<div)
 ```
 Replace:
-```$1\n	<div style="text-align: left;">\n	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">\n	</div>\n
+```
+$1\n	<div style="text-align: left;">\n	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">\n	</div>\n
 ```
 
 ## Transistor
