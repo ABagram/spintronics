@@ -90,6 +90,9 @@ Now your workflow is as simple as:
 1. Take a screenshot: `Ctrl + Fn + Prt Sc`.
 2. Paste the wrapped HTML code: `Ctrl + Win + V`.
 
+> [!WARNING]
+> If you move your cursor and press `Ctrl + Win + V` again on a link that is already wrapped or inside a block, it will nest the `<div>` inside another `<div>`. You may need to manually clean up nested wrappers if triggered multiple times in the same spot.
+
 ### How to speed up workflow for Find and Replace to add images 
 1. In VS Code, open the Find and Replace widget (`Ctrl + F`).
 2. Click the Regex icon (`.*`) beside the Find input field to enable regular expressions.
