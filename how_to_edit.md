@@ -115,6 +115,9 @@ To check all instances of `\times Junction` and automatically insert the junctio
     $1\n    <div style="text-align: left;">\n        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">\n    </div>
     ```
 
+> [!TIP]
+> You may refer to [this cheatsheet](./available_parts_cheatsheet.md) for a pre-made list of find and replace values for each available part.
+
 ## How to export a markdown file into PDF in VS Code
 1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
 <p align="center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></p>
