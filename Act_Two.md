@@ -2602,174 +2602,167 @@ ALL PARTS ARE AVAILABLE
 
 GENERATE A PULSE FOR A SHORT TIME WHEN S1 IS TURNED ON:
 
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/RwWh1ER.png" alt="Image" width="40%">
+</div>
+
 #### STARTING SETUP
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_2/imgs/img_in_image_box_137_891_754_1527.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2Fd90b9b07d141e9c046f9c51b4ee52dc48dbf2b5efc327792f5f18f04e0631b28" alt="Image" width="51%" /></div>
-
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/DpnXpge.png" alt="Image" width="40%">
+</div>
 
 #### AVAILABLE PARTS
 
 ALL PARTS ARE AVAILABLE
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b8fab8f6-8a8e-49f4-a5be-6b44bd8e619a/markdown_2/imgs/img_in_image_box_809_1304_1073_1333.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A34Z%2F-1%2F%2F48be7709ac1396ac01724629bfaab344d0382de4cdce63c5d83f207244dbc9e7" alt="Image" width="22%" /></div>
+#### DIFFICULTY: 5/5
 
+## END OF ACT TWO
 
-DIFFICULTY: ⭐⭐⭐⭐⭐
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//048e83d6-399f-4b7d-8e56-b47d7b76b66a/markdown_3/imgs/img_in_image_box_76_157_1055_1470.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A24%3A13Z%2F-1%2F%2F1271685397af12457459ffce5e38ac46682990f19ceee9841631e4944b42a404" alt="Image" width="82%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//71834a43-40ee-4b1b-8b67-f154b18fbc0f/markdown_0/imgs/img_in_image_box_50_115_1135_1567.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A23%3A23Z%2F-1%2F%2Fd941b116a40c71a8d7ee7ceb4e539e3ce65ccef8a005e6025bd7084cc2480c00" alt="Image" width="91%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//71834a43-40ee-4b1b-8b67-f154b18fbc0f/markdown_1/imgs/img_in_image_box_93_169_421_204.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A23%3A25Z%2F-1%2F%2Fc708ec5e06f93e76e6512f85b65410f434d7e97f486b69cc5b4f6b111bf3ff4e" alt="Image" width="27%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//71834a43-40ee-4b1b-8b67-f154b18fbc0f/markdown_1/imgs/img_in_image_box_663_170_988_205.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A23%3A26Z%2F-1%2F%2F57d5619cadceb3b5659c2dbe13b2858e7aa56af7da3b222d252878724f325d89" alt="Image" width="27%" /></div>
-
-
-# SELECTED SOLUTIONS
+## SELECTED SOLUTIONS
 
 This section contains solutions for selected puzzles. Hints and solutions for all of the challenges can be found online at www.spintronics.com/solutions. Remember that these solutions are often just one of many possibilities.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_1/imgs/img_in_image_box_462_617_630_652.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A00Z%2F-1%2F%2F629d35a30771728f55699840d829d466ab873125f820d7010046acff4c9d6767" alt="Image" width="14%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 73</div> </div>
-
+### CHALLENGE 73
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_1/imgs/img_in_image_box_62_916_336_1489.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A00Z%2F-1%2F%2F4399162e4356202541f2d3f45c0543a66084dc07ae4bb8594be90409a88e49d8" alt="Image" width="23%" /></div>
 
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 74</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_1/imgs/img_in_image_box_424_927_657_1324.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A00Z%2F-1%2F%2Ffeb66b8fdcdc735728f3b827863cad0e3cee384e2c83bf663efdcd8c9d1d130b" alt="Image" width="19%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_1/imgs/img_in_image_box_450_1339_618_1487.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A00Z%2F-1%2F%2F00a2a4e0a20d4b2b5384d6a0b28fb0c6aad78141536234ecbbc8f10f2ef08fc6" alt="Image" width="14%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 75</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_1/imgs/img_in_image_box_718_873_1032_1512.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A00Z%2F-1%2F%2Fb1ea8190af0bb0631ffcd8b1f3121804d8196d8ecd575b685c9f703df919eb95" alt="Image" width="26%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_2/imgs/img_in_image_box_168_208_404_789.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A01Z%2F-1%2F%2F99111f3e9c01dbb5417787df3bb7a317e5919e89e59f8f497d45550f8353e896" alt="Image" width="19%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_2/imgs/img_in_image_box_433_349_583_675.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A01Z%2F-1%2F%2F36e88ff33836311faa325c153564d07f315ccaae829c0f75019a7021762aa029" alt="Image" width="12%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_2/imgs/img_in_image_box_647_122_1130_802.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A01Z%2F-1%2F%2Fc5b9c9d1b8abc3e8ec208296f6b1cc1cc679befd571e9e4bd9a4d8628b60154a" alt="Image" width="40%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_2/imgs/img_in_image_box_135_838_644_1566.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A02Z%2F-1%2F%2Fb6b53eabd429e2c5fd67c28d35eff1abaf001208358ce1954a17802bc798a77f" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_2/imgs/img_in_image_box_652_846_1134_1566.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A02Z%2F-1%2F%2F17529188d4b2a8be72fd710ee4a5237355a2f7fc821ad093edee4da51864238e" alt="Image" width="40%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 85</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_61_207_520_793.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A03Z%2F-1%2F%2F27453ac3df42fa07410480cda8bb9cbc9173a3c489fffacc4b4985b0c9549355" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 86</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_557_150_1053_783.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A03Z%2F-1%2F%2Ff444d18bac8983dbcbb547fc3271a1a7c046a2008e7d700e98b55441895b5a91" alt="Image" width="41%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 87</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_57_882_546_1247.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A03Z%2F-1%2F%2Ff3d80e24692a93d7f4b76026f1482377b7b48a829706d880721df558732b124b" alt="Image" width="41%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_246_1250_531_1528.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A03Z%2F-1%2F%2F0f873503a6e6cf3338a01822b00395d2beeeaaa08eeb7d45dbf2d7972be7a3f2" alt="Image" width="23%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_553_878_1009_1246.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A03Z%2F-1%2F%2Fede3cdbc9af624b4759940e782b26cbd69573bbed7804d980a6af3d3d2e2b856" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a4d3e7e0-206c-43f0-8ab3-0adf869b95f9/markdown_3/imgs/img_in_image_box_609_1254_951_1543.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A17%3A04Z%2F-1%2F%2F5818f30111d263282b0548fe9227cd770fcd8ef3b66de8b6d1efe0b825b0cb9a" alt="Image" width="28%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_150_138_604_591.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A27Z%2F-1%2F%2Ffc02a76ce9c9338e9eb32410dac8c9efca75fac2b418def849801fda5bfd75bf" alt="Image" width="38%" /></div>
-
-
-Extra credit:
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_384_504_626_815.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A27Z%2F-1%2F%2Fe5cf8b3d9539ced8c046d78693d5f272ab57d841279b8672273bbfc125d0f293" alt="Image" width="20%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_688_148_1133_510.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A27Z%2F-1%2F%2F80782ae96b275a9a9303953e3309c33180cc6a15a4e5829162cf0c524aa9c68d" alt="Image" width="37%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_705_524_1134_809.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2Fb664aed1da4cf30a9c743a817fef5bdaf1d6eb764256cd036b2e13ce60d55e1c" alt="Image" width="36%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_155_848_593_1559.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2F745c3aab0b683c3ffb9345ec49ce839106c7a2a9830c0c281cd47499942a83ec" alt="Image" width="36%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_643_846_1132_1277.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2F68cf6110cacbdfc7a0e51dd8d465422d588177edf8e91dd4b7027a5d662d924a" alt="Image" width="41%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_0/imgs/img_in_image_box_670_1283_1124_1527.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2Ffd80bf3d36d8c4bea1c5bece2566029cc335661ac79bccbe55e540b90c3dfac1" alt="Image" width="38%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_1/imgs/img_in_image_box_56_129_550_808.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A31Z%2F-1%2F%2F7f9a0c38849e7afcc9d9bd282e2914053169677d4d728e6d3846b11aa88823ec" alt="Image" width="41%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_1/imgs/img_in_image_box_558_126_1057_809.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A31Z%2F-1%2F%2Fcc61b77aac7d7d7d4e6200eec4d313ea0b0ab54942ca2bd06ecde3ccb2abe74d" alt="Image" width="41%" /></div>
-
-
-CHALLENGE 100
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_1/imgs/img_in_image_box_58_856_539_1552.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A31Z%2F-1%2F%2F8afc6061be7cf2e9c60d82a91fa2e2d4506d80c96ce057ee8cfcae8757677345" alt="Image" width="40%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_1/imgs/img_in_image_box_574_856_1023_1548.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A32Z%2F-1%2F%2F1cabb1f9cab8a27ad7b84124d4caa74c2ddc20b4837d93a0f687222b0bd72362" alt="Image" width="37%" /></div>
-
-
-CHALLENGE 109
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_2/imgs/img_in_image_box_132_131_643_818.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A33Z%2F-1%2F%2Fef3375ab38a1e39dd7c839d74e00e7d2a044a80db34acdc7e450475467e6d9b5" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_2/imgs/img_in_image_box_644_124_1132_818.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A33Z%2F-1%2F%2Fd52eebcfae83153e94d2e5f3fede3c530fad70d725c275f7eaddfcb795a5cbb4" alt="Image" width="41%" /></div>
-
-
-CHALLENGE 114
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_2/imgs/img_in_image_box_187_889_598_1565.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A34Z%2F-1%2F%2Fd6b66dd7fadaec7b95bed65abe2bd6b999285f469c8afca9b51494fe85127b14" alt="Image" width="34%" /></div>
-
-
-CHALLENGE 115
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_2/imgs/img_in_image_box_647_920_1131_1568.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A34Z%2F-1%2F%2F51139cd5b50957f0f8e1fe57be5763904321d1f72dbaa3c3a3f6685bad875f13" alt="Image" width="40%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">CHALLENGE 116</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_3/imgs/img_in_image_box_59_208_558_753.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A36Z%2F-1%2F%2Ff211d874af8f4f80541dd931acabe27ca9db09b1fb6f6ac6c7626620e68cbb84" alt="Image" width="41%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_3/imgs/img_in_image_box_577_205_997_614.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A36Z%2F-1%2F%2Fe88fd611bb3e50e2bea9a088480ebfc35de82577b4bf124ee84fed6ed37cfa1a" alt="Image" width="35%" /></div>
-
-
-## AC in 500π C1
-
-CHALLENGE 120
-
-CHALLENGE 121
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//28a6e5e7-769f-41e1-b8da-528bd0e0ab1d/markdown_3/imgs/img_in_image_box_55_829_561_1548.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A36Z%2F-1%2F%2F93abc677baee7fb2733847b888910d8473245753436ad72232c2360313cf9b7f" alt="Image" width="42%" /></div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b023b571-d0b9-45fd-b26f-5ae7e8841866/markdown_0/imgs/img_in_image_box_51_167_1128_1560.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A21%3A06Z%2F-1%2F%2F4fb2982d4b0efba13bd2d8070638702295dba9c581d2ad75bcee051661d86f9e" alt="Image" width="90%" /></div>
-
+### CHALLENGE 74
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/eKtJl61.png" alt="Image" width="40%">
+</div>
+
+#### CHALLENGE 75
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/SHlnG06.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 76
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/wBX9YnC.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 81
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/HD1sfO6.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 83
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/zomViYJ.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 84
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/3oIqRyE.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 85
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Pn5fTU6.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 86
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/HKjlHU0.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 87
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/lK7bYXK.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 90
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/lMCi5Or.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 91
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/VgXfb8P.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 92
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/R6qqH0k.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 93
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/3tyzAeN.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 94
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/ceAHMGz.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 95
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/h8nR2Yn.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 96
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Gqxo7Xu.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 100
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/S1lIoG9.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 104
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/h8gFr5u.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 109
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/mjXcqO6.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 110
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/RSTwMnZ.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 114
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/c8GXI8B.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 115
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/NIWYCFo.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 116
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/MnQqgtN.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 119
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/cIkAnMR.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 120
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/FF3swBl.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 121
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/jpEmyNZ.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 122
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/TnpOBLK.png" alt="Image" width="40%">
+</div>
+
+### CHALLENGE 123
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/2drNeKn.png" alt="Image" width="40%">
+</div>
