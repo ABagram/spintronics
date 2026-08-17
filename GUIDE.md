@@ -2,14 +2,14 @@
 # Guide for Editing and Exporting in VS Code Windows
 
 ## Table of Contents
-- [How to edit a markdown file in VS Code](#how-to-edit-a-markdown-file-in-vs-code)
+- [How to edit a Markdown file in VS Code](#how-to-edit-a-markdown-file-in-vs-code)
   - [How to speed up your workflow for adding images](#how-to-speed-up-your-workflow-for-adding-images)
   - [How to setup ShareX](#how-to-setup-sharex)
   - [How to setup AutoHotkey](#how-to-setup-autohotkey)
   - [How to speed up workflow for Find and Replace to add images](#how-to-speed-up-workflow-for-find-and-replace-to-add-images)
-- [How to export a markdown file into PDF in VS Code](#how-to-export-a-markdown-file-into-pdf-in-vs-code)
+- [How to export a Markdown file into PDF in VS Code](#how-to-export-a-markdown-file-into-pdf-in-vs-code)
 
-## How to create a markdown file of a PDF of scanned images
+## How to create a Markdown file of a PDF of scanned images
 1. In your preferred browser, open **[PaddleOCR](https://aistudio.baidu.com/paddleocr)**.
 2. In the Select Model dropdown, choose **PaddleOCR-VL** (latest version available).
     <div style="text-align: center;">
@@ -21,11 +21,11 @@
         <img src="https://i.imgur.com/R5HWDzv.png" alt="Image" width="80%">
     </div>
 
-## How to edit the PaddleOCR-generated markdown file in VS Code
+## How to edit the PaddleOCR-generated Markdown file in VS Code
 1. In VS Code, install the extension **[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)** by *yzane*.
 2. In VS Code, create your own `.md` file.
 3. From this GitHub repository, open the target `.md`then copy and paste it into the `.md` file created from Step 2.
-4. Preview the markdown as you edit using VS Code's built-in preview: click the three dots (`...`) in the top-right corner of the editor and select **Reopen Editor With** > **Markdown Preview**.
+4. Preview the Markdown as you edit using VS Code's built-in preview: click the three dots (`...`) in the top-right corner of the editor and select **Reopen Editor With** > **Markdown Preview**.
 
    <div style="text-align: center;">
     <img src="https://i.imgur.com/2cCuB13.png" alt="Image">
@@ -33,11 +33,11 @@
 
    (or use the shortcut `Ctrl + Shift + V`)
 
-5. Edit content as needed, view the supported markdown syntax [here](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
+5. Edit content as needed, view the supported Markdown syntax [here](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
 
 ### How to speed up your workflow for adding images
 > [!NOTE]
-> For the images to be accessible anywhere no matter the device, images in a markdown file should be links.
+> For the images to be accessible anywhere no matter the device, images in a Markdown file should be links.
 
 > [!TIP]
 > Use **[ShareX](https://getsharex.com/downloads)** to instantly upload region screen captures and automatically copy an Imgur link to your clipboard.
@@ -106,7 +106,7 @@ Now your workflow is as simple as:
 > If you move your cursor and press `Ctrl + Win + V` again on a link that is already wrapped or inside a block, it will nest the `<div>` inside another `<div>`. You may need to manually clean up nested wrappers if triggered multiple times in the same spot.
 
 ### How to speed up workflow in adding images to AVAILABLE PARTS section 
-1. In the markdown file for the digitized version of the book (e.g., [Act_One.md](./Act_One.md)), focus on typing all the available parts in this format:
+1. In the Markdown file for the digitized version of the book (e.g., [Act_One.md](./Act_One.md)), focus on typing all the available parts in this format:
 
     ```
     #### AVAILABLE PARTS
@@ -156,6 +156,6 @@ Fill the Find and Replace fields with the following:
 > [!TIP]
 > You may refer to [this cheatsheet](./available_parts_cheatsheet.md) for a pre-made list of find and replace values for each available part.
 
-## How to export a markdown file into PDF in VS Code
+## How to export a Markdown file into PDF in VS Code
 1. Open the `.md` file, right-click anywhere in the editor, and select `Markdown PDF: Export (pdf)`.
 <p align="center"><img src="https://i.imgur.com/YOUw7uq.png" width="34%"></p>
