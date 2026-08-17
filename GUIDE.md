@@ -110,16 +110,17 @@ Now your workflow is as simple as:
 
     ```
     #### AVAILABLE PARTS
-    - 1 \times Capacitor (0.001 F)
-    - 2 \times Chain
-    - 3 \times Diode
-    - 4 \times Inductor (55 H)
-    - 5 \times Junction
-    - 6 \times 200 Ohm
-    - 7 \times 500 Ohm
-    - 8 \times 1000 Ohm
-    - 9 \times Switch
-    - 10 \times Transistor
+    - 1 \times Ammeter
+    - 2 \times Capacitor (0.001 F)
+    - 3 \times Chain
+    - 4 \times Diode
+    - 5 \times Inductor (55 H)
+    - 6 \times Junction
+    - 7 \times 200 Ohm
+    - 8 \times 500 Ohm
+    - 9 \times 1000 Ohm
+    - 10 \times Switch
+    - 11 \times Transistor
     ```
 
 2. Once all **AVAILABLE PARTS** section have been typed in, open the Find and Replace widget (`Ctrl + H`).
