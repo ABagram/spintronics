@@ -9,7 +9,19 @@
   - [How to speed up workflow for Find and Replace to add images](#how-to-speed-up-workflow-for-find-and-replace-to-add-images)
 - [How to export a markdown file into PDF in VS Code](#how-to-export-a-markdown-file-into-pdf-in-vs-code)
 
-## How to edit a markdown file in VS Code
+## How to create a markdown file of a PDF of scanned images
+1. In your preferred browser, open **[PaddleOCR](https://aistudio.baidu.com/paddleocr)**.
+2. In the Select Model dropdown, choose **PaddleOCR-VL** (latest version available).
+    <div style="text-align: center;">
+        <img src="https://i.imgur.com/KzmiWi7.png" alt="Image" width="80%">
+    </div>
+3. Upload the PDF of scanned images. Wait for the model to finish parsing.
+4. Click the **Download** button then select **Markdown**.
+    <div style="text-align: center;">
+        <img src="https://i.imgur.com/R5HWDzv.png" alt="Image" width="80%">
+    </div>
+
+## How to edit the PaddleOCR-generated markdown file in VS Code
 1. In VS Code, install the extension **[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)** by *yzane*.
 2. In VS Code, create your own `.md` file.
 3. From this GitHub repository, open the target `.md`then copy and paste it into the `.md` file created from Step 2.
@@ -93,26 +105,51 @@ Now your workflow is as simple as:
 > [!WARNING]
 > If you move your cursor and press `Ctrl + Win + V` again on a link that is already wrapped or inside a block, it will nest the `<div>` inside another `<div>`. You may need to manually clean up nested wrappers if triggered multiple times in the same spot.
 
-### How to speed up workflow for Find and Replace to add images 
-1. In VS Code, open the Find and Replace widget (`Ctrl + F`).
-2. Click the Regex icon (`.*`) beside the Find input field to enable regular expressions.
-3. Enter the Find and Replace expressions in the input fields, respectively.
+### How to speed up workflow in adding images to AVAILABLE PARTS section 
+1. In the markdown file for the digitized version of the book (e.g., [Act_One.md](./Act_One.md)), focus on typing all the available parts in this format:
+
+    ```
+    #### AVAILABLE PARTS
+    - 1 \times Capacitor (0.001 F)
+    - 2 \times Chain
+    - 3 \times Diode
+    - 4 \times Inductor (55 H)
+    - 5 \times Junction
+    - 6 \times 200 Ohm
+    - 7 \times 500 Ohm
+    - 8 \times 1000 Ohm
+    - 9 \times Switch
+    - 10 \times Transistor
+    ```
+
+2. Once all **AVAILABLE PARTS** section have been typed in, open the Find and Replace widget (`Ctrl + H`).
+3. Click the Regex icon (`.*`) beside the Find input field to enable regular expressions.
+4. Enter the Find and Replace expressions in the input fields, respectively.
+
+> [!TIP]
+> You may refer to **[this cheatsheet](./available_parts_cheatsheet.md)** for a pre-made list of find and replace values for each available part.
 
 For example:
-To check all instances of `\times Junction` and automatically insert the junction icon `<div>` block if it isn't there:
+To find all instances of `\times Junction` not followed by a `<div` and replace that with
+
+× Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">  
+    </div>
+Fill the Find and Replace fields with the following:
 - Find:
     ```
     (\\times Junction)\r?\n(?!\s*<div)
     ```
-    Notes:
-    - `\r?\n` targets the line break immediately following the `- 1 \times Junction` text
-    - `(?!\s*<div)`
-        - `?!` look ahead and ensure that the find matches are not followed by
-        - `\s*` any whitespace characters (e.g., spaces, tabs) and a
-        - `<div` tag
+    - Explanation:
+        - `\r?\n` targets the line break immediately following the `- 1 \times Junction` text
+        - `(?!\s*<div)`
+            - `?!` look ahead and ensure that the find matches are not followed by
+            - `\s*` any whitespace characters (e.g., spaces, tabs) and a
+            - `<div` tag
 - Replace:
     ```
-    $1\n    <div style="text-align: left;">\n        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">\n    </div>
+    × Junction\n    <div style="text-align: left;">\n        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">\n    </div>
     ```
 
 > [!TIP]

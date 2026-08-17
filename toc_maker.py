@@ -57,7 +57,7 @@ def generate_toc(filename):
 
     return "\n".join(toc)
 
-filename = "Act_One.md"
+filename = "Act_Two.md" # edit the string according to the filename of the markdown file you want to generate a table of contents for
 
 toc = generate_toc(filename)
 

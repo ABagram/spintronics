@@ -1,7 +1,5 @@
 # SPINTRONICS ACT ONE
-Initial markdown output from OCR and image capture by **[PaddleOCR-VL-1.6](https://aistudio.baidu.com/paddleocr)**
 
-Manual text revisions, formatting changes, and image removal or replacement captures by @ABagram
 
 ## Table of Contents
 - [Tutorial 1: The battery](#tutorial-1-the-battery)

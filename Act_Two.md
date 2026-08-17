@@ -1,9 +1,8 @@
 # SPINTRONICS
 
-#### BUILD MECHANICAL CIRCUITS
+## BUILD MECHANICAL CIRCUITS
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//4c4cb948-3285-4e68-aef3-1cdedd334700/markdown_0/imgs/img_in_image_box_351_542_797_1108.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A56Z%2F-1%2F%2F21cf56d736d8f9a012b4ba64485ca2d97366f076ba18e3292e49995c0d21ac82" alt="Image" width="37%" /></div>
-
 
 THE TIME-WINDING JOURNEY CONTINUES PUZZLE BOOK
 
@@ -24,6 +23,139 @@ Version 1.24
 WARNING: Choking Hazard - small parts.\
 Not suitable for children under 3 years.\
 This product contains small magnets. Seek medical attention if magnets are swallowed or inhaled.
+
+## TABLE OF CONTENTS
+- [SPINTRONICS](#spintronics)
+  - [CONTENTS](#contents)
+- [FOREWORD](#foreword)
+- [Act Two](#act-two)
+  - [CHALLENGE 68: PUSH TO CHARGE 2](#challenge-68-push-to-charge-2)
+  - [CHALLENGE 69: AUTOMATIC DISCHARGE 2](#challenge-69-automatic-discharge-2)
+  - [CHALLENGE 70: TWO VOLTAGES](#challenge-70-two-voltages)
+  - [Tutorial 19: Series and Parallel Capacitors](#tutorial-19-series-and-parallel-capacitors)
+  - [CHALLENGE 71: BIGGER CAPACITOR BACKUP](#challenge-71-bigger-capacitor-backup)
+  - [CHALLENGE 72: CAPACITORS IN SERIES](#challenge-72-capacitors-in-series)
+  - [CHALLENGE 73: DOUBLE CAPACITANCE](#challenge-73-double-capacitance)
+  - [CHALLENGE 74: HALF CAPACITANCE](#challenge-74-half-capacitance)
+  - [CHALLENGE 75: BUILD A 0.004 F CAPACITOR](#challenge-75-build-a-0004-f-capacitor)
+  - [CHALLENGE 76: BUILD A 0.00025 F CAPACITOR](#challenge-76-build-a-000025-f-capacitor)
+  - [Tutorial 20: Capacitor Voltage Rating](#tutorial-20-capacitor-voltage-rating)
+  - [NEW PART UNLOCKED: THE SPINTRONIC TRANSISTOR](#new-part-unlocked-the-spintronic-transistor)
+  - [Tutorial 21: Spintronic Transistors](#tutorial-21-spintronic-transistors)
+  - [CHALLENGE 77: TRANSISTOR AS A SWITCH](#challenge-77-transistor-as-a-switch)
+  - [CHALLENGE 78: THE "ACTIVE" REGION](#challenge-78-the-active-region)
+  - [CHALLENGE 79: LEVEL CHANGER 2](#challenge-79-level-changer-2)
+  - [CHALLENGE 80: GATE CHARGE](#challenge-80-gate-charge)
+  - [CHALLENGE 81: GATE CHARGE 2](#challenge-81-gate-charge-2)
+  - [CHALLENGE 82: AMPLIFICATION - PART 1](#challenge-82-amplification-part-1)
+  - [CHALLENGE 83: AMPLIFICATION - PART 2](#challenge-83-amplification-part-2)
+  - [Tutorial 22: Transistor Circuit Diagrams](#tutorial-22-transistor-circuit-diagrams)
+  - [CHALLENGE 84: TRANSISTOR CIRCUIT DIAGRAMS 1](#challenge-84-transistor-circuit-diagrams-1)
+  - [CHALLENGE 85: TRANSISTOR CIRCUIT DIAGRAMS 2](#challenge-85-transistor-circuit-diagrams-2)
+  - [CHALLENGE 86: TRANSISTOR CIRCUIT DIAGRAMS 3](#challenge-86-transistor-circuit-diagrams-3)
+  - [Tutorial 23: Plan with Circuit Diagrams!](#tutorial-23-plan-with-circuit-diagrams)
+  - [Tutorial 24: Voltage and Current Sources](#tutorial-24-voltage-and-current-sources)
+  - [CHALLENGE 87: VOLTAGE AMPLIFIER](#challenge-87-voltage-amplifier)
+  - [Tutorial 25: Basic Amplifier](#tutorial-25-basic-amplifier)
+  - [CHALLENGE 88: NEGATIVE VOLTAGE AMPLIFIER](#challenge-88-negative-voltage-amplifier)
+  - [CHALLENGE 89: POSITIVE OR NEGATIVE AMPLIFIER](#challenge-89-positive-or-negative-amplifier)
+  - [CHALLENGE 90: DARLINGTON PAIR](#challenge-90-darlington-pair)
+  - [Tutorial 26: Adding and Subtracting Voltages](#tutorial-26-adding-and-subtracting-voltages)
+  - [CHALLENGE 91: ADDITION](#challenge-91-addition)
+  - [CHALLENGE 92: SUBTRACTION 1](#challenge-92-subtraction-1)
+  - [CHALLENGE 93: SUBTRACTION 2](#challenge-93-subtraction-2)
+  - [CHALLENGE 94: CIRCUIT MATH](#challenge-94-circuit-math)
+  - [Tutorial 27: Biasing a Transistor](#tutorial-27-biasing-a-transistor)
+  - [CHALLENGE 95: BIASED TRANSISTOR - PART 1](#challenge-95-biased-transistor-part-1)
+  - [CHALLENGE 96: BIASED TRANSISTOR - PART 2](#challenge-96-biased-transistor-part-2)
+  - [CHALLENGE 97: OFF AT ONE END](#challenge-97-off-at-one-end)
+  - [CHALLENGE 98: OFF AT BOTH ENDS](#challenge-98-off-at-both-ends)
+  - [CHALLENGE 99: CURRENT TO VOLTAGE CONVERTER 1](#challenge-99-current-to-voltage-converter-1)
+  - [CHALLENGE 100: CURRENT TO VOLTAGE CONVERTER 2](#challenge-100-current-to-voltage-converter-2)
+  - [CHALLENGE 101: THE TRANSISTOR DIODE](#challenge-101-the-transistor-diode)
+  - [Tutorial 28: The Transistor Diode](#tutorial-28-the-transistor-diode)
+  - [CHALLENGE 102: TWO DIODES](#challenge-102-two-diodes)
+  - [CHALLENGE 103: FULL WAVE RECTIFIER](#challenge-103-full-wave-rectifier)
+  - [CHALLENGE 105: POSITIVE AND NEGATIVE CLIPPER](#challenge-105-positive-and-negative-clipper)
+  - [CHALLENGE 106: PEAK DETECTOR](#challenge-106-peak-detector)
+  - [CHALLENGE 107: PEAK DETECTOR WITH RESET](#challenge-107-peak-detector-with-reset)
+  - [CHALLENGE 108: VOLTAGE LIMITER](#challenge-108-voltage-limiter)
+  - [NEW PART UNLOCKED: THE SPINTRONIC INDUCTOR](#new-part-unlocked-the-spintronic-inductor)
+  - [CHALLENGE 109: INDUCTANCE](#challenge-109-inductance)
+  - [CHALLENGE 110: REFLECTOR](#challenge-110-reflector)
+  - [CHALLENGE 111: INDUCTOR KICK](#challenge-111-inductor-kick)
+  - [CHALLENGE 112: HALVE THE INDUCTANCE](#challenge-112-halve-the-inductance)
+  - [CHALLENGE 113: QUADRUPLE THE INDUCTANCE](#challenge-113-quadruple-the-inductance)
+  - [Tutorial 29: Inductor/Diode Circuit Diagrams](#tutorial-29-inductordiode-circuit-diagrams)
+  - [CHALLENGE 114: INDUCTOR/DIODE CIRCUIT DIAGRAMS 1](#challenge-114-inductordiode-circuit-diagrams-1)
+  - [CHALLENGE 115: INDUCTOR/DIODE CIRCUIT DIAGRAMS 2](#challenge-115-inductordiode-circuit-diagrams-2)
+  - [CHALLENGE 116: INDUCTOR/DIODE CIRCUIT DIAGRAMS 3](#challenge-116-inductordiode-circuit-diagrams-3)
+  - [Tutorial 30: Alternating Current](#tutorial-30-alternating-current)
+  - [CHALLENGE 117: SUPERIMPOSE AC ON DC](#challenge-117-superimpose-ac-on-dc)
+  - [CHALLENGE 118: HIGH-PASS FILTER](#challenge-118-high-pass-filter)
+  - [CHALLENGE 119: LOW-PASS FILTER](#challenge-119-low-pass-filter)
+  - [CHALLENGE 120: SMOOTH IT OUT](#challenge-120-smooth-it-out)
+  - [CHALLENGE 121: HIGH-PASS FILTTER 2](#challenge-121-high-pass-filtter-2)
+  - [CHALLENGE 122: LOW-PASS FILTER 2](#challenge-122-low-pass-filter-2)
+  - [CHALLENGE 123: BAND-PASS FILTER](#challenge-123-band-pass-filter)
+  - [Tutorial 32: Switched-Mode Power Conversion](#tutorial-32-switched-mode-power-conversion)
+  - [CHALLENGE 124: BUCK CONVERTER - PART 1](#challenge-124-buck-converter-part-1)
+  - [CHALLENGE 125: BUCK CONVERTER - PART 2](#challenge-125-buck-converter-part-2)
+  - [CHALLENGE 126: BOOST CONVERTER - PART 1](#challenge-126-boost-converter-part-1)
+  - [CHALLENGE 127: BOOST CONVERTER - PART 2](#challenge-127-boost-converter-part-2)
+  - [CHALLENGE 128: SYNCHRONOUS SWITCH](#challenge-128-synchronous-switch)
+  - [CHALLENGE 129: POLARITY FLIPPER](#challenge-129-polarity-flipper)
+  - [CHALLENGE 130: SYNCHRONOUS BOOST CONVERTER](#challenge-130-synchronous-boost-converter)
+  - [CHALLENGE 131: SYNCHRONOUS BUCK CONVERTER](#challenge-131-synchronous-buck-converter)
+  - [CHALLENGE 132: VOLTAGE SPIKE](#challenge-132-voltage-spike)
+  - [CHALLENGE 133: BASIC FEEDBACK](#challenge-133-basic-feedback)
+  - [CHALLENGE 134: PRESS S1 TO START](#challenge-134-press-s1-to-start)
+  - [CHALLENGE 135: BASIC OSCILLATOR](#challenge-135-basic-oscillator)
+  - [CHALLENGE 136: WILL IT OSCILLATE?](#challenge-136-will-it-oscillate)
+  - [Tutorial 34: Oscillators](#tutorial-34-oscillators)
+  - [CHALLENGE 137: DELAYED FEEDBACK](#challenge-137-delayed-feedback)
+  - [CHALLENGE 138: SMOOTH OSCILLATOR](#challenge-138-smooth-oscillator)
+  - [CHALLENGE 139: RELAXATION OSCILLATOR - PART 1](#challenge-139-relaxation-oscillator-part-1)
+  - [CHALLENGE 140: RELAXATION OSCILLATOR - PART 2](#challenge-140-relaxation-oscillator-part-2)
+  - [CHALLENGE 141: RELAXATION OSCILLATOR - PART 3](#challenge-141-relaxation-oscillator-part-3)
+  - [CHALLENGE 142: CURRENT SOURCE - PART 1](#challenge-142-current-source-part-1)
+  - [CHALLENGE 143: CURRENT SOURCE - PART 2](#challenge-143-current-source-part-2)
+  - [CHALLENGE 144: CURRENT SOURCE - PART 3](#challenge-144-current-source-part-3)
+  - [CHALLENGE 145: FLIP-FLOP - PART 1](#challenge-145-flip-flop-part-1)
+  - [CHALLENGE 146: FLIP-FLOP - PART 2 (SCHMITT TRIGGER)](#challenge-146-flip-flop-part-2-schmitt-trigger)
+  - [CHALLENGE 147: FLIP-FLOP - PART 3](#challenge-147-flip-flop-part-3)
+    - [CHALLENGE 148: XOR GATE (VERY DIFFICULT)](#challenge-148-xor-gate-very-difficult)
+  - [CHALLENGE 149: PULSE GENERATOR (VERY DIFFICULT)](#challenge-149-pulse-generator-very-difficult)
+  - [END OF ACT TWO](#end-of-act-two)
+  - [SELECTED SOLUTIONS](#selected-solutions)
+    - [CHALLENGE 73](#challenge-73)
+    - [CHALLENGE 74](#challenge-74)
+    - [CHALLENGE 76](#challenge-76)
+    - [CHALLENGE 81](#challenge-81)
+    - [CHALLENGE 83](#challenge-83)
+    - [CHALLENGE 84](#challenge-84)
+    - [CHALLENGE 85](#challenge-85)
+    - [CHALLENGE 86](#challenge-86)
+    - [CHALLENGE 87](#challenge-87)
+    - [CHALLENGE 90](#challenge-90)
+    - [CHALLENGE 91](#challenge-91)
+    - [CHALLENGE 92](#challenge-92)
+    - [CHALLENGE 93](#challenge-93)
+    - [CHALLENGE 94](#challenge-94)
+    - [CHALLENGE 95](#challenge-95)
+    - [CHALLENGE 96](#challenge-96)
+    - [CHALLENGE 100](#challenge-100)
+    - [CHALLENGE 104](#challenge-104)
+    - [CHALLENGE 109](#challenge-109)
+    - [CHALLENGE 110](#challenge-110)
+    - [CHALLENGE 114](#challenge-114)
+    - [CHALLENGE 115](#challenge-115)
+    - [CHALLENGE 116](#challenge-116)
+    - [CHALLENGE 119](#challenge-119)
+    - [CHALLENGE 120](#challenge-120)
+    - [CHALLENGE 121](#challenge-121)
+    - [CHALLENGE 122](#challenge-122)
+    - [CHALLENGE 123](#challenge-123)
 
 ## CONTENTS
 
@@ -169,15 +301,15 @@ BUILD A CIRCUIT THAT CHARGES BOTH C1 AND C2 TO 6 V WHEN S1 IS TURNED ON. THEY SH
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 4 \times Chain
+- 4 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -200,15 +332,15 @@ BOTH C1 AND C2 MUST CHARGE TO 6 V WHILE S1 IS ON AND DISCHARGE TO 0 V WHEN S1 IS
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -226,12 +358,15 @@ BUILD A CIRCUIT THAT SETS C1 TO 6 V AND C2 TO APPROXIMATELY 3 V. YOU MUST USE A 
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times 500 Ohm
-- 6 \times Chain
+- 2 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -267,15 +402,15 @@ MODIFY THE CIRCUIT SO THAT THE CURRENT THROUGH A1 IS EVEN **LESS** AFFECTED WHEN
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Capacitor (0.001 F)
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -295,11 +430,11 @@ MODIFY THE CIRCUIT SO THAT IT MAKES **SHORTER** SOUNDS WHEN THE SWITCH IS TURNED
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times Chain
+- 1 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Capacitor (0.001 F)
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
@@ -312,7 +447,7 @@ DOUBLE THE CAPACITANCE FELT AT S1.
 
 **NOTE:** CHECK YOUR SOLUTION BY COMPARING THE CAPACITANCE YOU FEEL AT S1 WITH THE CAPACITANCE YOU FEEL FROM C2 BY ITSELF. WHEN COMPARING THEM, REMEMBER TO TURN THEM THE SAME DISTANCE WITH YOUR FINGERS AND FEEL HOW HARD THEY EACH PUSH BACK.
 
-(S)
+Ⓢ
 
 *If the capacitance is **higher**, it should feel **easier** to turn S1 the same amount.*
 
@@ -324,11 +459,11 @@ DOUBLE THE CAPACITANCE FELT AT S1.
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -340,16 +475,16 @@ HALVE THE CAPACITANCE FELT AT S1.
 
 **NOTE:** AS BEFORE, CHECK YOUR SOLUTION BY COMPARING THE CAPACITANCE YOU FEEL AT S1 WITH THE CAPACITANCE YOU FEEL FROM C2 BY ITSELF.
 
-(S)
+Ⓢ
 
 *With **half** the capacitance, it should feel **harder** to turn S1 the same amount.*
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -371,16 +506,19 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.004 F.
 </div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -392,7 +530,7 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.00025 F.
 
 **NOTE:** AS BEFORE, CHECK YOUR SOLUTION BY COMPARING THE CAPACITANCE YOU FEEL AT S1 WITH THE CAPACITANCE YOU FEEL FROM C2 BY ITSELF.
 
-(S)
+Ⓢ
 
 *Ok, now it's **one quarter** the capacitance of the spintronic capacitor by itself.*
 
@@ -402,16 +540,19 @@ MAKE THE CAPACITANCE FELT AT S1 EQUAL TO 0.00025 F.
 </div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -502,11 +643,14 @@ OPENING AND CLOSING THE GATE OF T1 WITH YOUR FINGERS MUST TURN ON AND OFF THE CU
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times Chain
+- 1 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transistor
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -529,12 +673,15 @@ THE VOLTAGE AT C1 MUST BE CONTROLLED BY THE POSITION OF THE GATE OF T1. (SET THE
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -554,11 +701,14 @@ That's especially important with **transistors**!
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//c0907efe-caee-4e82-83c7-d2ee8adda53f/markdown_2/imgs/img_in_image_box_145_1082_757_1542.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A11Z%2F-1%2F%2F5bfca07762e550faa8f0e3f3f4b031bf906489205920c76f2b00227f224e18ba" alt="Image" width="51%" /></div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 *The gate needs to be set to turn **clockwise**!*
  
@@ -582,15 +732,15 @@ MODIFY THE CIRCUIT SO THAT T1 OPENS WHEN S1 IS ON, **AND T1 CLOSES WHEN S1 IS OF
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -605,7 +755,7 @@ A1 MUST MAKE SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 
 **HINT:** YOU'LL NEED TO SPLIT THE POWER WITH A JUNCTION RIGHT AWAY: ONE LOOP WILL CONTROL THE GATE AND THE OTHER LOOP WILL POWER THE PATH.
 
-(S)
+Ⓢ
 
 *When I build a circuit to **open** the transistor gate and it **closes** it instead, it's **easy to fix** - all I have to do is **flip the gate to the other side!***
 
@@ -615,16 +765,19 @@ A1 MUST MAKE SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 6 \times Chain
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch (S1)
-- 2 \times Junction
+- 1 × Switch (S1)
+    <div style="text-align: left;">
+    <img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+    </div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -643,12 +796,15 @@ IN THIS FIRST CHALLENGE, MODIFY THE STARTING SETUP SO THAT WHEN S1 IS ON, THE GA
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 3 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -667,16 +823,19 @@ A1 MUST MAKE A LOUD SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 4 \times Chain
+- 4 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Ammeter
-- 1 \times Junction
+- 1 × Ammeter
+     <div style="text-align: left;">
+    <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+   </div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -712,7 +871,7 @@ BUILD THE FOLLOWING CIRCUIT:
     <img src="https://i.imgur.com/RTYM7i1.png" alt="Image" width="20%">
 </div>
 
-(S)
+Ⓢ
 
 *Time to try some more **circuit diagram puzzles**!*
 
@@ -723,19 +882,28 @@ BUILD THE FOLLOWING CIRCUIT:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 6 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch\
+- 1 × Switch
     *This switch isn't in the circuit diagram, so it must just be here for **changing levels**.*
-- 1 \times Transistor
-- 1 \times Junction
+    <div style="text-align: left;">
+    <img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+    </div>
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -747,7 +915,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3071db1f-9420-436b-856c-956e786d0fe0/markdown_2/imgs/img_in_image_box_282_155_522_479.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A00Z%2F-1%2F%2F1cfac7aa675d59579e93d088f6dd0605fde991f99d76927942f153934c725f24" alt="Image" width="30%" /></div>
 
-(S)
+Ⓢ
 
 *I almost missed it! The transistor's gate is **oppositely coupled** to the resistor.*
 
@@ -755,18 +923,27 @@ BUILD THE FOLLOWING CIRCUIT:
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3071db1f-9420-436b-856c-956e786d0fe0/markdown_2/imgs/img_in_image_box_321_964_749_1572.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A01Z%2F-1%2F%2F4c5291f4f09ae61a19bbd5ad445715c08267dc4e19605ce6ec81bd20e1d569bc" alt="Image" width="35%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 5 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -779,7 +956,7 @@ BUILD THE FOLLOWING CIRCUIT:
     <img src="https://i.imgur.com/dh51QcK.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -787,15 +964,27 @@ BUILD THE FOLLOWING CIRCUIT:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 10 \times Chain
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- 10 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 500 Ohm
-- 2 \times Switch
-- 2 \times Transistor
-- 2 \times Junction
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -841,7 +1030,7 @@ You know what? I can also make a **"Manual Voltage Source"**, or **MVS** for sho
 
 An MVS is made of three parts: a switch, a voltmeter, and a junction. To operate it, I can turn the sprockets of the switch with my fingers, trying to **keep the voltage shown on the voltmeter close to the voltage I want.**
 
-**Try it out!** Build an MVS attached to a 1000 Ohm resistor like in the picture above and turn the switch to keep the voltage on the voltmeter at a constant 5 V. Next, try a 200 Ohm resistor. You'll have to turn it a lot faster to keep it at 5 V.
+**Try it out!** Build an MVS attached to a 1000 Ω resistor like in the picture above and turn the switch to keep the voltage on the voltmeter at a constant 5 V. Next, try a 200 Ω resistor. You'll have to turn it a lot faster to keep it at 5 V.
 
 Now let's try something else. Build this circuit, where an MVS controls the gate of a transistor. (Both switches should be in the ON position.)
 
@@ -862,7 +1051,7 @@ BUILD A MANUAL VOLTAGE SOURCE (MVS) THAT CONTROLS THE GATE OF T1.
     <img src="https://i.imgur.com/aFZAe88.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 ***Yes!** That's what I was hoping for! The transistor can amplify a **small** voltage into a **larger** one.*
 
@@ -875,16 +1064,19 @@ BUILD A MANUAL VOLTAGE SOURCE (MVS) THAT CONTROLS THE GATE OF T1.
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -915,17 +1107,23 @@ NOW BUILD A CIRCUIT THAT AMPLIFIES A NEGATIVE VOLTAGE FROM AN MVS INTO A LARGER,
 </div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -949,13 +1147,19 @@ BUILD A CIRCUIT THAT AMPLIFIES A **POSITIVE OR A NEGATIVE VOLTAGE** FROM MVS1 IN
 </div>
 
 #### AVAILABLE PARTS
-- 9 \times Chain
+- 9 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Switch
-- 2 \times Transistor
-- 2 \times Junction
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -969,7 +1173,7 @@ BUILD A CIRCUIT WITH **TWO STAGES OF AMPLIFICATION**. MVS1 MUST BE AMPLIFIED BY 
     <img src="https://i.imgur.com/PKykzRr.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 <div style="background: #fe1822; color: white; padding: 5px 20px 5px 20px; font-size: 0.8em">REMEMBER TO TRY THE <b>SPINTRONICS SIMULATOR</b> FOR COMPLICATED CIRCUITS LIKE THIS ONE. GO TO <b><a href="https://spintronics.com" target="_blank" style="color: #faf202; text-decoration: underline;">SPINTRONICS.COM/SIMULATOR</a></b>.</div>
 
@@ -979,14 +1183,23 @@ BUILD A CIRCUIT WITH **TWO STAGES OF AMPLIFICATION**. MVS1 MUST BE AMPLIFIED BY 
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 10 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 10 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 2 \times Transistor
-- 2 \times Junction
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1017,7 +1230,7 @@ EXAMPLES:
 - IF MVS1 = 2 V, THEN C1 = 8 V
 - IF MVS1 = -3 V, THEN C1 = 3 V
 
-(S)
+Ⓢ
 
 *In theory this should work, but there's **friction inside the battery** that makes the sum less accurate.*
 
@@ -1027,7 +1240,7 @@ EXAMPLES:
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d72dce5c-eb7f-4127-8ea2-2a64d75f6903/markdown_3/imgs/img_in_image_box_242_975_688_1584.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A35%3A03Z%2F-1%2F%2F2193529b7922e42b3fa246b7730feeadf926b25edefe3e76660f301c6a34a1c3" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
@@ -1041,17 +1254,20 @@ EXAMPLES:
 - IF MVS1 = 2 V, THEN C1 = 4V
 - IF MVS1 = -3 V, THEN C1 = 9V
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_0/imgs/img_in_image_box_318_977_755_1579.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A58Z%2F-1%2F%2F245b28030e931ec66f36faf65634d42c7b4e965e5e02927a876d3a91a420b97b" alt="Image" width="36%" /></div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1063,18 +1279,21 @@ EXAMPLES:
 - IF MVS1 = 2 V, THEN C1 = -4 V
 - IF MVS1 = -3 V, THEN C1 = -9 V
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//3c9211c7-0283-4d94-9bc8-afc3a36162ab/markdown_1/imgs/img_in_image_box_241_972_685_1585.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2F52368a5e1ebf3284abee6099814969787b4e975188d4d918fbdb795dbac4d648" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1086,7 +1305,7 @@ MODIFY THE CIRCUIT TO SHOW THE ANSWER TO THE EQUATION: C1 - C2 = ?
 
 **NOTE:** YOU WILL ONLY NEED ONE OF THE TWO CAPACITORS IN THE SOLUTION.
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1094,11 +1313,14 @@ MODIFY THE CIRCUIT TO SHOW THE ANSWER TO THE EQUATION: C1 - C2 = ?
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times Chain
+- 1 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Switch
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1116,7 +1338,7 @@ ADD A VOLTAGE DIVIDER THAT APPLIES A SMALL VOLTAGE (ABOUT 1 V) TO THE GATE OF T1
 
 **NOTE:** TRANSISTORS VARY - C1 MAY MEASURE ANYWHERE BETWEEN 1 AND 5 V.
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1124,16 +1346,19 @@ ADD A VOLTAGE DIVIDER THAT APPLIES A SMALL VOLTAGE (ABOUT 1 V) TO THE GATE OF T1
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 6 \times Chain
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1146,23 +1371,26 @@ MODIFY THE CIRCUIT BY BUILDING AN MVS THAT ADDS TO THE VOLTAGE PRODUCED BY THE V
     <img src="https://i.imgur.com/rMRTXln.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 #### STARTING SETUP
 <div style="text-align: center;">
     <img src="https://i.imgur.com/UHQIsPU.png" alt="Image" width="40%">
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1180,12 +1408,15 @@ THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V.
 </div>
 
 #### AVAILABLE PARTS
-- 4 \times Chain
+- 4 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1203,13 +1434,19 @@ THE AMMETER A1 MUST MAKE NOISE EXCEPT WHEN MVS1 IS GREATER THAN +6 V OR LESS THA
 </div>
 
 #### AVAILABLE PARTS
-- 9 \times Chain
+- 9 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Switch
-- 2 \times Transistor
-- 2 \times Junction
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1230,15 +1467,15 @@ CONVERT THE CURRENT PRODUCED BY MCS1 INTO A VOLTAGE ON C1
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1250,7 +1487,7 @@ NOW AMPLIFY POSITIVE VOLTAGES AT C1 INTO LARGER VOLTAGES AT C2
 <div style="text-align: center;">
     <img src="https://i.imgur.com/Z9IX707.png" alt="Image" width="40%">
 </div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1258,13 +1495,19 @@ NOW AMPLIFY POSITIVE VOLTAGES AT C1 INTO LARGER VOLTAGES AT C2
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 5 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1281,12 +1524,15 @@ S1 MUST ONLY BE ABLE TO TURN **CLOCKWISE**.
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1323,16 +1569,19 @@ WHEN S1 IS TURNED CLOCKWISE, A1 MUST TURN. WHEN S1 IS TURNED COUNTERCLOCKWISE, R
 
 
 #### AVAILABLE PARTS
-- 6 \times Chain
+- 6 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 2 \times Diode
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1349,16 +1598,19 @@ REGARDLESS OF WHICH DIRECTION S1 IS TURNED, A1 MUST TURN **CLOCKWISE**.
 </div>
 
 #### AVAILABLE PARTS
-- 8 \times Chain
+- 8 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 2 \times Diode
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1371,7 +1623,7 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
     <img src="https://i.imgur.com/0O2LxGO.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
@@ -1380,15 +1632,15 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Transition-Junction
+- 1 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1408,15 +1660,15 @@ C1 MUST SHOW THE VOLTAGE APPLIED TO S1 (WITH YOUR FINGERS), BUT THE VOLTAGE SHOW
 </div>
 
 #### AVAILABLE PARTS
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 2 \times Diode
+- 2 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 2 \times Junction
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1434,11 +1686,11 @@ C1 MUST ALWAYS SHOW THE HIGHEST VOLTAGE EVER APPLIED TO IT BY MVS1.
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ab7aca23-1ee0-43f1-960c-6c3843fab413/markdown_1/imgs/img_in_image_box_242_980_694_1551.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-13T09%3A34%3A59Z%2F-1%2F%2Fc6f409f9920ca65e489800214b7851f233e66b609b02c008e60003a164fcad45" alt="Image" width="37%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times Chain
+- 1 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Diode
+- 1 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
@@ -1459,15 +1711,15 @@ BUILD A PEAK DETECTOR LIKE BEFORE, BUT NOW THE RESET BUTTON RESETS IT BACK TO 0 
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Diode
+- 1 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1486,20 +1738,23 @@ LIMIT THE MAXIMUM VOLTAGE THAT CAN BE PRODUCED BY MVS1 TO ROUGHLY +3.5 V.
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 1 \times Diode
+- 1 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1529,7 +1784,7 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
     <img src="https://i.imgur.com/x6XPJTP.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 *Weeeell...**in reality**, it will look more like this because the inductor gets going too fast and **slows itself down**:*
 <div style="text-align: center;">
@@ -1542,19 +1797,19 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-- 1 \times Inductor (55 H)
+- 1 × Inductor (55 H)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
 	</div>
@@ -1571,7 +1826,7 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 
 **IMPORTANT:** NOTICE THAT THIS SECTION IS FLAT, UNLIKE THE PREVIOUS CHALLENGE.
 
-(S)
+Ⓢ
 
 *The output has positive **and negative current?!?***
 
@@ -1583,19 +1838,19 @@ BUILD A CIRCUIT THAT BEHAVES LIKE THE FOLLOWING:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-- 1 \times Inductor (55 H)
+- 1 × Inductor (55 H)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
 	</div>
@@ -1612,15 +1867,15 @@ THIS CIRCUIT RIPS ITSELF APART WHEN S1 IS TURNED OFF. MODIFY THE CIRCUIT SO THAT
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
+- 3 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Diode
+- 1 × Diode
     <div style="text-align: left;">
         <img src="https://i.imgur.com/WC4wvUP.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
@@ -1640,15 +1895,15 @@ HALVE THE INDUCTANCE FELT AT S1.
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times Chain
+- 2 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-#### DIFFICULTY: 2/5
+#### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 113: QUADRUPLE THE INDUCTANCE
 
@@ -1662,16 +1917,19 @@ QUADRUPLE THE INDUCTANCE FELT AT S1.
 </div>
 
 #### AVAILABLE PARTS
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 2 \times Junction
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## Tutorial 29: Inductor/Diode Circuit Diagrams
 
@@ -1690,7 +1948,7 @@ BUILD THE FOLLOWING CIRCUIT:
 <div style="text-align: center;">
     <img src="https://i.imgur.com/YxX0CoC.png" alt="Image" width="40%">
 </div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1698,21 +1956,27 @@ BUILD THE FOLLOWING CIRCUIT:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Ammeter
-- 1 \times Junction
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Ammeter
+     <div style="text-align: left;">
+    <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+   </div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-- 1 \times Inductor (55 H)
+- 1 × Inductor (55 H)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
 	</div>
@@ -1728,7 +1992,7 @@ BUILD THE FOLLOWING CIRCUIT:
 
 *Before building this circuit, can you guess what the **voltage reading** will be on the **capacitor**?*
 
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1736,25 +2000,31 @@ BUILD THE FOLLOWING CIRCUIT:
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 5 \times Chain
+- 5 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times Switch
-- 1 \times Capacitor (0.001 F)
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
 	</div>
-- 1 \times Diode
-- 1 \times Junction
+- 1 × Diode
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/8Kv9XsS.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 116: INDUCTOR/DIODE CIRCUIT DIAGRAMS 3
 
@@ -1762,7 +2032,7 @@ BUILD THE FOLLOWING CIRCUIT:
 <div style="text-align: center;">
     <img src="https://i.imgur.com/PLQk9UV.png" alt="Image" width="40%">
 </div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1770,28 +2040,40 @@ BUILD THE FOLLOWING CIRCUIT:
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times 500 Ohm
-- 13 \times Chain
+- 2 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 13 × Chain
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
-- 1 \times 200 Ohm
+- 1 × 200 Ω
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
 	</div>
-- 2 \times Switch
-- 1 \times Ammeter
-- 1 \times Transistor
-- 4 \times Junction
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Ammeter
+     <div style="text-align: left;">
+    <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+   </div>
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 4 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
-- 1 \times Inductor (55 H)
+- 1 × Inductor (55 H)
 	<div style="text-align: left;">
 	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
 	</div>
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## Tutorial 30: Alternating Current
 
@@ -1836,20 +2118,20 @@ BUILD A CIRCUIT THAT SUPERIMPOSES AN AC SIGNAL FROM MVS1 ONTO THE 6 V DC SIGNAL 
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-    <div style="text-align: left;">
-        <img src="https://i.imgur.com/GKcK2L8.png" alt="Image" width="8%">
-    </div>
-- 4 \times Chain
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
     <div style="text-align: left;">
         <img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
     </div>
-- 1 \times Junction
+- 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
     </div>
 
-#### DIFFICULTY: 2/5
+#### DIFFICULTY: ★★☆☆☆
 
 #### Tutorial 31: Reactance and Filters
 
@@ -1915,10 +2197,22 @@ APPLY THE AC SIGNAL TO S1 BY PUSHING IT BACK AND FORTH WITH YOUR FINGERS. YOUR C
 *I can see it works because when I push S1 back and forth at **low frequency**, C1 doesn't move much, but at a **high frequency**, C1 moves a lot!*
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 4 \times Chain
-- 1 \times Capacitor (0.001 F)
-- 1 \times Junction
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFCULTY: 3/5
 
@@ -1930,7 +2224,7 @@ APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUE
     <img src="https://i.imgur.com/wc0JklY.png" alt="Image" width="40%">
 </div>
 
-(S)
+Ⓢ
 
 *Think for a moment - **what would this circuit feel like?***
 
@@ -1942,19 +2236,31 @@ APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUE
 
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
-- 1 \times Capacitor (0.001 F)
-- 1 \times Junction
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 120: SMOOTH IT OUT
 MODIFY THE FULL WAVE RECTIFIER TO SMOOTH THE OUTPUT. THE CURRENT THROUGH A1 SHOULD BE **NEARLY CONSTANT**. (USE BOTH CAPACITORS IN PARALLEL TO MAKE IT AS SMOOTH AS POSSIBLE.)
 <div style="text-align: center;">
     <img src="https://i.imgur.com/zX66drj.png" alt="Image" width="40%">
 </div>
-(S)
+Ⓢ
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -1962,35 +2268,59 @@ MODIFY THE FULL WAVE RECTIFIER TO SMOOTH THE OUTPUT. THE CURRENT THROUGH A1 SHOU
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 5 \times Chain
-- 2 \times Capacitor (0.001 F)
-- 2 \times Junction
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 2 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 121: HIGH-PASS FILTTER 2
 
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE HIGH FREQUENCY PART OF SIGNALS PASS THROUGH TO A1, BUT IT MUST WEAKEN THE LOW FREQUENCY PART OF SIGNALS.
-(S)
+Ⓢ
 
 #### STARTING SETUP
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//10d6f470-e837-49c9-8d1c-5c95f5211fa5/markdown_2/imgs/img_in_image_box_195_944_719_1570.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2F938af60dbf92babb4dcd4c71c2417cce4cbfb5c08b370587e5d5fc5afd88518e" alt="Image" width="44%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 4 \times Chain
-- 1 \times Junction
-- 1 \times Inductor (55 H)
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 122: LOW-PASS FILTER 2
 
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUENCY (AND DC) PART OF SIGNALS PASS THROUGH TO A1, BUT IT MUST WEAKEN HIGHER FREQUENCIES. 
 
-(S)
+Ⓢ
 
 *This time the output signal should get **weaker with higher frequencies!***
 
@@ -1999,18 +2329,30 @@ APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT MUST LET THE LOW FREQUE
 
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 4 \times Chain
-- 1 \times Junction
-- 1 \times Inductor (55 H)
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 123: BAND-PASS FILTER
 
 APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT SHOULD WEAKEN BOTH HIGH AND LOW FREQUENCIES, BUT PASS MIDDLE FREQUENCIES THROUGH TO C1.
 
-(S)
+Ⓢ
 
 *The **middle frequencies** should be strongest?!? Maybe I could combine a low-pass and a high-pass filter?*
 
@@ -2020,13 +2362,28 @@ APPLY AN AC SIGNAL TO S1 WITH YOUR FINGERS. YOUR CIRCUIT SHOULD WEAKEN BOTH HIGH
 
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 6 \times Chain
-- 1 \times Capacitor (0.001 F)
-- 2 \times Junction
-- 1 \times Inductor (55 H)
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## Tutorial 32: Switched-Mode Power Conversion
 
@@ -2059,7 +2416,7 @@ Well, switched-mode power converters **aren't needed** in spintronics, I'm going
 
 ## CHALLENGE 124: BUCK CONVERTER - PART 1
 
-BUILD A CIRCUIT THAT POWERS THE 100 Ohm LOAD IN THE FOLLOWING WAY:
+BUILD A CIRCUIT THAT POWERS THE 100 Ω LOAD IN THE FOLLOWING WAY:
 
 <div style="text-align: center;">
     <img src="https://i.imgur.com/iXAUfam.png" alt="Image" width="40%">
@@ -2067,7 +2424,7 @@ BUILD A CIRCUIT THAT POWERS THE 100 Ohm LOAD IN THE FOLLOWING WAY:
 
 **NOTE:** YOU'LL HAVE TO TURN S1 ON AND OFF PRETTY FAST.
 
-*A **100 Ohm load**? Oh! I see. The 200 Ohm resistor is coupled in such a way that it **feels** like a 100 Ohm resistor.*
+*A **100 Ω load**? Oh! I see. The 200 Ω resistor is coupled in such a way that it **feels** like a 100 Ω resistor.*
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -2075,12 +2432,21 @@ BUILD A CIRCUIT THAT POWERS THE 100 Ohm LOAD IN THE FOLLOWING WAY:
 </div>
 
 #### AVAILABLE PARTS
-- 5 \times Chain
-- 1 \times Diode
-- 1 \times Junction
-- 1 \times Capacitor (55 H)
+- 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Diode
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/8Kv9XsS.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Capacitor (55 H)
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 125: BUCK CONVERTER - PART 2
 
@@ -2100,11 +2466,20 @@ IMPROVE THE BUCK CONVERTER BY ADDING A LOW-PASS FILTER (USING C1 AND C2) THAT RE
 </div>
 
 #### AVAILABLE
-- 3 \times Chain
-- 1 \times Switch
-- 1 \times Junction
+- 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 126: BOOST CONVERTER - PART 1
 
@@ -2120,11 +2495,20 @@ WHEN S1 IS ON, THE INDUCTOR MUST SPIN UP. THEN, WHEN S1 IS TURNED OFF, IT MUST B
 </div>
 
 #### AVAILABLE PARTS
-- 4 \times Chain
-- 1 \times Junction
-- 1 \times Inductor (55 H)
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 127: BOOST CONVERTER - PART 2
 
@@ -2140,14 +2524,32 @@ NOW BUILD A COMPLETE BOOST CONVERTER THAT DRIVES R1 WITH A VOLTAGE **HIGHER THAN
 </div>
 
 #### AVAILABLE PARTS
-- 10 \times Chain
-- 1 \times Switch
-- 2 \times Capacitor (0.001 F)
-- 1 \times Diode
-- 3 \times Junction
-- 1 \times Inductor (55 H)
+- 10 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × Diode
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/8Kv9XsS.png" alt="Image" width="8%">
+	</div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## CHALLENGE 128: SYNCHRONOUS SWITCH
 
@@ -2158,10 +2560,16 @@ CONNECT THE GATES OF T1 AND T2 TOGETHER SO THAT ONE OF THEM IS ALWAYS OPEN (LIKE
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1c4c4633-63f2-4dd8-ac5f-e65dd27c21e2/markdown_2/imgs/img_in_image_box_175_998_747_1541.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A30Z%2F-1%2F%2Ff8c245ce43f30afc3f16a6ee402353614b83b57c62504644f4306c727fb0434a" alt="Image" width="48%" /></div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
-- 1 \times Junction
+- 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 129: POLARITY FLIPPER
 BUILD A CIRCUIT THAT SETS C1 TO +6 V WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE WAY AND TO -6 V WHEN IT'S FLIPPED THE OTHER WAY. THE SYNCHRONOUS SWITCH MUST ALSO CONTROL THE DIRECTION THAT A1 SPINS.
@@ -2172,12 +2580,24 @@ BUILD A CIRCUIT THAT SETS C1 TO +6 V WHEN THE SYNCHRONOUS SWITCH IS TURNED ONE W
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 9 \times Chain
-- 1 \times Switch
-- 3 \times Junction
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 9 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 130: SYNCHRONOUS BOOST CONVERTER
 
@@ -2192,17 +2612,32 @@ BUILD A BOOST CONVERTER TO POWER R1 LIKE BEFORE, BUT THIS TIME, REPLACE S1 AND T
 </div>
 
 #### AVAILABLE PARTS
-- 11 \times Chain
-- 2 \times Switch
-- 2 \times Capacitor (0.001 F)
-- 3 \times Junction
-- 1 \times Inductor (55 H)
+- 11 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## CHALLENGE 131: SYNCHRONOUS BUCK CONVERTER
 
-BUILD A BUCK CONVERTER TO POWER THE 100 Ohm LOAD LIKE BEFORE, BUT NOW REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
+BUILD A BUCK CONVERTER TO POWER THE 100 Ω LOAD LIKE BEFORE, BUT NOW REPLACE S1 AND THE DIODE WITH A SYNCHRONOUS SWITCH. TURN THE SWITCH BACK AND FORTH TO OPERATE THE CONVERTER.
 <div style="text-align: center;">
     <img src="https://i.imgur.com/ORRWRsJ.png" alt="Image" width="40%">
 </div>
@@ -2213,13 +2648,28 @@ BUILD A BUCK CONVERTER TO POWER THE 100 Ohm LOAD LIKE BEFORE, BUT NOW REPLACE S1
 </div>
 
 #### AVAILABLE PARTS
-- 10 \times Chain
-- 2 \times Switch
-- 2 \times Capacitor (0.001 F)
-- 4 \times Junction
-- 1 \times Inductor (55 H)
+- 10 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 2 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 4 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## CHALLENGE 132: VOLTAGE SPIKE
 
@@ -2233,16 +2683,40 @@ ALL PARTS ARE AVAILABLE (EXCEPT INDUCTORS). IF YOU'RE STUCK, FEEL FREE TO SKIP T
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- ∞ \times Chain
-- 2 \times 500 Ohm
-- 1 \times Capacitor (0.001 F)
-- 1 \times 200 Ohm
-- 2 \times Switch
-- 6 \times Junction
-- 2 \times Transistor
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- ∞ × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 2 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 6 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 2 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 #### Tutorial 33: Feedback
 
@@ -2269,29 +2743,53 @@ BUILD A CIRCUIT WHERE A TRANSISTOR BEGINS WITH ITS GATE CLOSED. WHEN IT IS OPENE
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_2/imgs/img_in_image_box_311_962_610_1492.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A25Z%2F-1%2F%2Fcc2b8ba05209e0486d67c36a076c936a74f89b9778fd2d95aec46646f02aad28" alt="Image" width="25%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 500 Ohm
-- 3 \times Chain
-- 1 \times Transistor
-- 1 \times Junction
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 134: PRESS S1 TO START
 
 PRESS S1 TO START A1 MAKING NOISE. AFTER THAT, A1 SHOULD CONTINUE TO MAKE NOISE, EVEN WHEN S1 IS TURNED BACK OFF AGAIN.
 
-**NOTE:** IN THIS PUZZLE, YOU ARE NOT ALLOWED TO PUT THE GATE OF  T1 IN SERIES WITH THE SWITCH. INSTEAD, THE GATE OF  T1 MUST BE CONTROLLED BY FEEDBACK FROM VOLTAGE GENERATED BY CURRENT RUNNING THROUGH THE 200 Ohm RESISTOR.
+**NOTE:** IN THIS PUZZLE, YOU ARE NOT ALLOWED TO PUT THE GATE OF  T1 IN SERIES WITH THE SWITCH. INSTEAD, THE GATE OF  T1 MUST BE CONTROLLED BY FEEDBACK FROM VOLTAGE GENERATED BY CURRENT RUNNING THROUGH THE 200 Ω RESISTOR.
 
 #### STARTING SETUP
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//fe4c1dbc-90f8-478a-b94a-70823e38754e/markdown_3/imgs/img_in_image_box_269_896_669_1520.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A22%3A28Z%2F-1%2F%2Fd3deee32868c01b36e5fca7f5c59d26691f11bd669c80958b317fa78bb864843" alt="Image" width="33%" /></div>
 
 #### AVAILABLE PARTS
-- 9 \times Chain
-- 1 \times Switch
-- 1 \times Transistor
-- 3 \times Junction
+- 9 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
+- 1 × Transistor
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/X4Au9IK.png" alt="Image" width="8%">
+	</div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 135: BASIC OSCILLATOR
 
@@ -2307,10 +2805,16 @@ BUILD A CIRCUIT THAT CHARGES L1 WHEN S1 IS ON AND THEN OSCILLATES (I.E., SWINGS 
 
 
 #### AVAILABLE PARTS
-- 4 \times Chain
-- 1 \times Junction
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 2/5
+#### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 136: WILL IT OSCILLATE?
 BUILD A NOT GATE CONTROLLED BY T1 (SEE ACT ONE). THEN CONNECT THE OUTPUT OF THE NOT GATE TO THE GATE OF T1.
@@ -2328,11 +2832,20 @@ THE IDEA IS:
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//39c58340-59a9-4934-b28f-aa6be5805fbf/markdown_1/imgs/img_in_image_box_268_903_515_1510.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-14T17%3A16%3A36Z%2F-1%2F%2Fa2e934167341005e2780014eb553cbd6a9db6afad752640c981946baeb74a2f2" alt="Image" width="20%" /></div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 4 \times Chain
-- 1 \times Junction
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## Tutorial 34: Oscillators
 
@@ -2369,12 +2882,24 @@ MODIFY THE CIRCUIT TO DELAY THE FEEDBACK.
 </div>
 
 #### AVAILABLE PARTS
-- 3 \times Chain
-- 1 \times Capacitor (0.001 F)
-- 1 \times Junction
-- 1 \times Inductor (55 H)
+- 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
+- 1 × Inductor (55 H)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/Rg4WZvk.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 138: SMOOTH OSCILLATOR
 IN THE OSCILLATOR BELOW, THE INDUCTOR **SLAMS OPEN** THE TRANSISTOR GATE IN EACH OSCILLATION. THE REMAINING ENERGY HAS NOWHERE TO GO. MODIFY THE CIRCUIT BY ADDING A CAPACITOR THAT SOAKS UP THE EXTRA ENERGY, SMOOTHING OUT THE OSCILLATIONS.
@@ -2388,11 +2913,20 @@ IN THE OSCILLATOR BELOW, THE INDUCTOR **SLAMS OPEN** THE TRANSISTOR GATE IN EACH
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times Chain
-- 1 \times Capacitor (0.001 F)
-- 1 \times Junction
+- 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Capacitor (0.001 F)
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+    </div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 139: RELAXATION OSCILLATOR - PART 1
 
@@ -2407,11 +2941,20 @@ BUILD A "BUFFER" GATE. A BUFFER GATE **COPIES THE INPUT TO THE OUTPUT**. (USE YO
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 3 \times Chain
-- 1 \times Junction
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 2/5
+#### DIFFICULTY: ★★☆☆☆
 
 ## CHALLENGE 140: RELAXATION OSCILLATOR - PART 2
 
@@ -2426,11 +2969,20 @@ LEAVE THE PREVIOUS BUFFER GATE WHERE IT IS AND ADD A SEPARATE NOT GATE IN PARALL
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 5 \times Chain
-- 2 \times Junction
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 141: RELAXATION OSCILLATOR - PART 3
 
@@ -2447,7 +2999,7 @@ REMOVE C1 AND C2. THEN, SEND THE OUTPUT OF THE NOT GATE TO THE INPUT OF THE BUFF
 
 #### AVAILABLE PARTS
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 142: CURRENT SOURCE - PART 1
 
@@ -2461,12 +3013,24 @@ BUILD A CIRCUIT THAT APPLIES -2 V TO THE GATE OF TRANSISTOR T1. IT SHOULD BE ENO
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 1000 Ohm
-- 4 \times Chain
-- 1 \times 500 Ohm
-- 1 \times Junction
+- 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
+- 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 143: CURRENT SOURCE - PART 2
 
@@ -2478,15 +3042,18 @@ BUILD THE STARTING SETUP. THEN CONNECT A1 TO S1 IN SUCH A WAY THAT WHEN YOU TURN
 </div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
+- 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
-#### DIFFICULTY: 3/5
+#### DIFFICULTY: ★★★☆☆
 
 ## CHALLENGE 144: CURRENT SOURCE - PART 3
 
 MODIFY THE CIRCUIT SO THAT IT APPLIES A CONSTANT CURRENT TO S1. IT MUST STAY ROUGHLY CONSTANT EVEN WHEN A SMALL AMOUNT OF RESISTANCE IS APPLIED TO S1 WITH YOUR FINGERS.
 
-**HINT:** USE THE 200 Ohm RESISTOR TO ADD FEEDBACK TO T1, CLOSING T1 WHEN THE CURRENT RISES.
+**HINT:** USE THE 200 Ω RESISTOR TO ADD FEEDBACK TO T1, CLOSING T1 WHEN THE CURRENT RISES.
 
 #### STARTING SETUP
 <div style="text-align: center;">
@@ -2494,11 +3061,20 @@ MODIFY THE CIRCUIT SO THAT IT APPLIES A CONSTANT CURRENT TO S1. IT MUST STAY ROU
 </div>
 
 #### AVAILABLE PARTS
-- 1 \times 200 Ohm
-- 2 \times Chain
-- 1 \times Junction
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
+- 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## CHALLENGE 145: FLIP-FLOP - PART 1
 
@@ -2514,11 +3090,20 @@ BUILD TWO NOT GATES IN PARALLEL WITH EACH OTHER. THE GATE MADE FROM T1 MUST PROD
 </div>
 
 #### AVAILABLE PARTS
-- 2 \times 500 Ohm
-- 9 \times Chain
-- 3 \times Junction
+- 2 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
+- 9 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 146: FLIP-FLOP - PART 2 (SCHMITT TRIGGER)
 
@@ -2530,7 +3115,7 @@ REMOVE C1 AND C2. THEN MODIFY THE CIRCUIT SO THAT WHENEVER YOU OPEN OR CLOSE ONE
 
 #### AVAILABLE PARTS
 
-#### DIFFICULTY: 4/5
+#### DIFFICULTY: ★★★★☆
 
 ## CHALLENGE 147: FLIP-FLOP - PART 3
 
@@ -2545,10 +3130,16 @@ MODIFY THE CIRCUIT SO THAT THE TRANSISTORS ARE FLIpped ON OR OFF BY S1 AND S2 (I
 </div>
 
 #### AVAILABLE PARTS
-- 6 \times Chain
-- 3 \times Junction
+- 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 3 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ### CHALLENGE 148: XOR GATE (VERY DIFFICULT)
 
@@ -2596,7 +3187,7 @@ THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 IS ON (BUT NOT BOTH).
 
 ALL PARTS ARE AVAILABLE
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## CHALLENGE 149: PULSE GENERATOR (VERY DIFFICULT)
 
@@ -2615,7 +3206,7 @@ GENERATE A PULSE FOR A SHORT TIME WHEN S1 IS TURNED ON:
 
 ALL PARTS ARE AVAILABLE
 
-#### DIFFICULTY: 5/5
+#### DIFFICULTY: ★★★★★
 
 ## END OF ACT TWO
 
