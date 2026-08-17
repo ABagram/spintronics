@@ -832,9 +832,9 @@ A1 MUST MAKE A LOUD SOUND WHEN S1 IS ON AND MUST BE SILENT WHEN S1 IS OFF.
 	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
 	</div>
 - 1 × Ammeter
-     <div style="text-align: left;">
-    <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
-   </div>
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 - 1 × Junction
     <div style="text-align: left;">
         <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">

@@ -201,7 +201,13 @@ BUILD THE STARTING SETUP AND TEST THE CIRCUIT. THEN MODIFY THE CIRCUIT TO MAKE I
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -223,7 +229,13 @@ THIS TIME, SOLVE IT WITHOUT CONNECTING ANY MORE CHAINS TO R1.
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -242,8 +254,17 @@ COUNTERCLOCKWISE = ↺
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 
 DIFFICULTY: ★☆☆☆☆
 
@@ -265,8 +286,17 @@ COUNTERCLOCKWISE = ↺
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -280,8 +310,17 @@ MAKE BOTH RESISTORS TURN COUNTERCLOCKWISE.
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -318,7 +357,13 @@ MAKE THE RESISTOR (R1) TURN ON AND OFF WITH A SWITCH.
 
 #### AVAILABLE PARTS
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -330,7 +375,13 @@ TURN THE RESISTOR (R1) ON AND OFF WITH A SWITCH.
 
 #### AVAILABLE PARTS
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -375,7 +426,13 @@ BUILD A CIRCUIT THAT TURNS THE RESISTOR ONLY WHEN BOTH SWITCHES S1 AND S2 ARE ON
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -416,7 +473,13 @@ MAKE THE AMMETER A1 TURN.
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -428,8 +491,17 @@ BUILD A CIRCUIT THAT TURNS THE AMMETER A1 ON AND OFF WITH A SWITCH.
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -443,8 +515,17 @@ MAKE THE AMMETER A1 PRODUCE A LOWER-PITCHED SOUND THAN THE SOUND PRODUCED IN THE
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -464,9 +545,21 @@ MAKE THE AMMETER A1 PRODUCE THE LOWEST-PITCHED SOUND POSSIBLE WITH THE AVAILABLE
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -513,9 +606,21 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -533,7 +638,13 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -558,10 +669,25 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -580,9 +706,21 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -637,7 +775,13 @@ The number of little gray dots on the chains show the sprocket they're meant to 
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -652,9 +796,21 @@ FIX ALL THE SHORTS. (IT DOESN'T MATTER WHICH RESISTOR YOU ADD WHERE; JUST FIX TH
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
-- 1 × 500 Ωs
-- 1 × 200 Ωs
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
+- 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>s
+- 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>s
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -706,8 +862,17 @@ THE AMMETER A1 MUST MAKE SOUND IF S1 OR S2 (OR BOTH) ARE ON.
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -735,7 +900,13 @@ BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER AT THE LOCATION WITH THE HIGHEST C
 
 #### AVAILABLE PARTS
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -751,6 +922,9 @@ BUILD THE CIRCUIT BELOW. THEN ADD THE AMMETER IN A WAY THAT MAKES IT PRODUCE THE
 
 #### AVAILABLE PARTS
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -768,8 +942,17 @@ BUILD THE STARTING SETUP AND LISTEN TO THE PITCH PRODUCED BY THE AMMETER. THEN M
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -786,9 +969,21 @@ WHEN S1 IS ON, A1 MUST MAKE A HIGHER PITCH SOUND THAN WHEN S1 IS OFF.
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -805,7 +1000,13 @@ COMPLETE THE CIRCUIT BY CONNECTING JUNCTION J1 TO JUNCTION J2.
 
 #### AVAILABLE PARTS
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -841,9 +1042,21 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 3× Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -865,9 +1078,21 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -883,10 +1108,25 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -902,6 +1142,9 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 8 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -923,6 +1166,9 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -938,10 +1184,25 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -970,7 +1231,13 @@ MAKE THE BATTERY CHARGE THE CAPACITOR.
 
 #### AVAILABLE PARTS
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -989,8 +1256,17 @@ BUILD A CIRCUIT THAT CHARGES THE CAPACITOR WHEN THE SWITCH IS TURNED ON. IT SHOU
 
 #### AVAILABLE PARTS
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -1006,9 +1282,21 @@ BUILD A CIRCUIT THAT CHARGES THE CAPACITOR AT A SLOWER RATE THAN THE LAST CHALLE
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1023,7 +1311,13 @@ BUILD A CIRCUIT THAT MAKES A SHORT SOUND WHEN S1 IS TURNED ON FOR THE FIRST TIME
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1041,7 +1335,13 @@ BUILD A CIRCUIT WHERE S1 CHARGES C1 AND S2 DISCHARGES C1.
 
 #### AVAILABLE PARTS
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1056,7 +1356,13 @@ MAKE THE CAPACITOR CHARGE **AND** DISCHARGE SLOWER.
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1070,7 +1376,13 @@ MAKE THE CIRCUIT SAFE, SO THAT THERE ISN'T A SHORT WHEN S1 AND S2 ARE PRESSED AT
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1083,7 +1395,13 @@ MAKE THE CIRCUIT MAKE NOISE EVERY TIME C1 IS CHARGED OR DISCHARGED.
 
 #### AVAILABLE PARTS
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1103,10 +1421,25 @@ THE CAPACITOR (C1) MUST CHARGE WHILE THE SWITCH (S1) IS ON AND MUST DISCHARGE WH
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1122,11 +1455,29 @@ BUILD A CIRCUIT THAT BEHAVES IN THE FOLLOWING WAY:
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1143,8 +1494,17 @@ BUILD A CIRCUIT THAT CONTINUES TURNING A1 EVEN WHEN THE POWER IS SHUT OFF FOR A 
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1182,8 +1542,17 @@ MEASURE THE VOLTAGE PRODUCED BY THE BATTERY. USE A RESISTOR TO KEEP IT FROM OVER
 #### AVAILABLE PARTS
 
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★☆☆☆☆
 
@@ -1196,7 +1565,13 @@ THE BATTERY'S VOLTAGE SHOULD HAVE BEEN ROUGHLY +6 V. NOW BUILD A CIRCUIT THAT SE
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1236,8 +1611,17 @@ IN THE CIRCUIT BELOW, THE BATTERY SLOWLY DISCHARGES INTO R1. DOES THE BATTERY'S 
 
 #### AVAILABLE PARTS
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1276,9 +1660,21 @@ This is the symbol for a capacitor. Like this:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1295,9 +1691,21 @@ BUILD A CIRCUIT THAT SETS THE VOLTAGE ACROSS C1 TO APPROXIMATELY 5 V. (BETWEEN 4
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1356,8 +1764,17 @@ MODIFY THE CIRCUIT BELOW TO MEASURE THE VOLTAGE DROP ACROSS R2. IN OTHER WORDS, 
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Capacitor (0.001 F)
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/ywxLN0P.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1373,8 +1790,17 @@ WHEN SWITCH S1 IS ON, C1 SHOULD SHOW 0 V. WHEN S1 IS OFF, C1 SHOULD SHOW APPROXI
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1420,8 +1846,17 @@ THE VOLTMETER (CAPACITOR) C1 MUST SHOW 0 V IF S1 AND S2 ARE ON. OTHERWISE IT MUS
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 4 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1466,8 +1901,17 @@ IF S1 OR S2 ARE ON, THE VOLTMETER C1 MUST SHOW 0 V. OTHERWISE, IT MUST SHOW ABOU
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1485,10 +1929,25 @@ WHEN THE SWITCH S1 IS OFF, A1 SHOULD TURN FASTER THAN WHEN S1 IS ON.
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★★☆
 
@@ -1526,6 +1985,9 @@ R1 MUST TURN COUNTERCLOCKWISE AND R2 MUST TURN CLOCKWISE.
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1537,6 +1999,9 @@ R1 AND R2 MUST BOTH TURN CLOCKWISE.
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1549,7 +2014,13 @@ BUILD A CIRCUIT THAT MAKES THE BATTERY UNABLE TO TURN.
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1596,6 +2067,9 @@ IF CORRECT:
 
 #### AVAILABLE PARTS
 - 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1614,6 +2088,9 @@ IF CORRECT:
 #### AVAILABLE PARTS
 
 - 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1629,7 +2106,13 @@ BUILD A CIRCUIT WHERE ALL THREE RESISTORS ARE IN PARALLEL AND THEY ALL TURN CLOC
 
 #### AVAILABLE PARTS
 - 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1689,8 +2172,17 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1707,9 +2199,21 @@ BUID THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1727,9 +2231,21 @@ BUILD THE FOLLOWING CIRCUIT:
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 1 × Ammeter
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/c2cGliy.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1748,6 +2264,9 @@ PUT +12 V ACROSS CAPACITOR C1. IT WILL MAX OUT THE VOLTAGE READING. THE CIRCUIT 
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1762,7 +2281,13 @@ Put +3  V ACROSS C1.
 
 #### AVAILABLE PARTS
 - 3 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★☆☆☆
 
@@ -1780,8 +2305,17 @@ MODIFY THE CIRCUIT TO MAKE THE AMMETER A1 SPIN FOUR TIMES FASTER.
 
 #### AVAILABLE PARTS
 - 5 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1794,8 +2328,17 @@ MODIFY THE CIRCUIT TO MAKE THE AMMETER A1 SPIN THREE TIMES FASTER.
 
 #### AVAILABLE PARTS
 - 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 × Switch
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/HDJweSl.png" alt="Image" width="8%">
+	</div>
 - 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★★☆
 
@@ -1808,9 +2351,21 @@ BUILD A CIRCUIT THAT CAN'T MOVE AT ALL.
 
 #### AVAILABLE PARTS
 - 1 × 1000 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/VuQ2evV.png" alt="Image" width="8%">
+	</div>
 - 2 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 
 #### DIFFICULTY: ★★★☆☆
 
@@ -1827,7 +2382,13 @@ WHEN S1 IS ON, A1 MUST TURN CLOCKWISE. WHEN S2 IS ON, A1 MUST TURN COUNTERCLOCKW
 
 #### AVAILABLE PARTS
 - 6 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★★☆
 
@@ -1840,9 +2401,21 @@ WHEN S1 IS OFF, A1 MUST TURN CLOCKWISE. WHEN S1 IS ON, A1 MUST TURN COUNTERCLOCK
 
 #### AVAILABLE PARTS
 - 1 × 500 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/MAay07O.png" alt="Image" width="8%">
+	</div>
 - 7 × Chain
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/0X4m4YM.png" alt="Image" width="8%">
+	</div>
 - 1 × 200 Ω
+	<div style="text-align: left;">
+	<img src="https://i.imgur.com/bip0kxG.png" alt="Image" width="8%">
+	</div>
 - 2 × Junction
+    <div style="text-align: left;">
+        <img src="https://i.imgur.com/5UAaJ3l.png" alt="Image" width="8%">
+    </div>
 
 #### DIFFICULTY: ★★★★★
 
